@@ -1,0 +1,550 @@
+﻿5348: Please escort me to the
+audience chamber.
+---
+5349: {:unk13 00 01 40 01}{:unk08 02 00 06}Escort Minnie?
+{:chardelay 33 00}Please wait a moment.
+{:chardelay 09 00}Okay, let´s go!
+---
+5350: The Hall of the Cornerstone is
+beneath the {:theme 0A}audience chamber{:reset}.{:clear }You should be able to find
+a way to save the castle{:clear }through that door.
+Please be careful, Sora.
+---
+5351: I found the most lovely place.
+I´m sure Donald will like it.{:clear }So hurry back, okay?
+And come back in one piece!
+---
+5352: I´m sure Merlin
+will help.{:clear }Please, go to Hollow Bastion
+and tell him about the castle.
+---
+5353: There should be a door identical
+to this one in that world.{:clear }You must use your power to
+close it!
+---
+5354: Oh no! Oh no!
+The castle´s in danger!{:clear }You must go see Her Majesty
+at once! She´s in the library!
+---
+5355: This is the Gummi Ship hangar.
+Normally it´s a madhouse here.{:clear }If you follow the lawn from here,
+you´ll arrive at the castle entrance.
+---
+5368: Oh...hmm. Now I wonder where
+that old album could be.
+---
+5369: Queen Minnie!
+---
+5370: It´s horrible!
+---
+5371: Somethin´s wrong in the Hall of the Cornerstone!
+---
+5372: There´s real sharp thorns everywhere!
+---
+5373: Oh, King Mickey, I wish you could hear me.{:delay BE 00}{:clear }The castle is in danger!
+We´ve got to do something soon!
+---
+5374: Donald... Goofy...
+---
+5375: Where are you?
+---
+5376: This is your castle...
+---
+5377: Must be nice to be home, huh?
+---
+5378: Well?
+---
+5379: Ya know, somethin´ just don´t feel quite right...
+---
+5380: Yeah.
+---
+5381: You´re back!
+---
+5382: Move it! Let´s go!
+---
+5383: Queen Minnie needs to see you!
+---
+5384: The castle´s in danger! Hurry! To the library!
+---
+5385: Your Majesty! Queen Minnie! We´re back!
+---
+5386: You´re here!
+---
+5387: Your Royal Highness,
+did ya happen to summon us?
+---
+5388: Yes.
+---
+5389: Where´s the King?
+---
+5390: Excuse him. This is our friend, Sora.
+---
+5391: Oh, Sora!
+---
+5392: The King told me
+all about you in his letters.{:delay A0 00}{:clear }{:delay 1E 00}{:clear }He said you´re a very brave young man.
+---
+5393: So, do you know where he is?
+---
+5394: Your Majesty, what are Heartless
+doing in your castle?
+---
+5395: Oh my... So those are the Heartless.
+---
+5396: Don´t worry, we´ll take care of ´em!
+---
+5397: I know I can count on you, Sora.{:delay 78 00}{:clear }{:delay 28 00}{:clear }Now, there´s something I´d like
+all of you to come and see.{:delay DC 00}{:clear }{:delay 1E 00}{:clear }Would you please escort me to the
+audience chamber?
+---
+5398: Hut!
+---
+5399: 
+---
+5400: I forgot to warn everyone else
+in the castle about the danger!{:delay BE 00}{:clear }We must be sure they´re hidden
+somewhere safe!
+---
+5401: Okay, we´ll go tell them.
+---
+5402: The whole castle!?
+---
+5403: We just gotta split up, Donald.
+---
+5404: I´ll make sure that everyone knows
+what´s going on.
+---
+5405: No, Sora, you´ll just get lost!
+---
+5406: Okay. Then I´ll stay with the Queen.
+---
+5407: Good!
+---
+5408: All righty then, see ya later!
+---
+5409: Um, the audience chamber, right, ma´am?
+---
+5410: Yes, Sora.
+Let´s be on our way.
+---
+5415: Just one moment.
+---
+5416: As soon as the trouble started,
+I made sure to seal this room.
+---
+5417: Now then...shall we?
+---
+5418: Not here, too!
+---
+5419: I got ´em.
+---
+5420: Come on, gimme a break!
+---
+5421: Huh?
+---
+5422: Whoa...
+---
+5423: The room below is called
+the ´Hall of the Cornerstone.´
+---
+5424: Our castle has always been
+safe from worlds that are evil...
+---
+5425: thanks to the Cornerstone of Light
+which we keep down there.
+---
+5426: The Cornerstone...of Light?
+---
+5427: This is the castle´s cherished Cornerstone.{:delay B4 00}{:clear }{:delay 64 00}But look.
+---
+5428: The thorns...
+---
+5429: I wonder what this could mean...
+---
+5430: Maleficent!
+---
+5431: No way!
+---
+5432: Well, well, well. What have we here...?
+---
+5433: If it isn´t the wretched Keyblade holder,
+and his pitiful lackeys!
+---
+5434: What!? Now you´re gonna deal with me!
+---
+5435: All in good time.
+---
+5436: I promise you´ll be able to partake
+of my vengeance. But you must be patient.
+---
+5437: Just what are you doing here, Maleficent!?
+---
+5438: Ah, Queen Minnie. Radiant, as always.
+---
+5439: However, it´s a bit too "bright"
+for what I have in mind.{:delay 0E 01}{:clear }I suppose I´ll just have to fill every room
+with my personal touch of darkness.
+---
+5440: You´d better stop right now
+if you know what´s good for you!
+---
+5441: Ooh, how frightening.
+---
+5442: Very well. I´ll stop...
+---
+5443: What a hag.
+---
+5444: Nothing like this has ever happened before.{:delay A2 00}{:clear }I looked through all the records in the library,
+but I couldn´t find a single clue.
+---
+5446: Ohhh!
+---
+5447: 
+---
+5448: We should go ask somebody who knows
+lotsa stuff that ain´t in any book!
+---
+5449: Merlin the Wizard!
+---
+5450: Yes! That´s perfect!
+---
+5451: Merlin just might know
+something about this mess.{:delay F0 00}{:clear }Let´s ask his advice!
+---
+5452: We saw him in Hollow Bastion, right?
+---
+5453: Yeah. Let´s go!
+---
+5454: There's Heartless in every part of the castle...
+---
+5455: The Queen is in danger!
+---
+5456: 
+---
+5457: Perhaps, I´d better just see for myself.
+---
+5458: Mm-hmm...{:delay 42 00}{:clear }interesting...
+---
+5459: What´s happening, Merlin?
+---
+5460: This is not good.
+In fact, I´m afraid, it´s quite serious.
+---
+5461: 
+---
+5462: What´s that?
+---
+5463: My boy, that is a gateway to a special world.
+---
+5464: Someone in that world is responsible for
+what´s going on in this castle.{:delay F0 00}{:clear }Of that, I´m certain.
+---
+5465: Oh boy!
+---
+5466: We knew we could count on you, Merlin!
+---
+5467: Then we should go get him!
+---
+5468: Wait a moment!
+---
+5469: The perpetrators must be stopped, of course.
+But there´s something else to do first.
+---
+5470: Somewhere in that world, there should be
+another door that´s identical to this one.
+---
+5471: I believe our enemies are utilizing that door.{:delay EA 00}{:clear }As long as it remains open,
+the castle will be in grave danger.
+---
+5472: Listen carefully, Sora. You must find that door.
+And when you do--lock it with your Keyblade.
+---
+5473: Got it.
+---
+5474: You can count on us!
+---
+5475: Now, one more thing.
+You´re heading into a very special world.
+---
+5476: While you´re there, the nature of that world
+may tempt you to do something dark.{:delay 20 01}{:clear }You must resist that temptation at all costs!
+---
+5477: What do you mean?
+---
+5478: You´ll know soon enough.
+I have faith in you, my lads!
+---
+5479: The thorns have disappeared!
+---
+5480: By george!
+The lads have accomplished their mission.
+---
+5481: Hooray!
+---
+5482: Let´s have an acorn feast to celebrate!
+---
+5483: Welcome back!
+---
+5484: Because of your bravery,
+the castle is safe and protected again.{:delay EA 00}{:clear }Thank you so much for all you´ve done!
+---
+5485: Good work, you guys!
+---
+5486: Now boys, I hope you didn´t do anything
+reckless while you were there?
+---
+5487: Of course not!
+---
+5488: Daisy!
+---
+5489: Daisy, I´m back!
+---
+5490: Who?
+---
+5491: Daisy is Donald´s very special sweetheart.
+---
+5492: Really...
+---
+5493: 
+---
+5494: Donald, you forgot about our date again!
+You´d better have a good excuse this time!
+---
+5495: But Daisy...I...
+---
+5496: I know it´s an important mission, but you
+could at least check in every once in a while.
+---
+5497: Sora!
+---
+5498: Donald!
+---
+5499: Just be a minute...
+---
+5500: Going somewhere?
+---
+5501: Of course not!
+---
+5502: Donald!
+---
+5503: Oh, look!
+---
+5504: 
+---
+5505: Daisy, we need Donald for just a little longer.
+---
+5506: How much longer?
+---
+5507: Um, well...
+---
+5508: I´ll be back soon, Daisy!
+---
+5509: Don´t you worry, Queen Minnie. We´ll return.
+---
+5510: Please tell the King that
+we´re still looking for him!
+---
+5511: I will!
+---
+5512: See you soon!
+---
+5513: Think wisely!
+---
+7778: I´m here on a property venture.
+I want this castle for my own.
+---
+7779: Just as soon as the castle belongs to me!
+---
+7780: They must be the work of someone very evil.
+---
+7973: The King is out there
+somewhere, doing all he can.{:clear }I´ll do my best, too, but most of
+all, we need your help!
+---
+8095: Protect Minnie while heading to the throne!
+---
+8096: Protect Minnie while heading to the throne!
+Using reaction commands with {:icon dynamic-triangle}
+will make the battle easier!
+---
+13874: I knew Merlin would help!{:clear }Still, our problem´s not solved.
+Sora, I´m counting on you!
+---
+13949: If you defeat an enemy quickly in a Gummi
+battle, sometimes another enemy appears.{:clear }It´s more work for you, but you
+might encounter a rare enemy!
+---
+13950: We´ll design up a Gummi Ship
+while you´re collecting gummies.{:clear }Gather as many as possible. We´ll let
+you know when the plan is ready.
+---
+14274: Protect Minnie while heading to the Audience Chamber!
+---
+14275: Protect Minnie while heading
+to the Audience Chamber!
+Using reaction commands with {:icon dynamic-triangle}
+will make the battle easier!
+---
+14422: Minnie´s in danger!
+---
+14423: Minnie´s in danger!
+---
+16042: With the Hall of the Cornerstone
+like that, this is a major crisis!{:clear }If only the King were here! Still, I feel
+better with you here.
+---
+16043: Wow, Merlin can even create
+doors to other worlds!{:clear }Please hurry to the Hall of the
+Cornerstone and fix the castle!
+---
+16044: We´re going to see Merlin, right?{:clear }The Gummi Ship´s ready to fly.
+Let´s get over to Hollow Bastion!
+---
+16045: Wow, another world...
+I´d kind of like to go, too.
+---
+16122: The audience chamber is
+through the {:theme 0A}large door {:reset}in the hallway.{:clear }Now hurry, Sora!
+---
+16123: All these enemies are getting
+in my way.{:clear }Sora, help me
+defeat them.
+---
+16124: All that´s left now is to go to
+the {:theme 0A}audience chamber{:reset}. Hurry, Sora!
+---
+16969: This statue looks familiar.
+---
+16970: This statue looks familiar.
+---
+16971: This must be the King´s throne.
+---
+16972: This must belong to Pluto.
+---
+16973: You see a letter to someone.
+---
+16974: "Disney Castle is protected by
+magical power."
+---
+16975: "Sitting on his throne, the King
+guards the locked chamber."
+---
+16976: "If the holy light is lost, the castle
+will be swallowed in darkness."
+---
+16977: Could this be the King?
+---
+16978: Maybe one of the King´s ancestors?
+---
+16979: He seems to want to take you somewhere.
+---
+16980: {:unk08 02 00 06}Follow him?
+{:chardelay 33 00}No thanks.
+{:chardelay 09 00}Lead the way!
+---
+16981: It is magically locked.
+---
+16982: It´s emitting a strange light.
+---
+16983: It´s glowing brilliantly.
+---
+18407: NOT IN GAME
+---
+19207: The servant appears too busy
+cleaning to speak with you.
+---
+19757: 
+---
+20218: {:unk08 02 00 06}Where could this lead?
+I don't have a good feeling about this.
+{:chardelay 33 00}Let's leave it alone.
+{:chardelay A1 00}Let's check it out!
+---
+20219: {:unk08 02 00 06}The man in armor is on the other side.
+{:chardelay 33 00}Let's come back later.
+{:chardelay A1 00}I can take him again!
+---
+20332: I feel some sort of power,
+but it's not Maleficent.{:clear }I don't believe the castle's in any danger,
+but this whole thing is quite unsettling.
+---
+20333: Something strange is happening in the {:theme 0A}Hall of the Cornerstone{:reset}!
+Can you investigate what's going on?{:clear }And Goofy, as captain, you are responsible
+for protecting the castle from any danger.
+---
+20334: The hole is emanating a great power!{:clear }I don't know what it is or
+what it wants, but be careful!
+---
+20335: Look over there, Sora!
+That big hole appeared out of nowhere!{:clear }I thought the castle was safe again.
+What's going on?
+---
+20336: It's acting more flustered than usual. It seems
+there's something afoot inside the {:theme 0A}castle{:reset}.
+---
+20548: Defeat the mystery man!
+He's stronger than any previous foe.
+Can you overcome his power?
+---
+21409: Aqua... Ven...
+---
+21410: A Keyblade?{:delay 73 00}{:clear }Who are you?
+---
+21411: I know you. We've met before,{:delay B9 00}{:clear }way back when.
+---
+21412: No, that wasn't you.{:delay 69 00}{:clear }You're not the one I chose.
+---
+21413: Where is he?
+---
+21414: Xe...ha...nort...
+---
+21415: Is that you?
+---
+21416: 
+---
+21417: Xeha...nort...
+---
+21418: Xehanort!
+---
+21419: It's not over yet!
+---
+21420: That's it. Your power.{:delay 78 00}{:clear }That's what I felt within you.
+---
+21421: {:unk13 D7 00 42 00}{:unk06 01}{:unk08 03 00 05}We meet again,
+young Keyblade master.
+---
+21422: {:unk13 76 01 3C 00}{:unk06 01}{:unk08 03 00 05}I have nothing more to
+bestow on you.{:clear }The only thing I have left
+is my contempt for Xehanort.{:clear }Are you willing to take on
+that burden?
+---
+21425: {:unk13 96 00 DC 00}{:unk06 02}{:unk08 03 01 06}Oh, Sora!
+What great timing!
+---
+21426: {:unk13 86 01 DC 00}{:unk06 02}{:unk08 03 00 05}It's just terrible!
+Will you look at that!?
+---
+21427: {:unk13 68 01 D2 00}{:unk06 00}{:unk08 01 00 07}I came to check on the Cornerstone
+of Light, and that's when I saw it!
+I don't know how long it's been there.
+---
+21428: {:unk13 F0 00 E6 00}{:unk06 00}{:unk08 01 01 06}It looks like it leads somewhere.
+But where?
+---
+21429: {:unk13 B4 00 50 00}{:unk06 00}{:unk08 01 01 05}Do you think it's connected to
+the past like the other one?
+---
+21430: {:unk13 5E 01 50 00}{:unk06 00}{:unk08 01 00 06}Or maybe that's what the Organization
+wants us to think. It might be a trap!
+---
+21431: {:unk13 54 01 50 00}{:unk06 00}{:unk08 01 01 05}Whatever the case, we should be prepared
+for anything if we're going to check it out.
+---
+21625: All commands have been locked! Something must be done!
+---
+21626: Commands have been unlocked!
+---
+21627: Some commands have been locked! Something must be done!
+---
+21628: All commands have been unlocked!
+---

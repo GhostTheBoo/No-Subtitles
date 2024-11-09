@@ -1,0 +1,74 @@
+﻿16794: Kairi! Wait up!
+---
+16795: Hey, do you feel like going out to the
+island?{:delay AA 00}{:clear } {:delay 32 00}{:clear }Tidus and Wakka are all wrapped up in
+their ball game and they won´t go with me.
+---
+16796: Not today, sorry.
+---
+16797: Aw, why not?
+---
+16798: Do you remember those boys
+who used to hang out with us?
+---
+16799: Riku?
+---
+16800: Yeah.
+---
+16801: I wonder whatever happened to him.
+I sure miss him.
+---
+16802: He´s far away.
+But I know we´ll see him again.
+---
+16803: Sure. Of course we will.
+---
+16804: And the other boy?
+---
+16805: What other boy?
+---
+16806: The one who was with Riku
+and me all the time--{:delay 97 00}{:clear }we played together on that island.{:delay 89 00}{:clear } {:delay 4B 00}{:clear }His voice always used to be there...
+but now it´s gone.{:delay 13 01}{:clear }I can´t think of his face, or his name.{:delay A2 00}{:clear } {:delay 32 00}{:clear }I feel awful about it.{:delay 64 00}{:clear } {:delay 28 00}{:clear }So I told myself--{:delay 6E 00}{:clear } {:delay 22 00}{:clear }I´m not going to the island until
+I remember everything about him.
+---
+16807: Are you sure you didn´t make him up?
+---
+16808: Naminé?
+---
+16809: Are you okay?
+---
+16810: Kairi...?
+---
+16811: What´s that?
+---
+16812: A letter... I wrote it yesterday,{:delay C6 00}{:clear } {:delay 0A 00}{:clear }to the boy I can´t remember.{:delay 6B 00}{:clear } {:delay 0A 00}{:clear }I said that no matter where he is...
+I´ll find him. One day.{:delay F5 00}{:clear } {:delay 28 00}{:clear }And when I stopped writing, I remembered
+we made a promise, something important.{:delay 77 01}{:clear } {:delay 0F 00}{:clear }This letter is where it starts. I know it.
+---
+16813: Wow... I hope he gets it.
+---
+16814: He will.
+---
+16815: Starts with an "S."
+---
+16816: Right, Sora?
+---
+16817: Restoration at 79%.
+---
+16818: Maybe...waiting isn´t good enough.
+---
+16819: My thoughts exactly!{:delay 64 00}{:clear }If you have a dream, don´t wait. Act.{:delay BA 00}{:clear }One of life´s little rules. Got it memorized?
+---
+16820: Who are you?
+---
+16821: Axel.{:delay 5A 00}{:clear }I happen to be an acquaintance of Sora´s.
+---
+16822: Why don´t we go see him?
+---
+16823: ...Sora?
+---
+16824: We´ve got something in common, Kairi.{:delay AF 00}{:clear }You and I both miss someone we care about.{:delay ED 00}{:clear }Hey...I feel like we´re friends already.
+---
+16825: You´re not acting very friendly!
+---

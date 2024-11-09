@@ -1,0 +1,1557 @@
+﻿6208: Open Menu
+---
+6209: Port Royal
+---
+6210: The Black Pearl
+---
+6211: Isla de Muerta
+---
+6212: Ship Graveyard
+---
+6217: Go
+---
+6218: Quit
+---
+7781: Will, look!
+---
+7782: What now?
+---
+7783: I wonder what Jack would do.
+---
+7784: I´m not sure.{:delay 6B 00}{:clear }I suppose...he´d run for it.
+---
+7785: Sounds good to me.
+---
+7786: Will!
+---
+7787: Everyone hit the deck!
+---
+7788: We´re just gonna have to fight!
+---
+7789: Now, let´s be tryin´ this again! The last
+of the Aztec treasure has been returned.
+---
+7790: And now, the blood will be repaid to
+free us from this curse forever!
+---
+7791: This time for sure!
+---
+7792: Ahoy! Treasure, mateys!
+---
+7793: Not possible.
+---
+7794: Not probable! We´re alive
+and we´re pirates!
+---
+7795: Captain Jack Sparrow!
+---
+7796: Sora!
+---
+7797: Donald Duck!
+---
+7798: Goofy, too.
+---
+7799: So you want to play pirate? Best save
+the playacting for the nursery.{:delay 05 01}{:clear }After them!
+---
+7800: No more playacting now!
+---
+7801: Thank you, Sora.
+---
+7802: Uh, where´s Jack?
+---
+7803: Jack! Get him!
+---
+7804: Huh?
+---
+7805: Jack!
+---
+7806: You´re a fool, Jack Sparrow.
+---
+7807: Jack...
+---
+7808: Show yourself, Pete!
+The tide has changed.
+---
+7809: See? I told ya you´d
+be needin´ ol´ Pete!
+---
+7879: Elizabeth is the governor's daughter.
+It's hard to imagine, isn't it?{:clear }She's from a completely different world
+compared to a blacksmith like me.
+But that doesn't seem to matter.
+---
+7880: I wish I could go with you...
+Please bring Will back.{:clear }They´re probably holding him in
+the {:theme 0A}back of that cave{:reset}, where they held me.
+---
+7881: We have to hurry and rescue Miss Swann!
+Are you ready to leave port?
+---
+7882: {:unk13 00 01 40 01}{:unk08 02 00 06}Board the ship and leave?
+{:chardelay 33 00}I´m not ready yet.
+{:chardelay 09 00}I´m ready!
+---
+7883: I fought with Jack once.
+Afterwards he was sent to jail.{:clear }He didn´t stay in there long, though.
+He´s a pirate to the core.
+---
+7884: If you want to change our course,
+why don´t you try asking?{:clear }It sure is a lot of work to move a ship,
+though. I´m pooped!
+---
+7885: If you get tired, you can rest in
+the cargo hold below.{:clear }Even if enemies attack,
+you should be safe there.
+---
+7886: When I was little, the ship I was on
+discovered Will drifting in the ocean.{:clear }After we picked him up, I found he
+was carrying... Um...never mind.
+---
+7887: They´ve rigged the ship
+with {:theme 0A}explosives{:reset}!{:clear }You have to throw them overboard
+once you get up to the deck!{:clear }Who knows what else they´ve done?
+Please be careful!
+---
+7888: This ship may look old,
+but she sure is fast.{:clear }If you need to rest, you can use
+the captain´s room below.
+---
+7889: Jack seems to think of this ship
+almost as a friend.{:clear }We´d better prepare ourselves,
+so no harm comes to it.
+---
+7890: Where did those monsters come from?
+There may be {:theme 0A}more of them nearby{:reset}.{:clear }Sorry, everyone, but I need some rest.
+Do be careful.
+---
+7891: I can´t believe they are trying to
+harness the power of the Aztec gold.{:clear }Those monsters will be invincible until we
+return all the medallions. We´d better hurry.
+---
+7892: We have to get to Port Royal!{:clear }We can´t let them run loose
+in town!
+---
+7893: How could Will have gone to {:theme 0A}Isla de Muerta{:reset}
+all by himself!? Oh, I hope he´s all right...
+---
+7894: Jack´s acting as strange as ever,
+but at least Will´s safe.{:clear }Still, for some reason
+I feel uneasy...
+---
+7895: {:theme 0A}Isla de Muerta, the ship graveyard...{:reset}
+Those monsters seem to like creepy places.{:clear }Maybe they feel at home in places like that.
+Personally those places make my skin crawl!
+---
+8117: Fight the pirates!
+---
+8119: Defeat the pirates!
+---
+8120: Defeat the pirates!
+Using magic will make the battle easier!
+---
+8121: Defeat all of the Heartless!
+---
+8122: Defeat all of the Heartless!
+Using reaction commands with {:icon dynamic-triangle}
+will make the battle easier!
+---
+8123: Defend yourself for one minute while awaiting the signal!
+---
+8124: Defend yourself for one minute
+while awaiting the signal!
+Using the moonlight will make
+the battle easier!
+---
+8125: Defeat all of the pirates, while protecting the medallion!
+---
+8126: Defeat all of the pirates while
+protecting the medallion!
+Using the cannons will
+make the battle easier!
+---
+8127: Get rid of the burning barrels!
+---
+8128: Get rid of the burning barrels!
+A Heartless attack can cause
+them to explode!
+---
+8129: Defeat all of the pirates!
+---
+8130: Defeat all of the pirates!
+Using magic will make the battle easier!
+---
+8131: Retrieve the medallion from the Nobody!
+---
+8132: Defeat the Nobody and
+retrieve the medallion!
+---
+9927: A Heartless is trying to blow up a barrel!
+---
+9935: Retrieve the medallion before the Nobody escapes!
+---
+9936: Retrieve the medallion from the Nobody in hiding!
+---
+9937: The Nobody will appear once all the pirates have been defeated!
+---
+9938: Find the Nobody hiding in the dark and retrieve the medallion!
+---
+9939: Retrieve the medallion before the Nobody escapes!
+---
+9940: Retrieve the medallion before the Nobody escapes!
+---
+9946: Wow!
+---
+9947: This place is...
+---
+9948: Kinda different.
+---
+9949: Something´s up.
+---
+9950: Organization {XIII}?
+---
+9951: Or the Heartless!
+---
+9952: Only one way to find out.
+---
+9953: Aztec treasure, eh?
+---
+9954: Aye! And thanks to the
+curse put on it,{:delay BE 00}{:clear }we are neither among the
+livin´ nor the dead.
+---
+9955: Really? ´Cause ya look like
+regular pirates to me.
+---
+9957: Whoa! Now I get what you were sayin´...
+---
+9958: Well, if you see two doofuses and a
+brat holdin´ a Keyblade, steer clear. {:delay 72 01}{:clear }They got a kinda magic that don´t
+belong in this world, see?{:delay F6 00}{:clear }And nobody knows what
+it´d do to ya.{:delay C6 00}{:clear }´Specially when the moon´s
+showing whatcha really are.
+---
+9959: A match for Barbossa, you say?
+---
+9960: Hey!
+---
+9961: See there? I knew it!{:delay AE 00}{:clear }Those are the punks I
+was tellin´ ya about.
+---
+9962: Who´re you calling punks? It´s Sora, Donald,
+and Goofy to you! And don´t you forget it!
+---
+9963: That we won´t. And we´ll engrave
+it on your tombstone, to be sure.
+---
+9964: Whoa! I like your style.
+---
+9965: Men--half of you stay here
+and indulge these cullies.{:delay AE 00}{:clear }The rest--bring me that medallion!
+---
+9966: Aye!
+---
+9967: Aw, we only get to stomp on a few of you?
+---
+9968: It´s no use! We can´t beat them!
+---
+9969: Aye, whaddya expect?
+---
+9971: You best be sayin´ your prayers!
+---
+9972: Hey, watch out! They can see ya!{:delay 80 00}{:clear }Stay away from their magic!
+---
+9973: What for?
+---
+9974: Weren´t you listenin´ to me before?
+---
+9975: Hey, Pete, thanks for the tip!
+---
+9976: {:unk13 1C 01 4E 00}{:unk08 01 01 06}Hey! This ain´t over!
+---
+9977: {:unk13 45 01 C6 00}{:unk08 01 00 01}If Pete´s here, that must
+mean we have work to do.
+---
+9978: {:unk13 54 01 0E 01}{:unk08 01 00 02}Yep.{:clear }And that pirate captain
+looked pretty mean, too.
+---
+9979: {:unk13 45 01 C6 00}{:unk08 01 00 01}Man, I´d hate to see him
+turn into a Heartless.
+---
+9980: {:unk13 C8 00 AF 00}{:unk08 01 00 05}Well, we ARE here...
+---
+9981: {:unk13 AB 00 39 00}{:unk08 01 01 07}Hey, maybe we can take a
+pirate ship out for a spin!
+---
+9982: {:unk13 C5 00 37 00}{:unk08 01 01 07}Just kidding!{:clear }Weren´t those guys
+headed into town?
+---
+9983: {:unk13 24 01 E6 00}{:unk08 01 00 01}Yeah. I think they were
+looking for treasure.
+---
+9984: Where are you taking me!? Let me go!
+---
+9985: Elizabeth!
+---
+9986: Stop!
+---
+9987: What are they?
+---
+9988: It´s the Heartless! Watch out!
+---
+9989: We´ll deal with them!
+---
+9990: Go! Take cover!
+---
+9991: {:unk13 B1 00 39 00}{:unk08 01 01 07}Well done!{:clear }My own fencing skills are
+not to be ashamed of...{:clear }but I´ve never faced
+foes such as that before.
+---
+9992: {:unk13 C8 00 EC 00}{:unk08 01 00 01}You really think we´re that good?
+---
+9993: {:unk13 16 01 F6 00}{:unk08 01 00 01}Did you find your friend?
+---
+9994: {:unk13 D5 00 39 00}{:unk08 01 01 07}I was too late. But
+I must rescue her!{:clear }Would you
+help me?
+---
+9996: {:unk13 C2 00 39 00}{:unk08 01 01 07}And I´m William Turner,
+but call me Will.
+---
+9997: {:unk13 BF 00 F5 00}{:unk08 01 00 01}Okay, Will.
+Let´s go!
+---
+9998: {:unk13 D9 00 39 00}{:unk08 01 01 07}Right. We´ve got to
+get to the docks!
+---
+9999: We´re too late!
+---
+10000: Huh?
+---
+10001: Those pirates kidnapped Miss Swann
+and took her to their ship.{:delay B4 00}{:clear } {:delay 35 00}{:clear }Now they´ve sailed, and I´ll
+never be able to find her!
+---
+10002: Then she´s long gone.
+The Black Pearl is nigh uncatchable.
+---
+10003: Best find yourself
+another girl, mate.
+---
+10004: You... What are you doing
+aboard the Interceptor?{:delay AE 00}{:clear } {:delay 39 00}{:clear }She´s off limits to civilians.
+---
+10005: Ah, fortunate that I´m going
+to commandeer her, then.{:delay BE 00}{:clear }She´ll make a fine
+pirate ship.
+---
+10006: A pirate!
+---
+10007: Captain Jack Sparrow, if you please.
+---
+10008: Take me with you. Help me hunt down
+the Black Pearl and save Miss Swann.{:delay EA 00}{:clear } {:delay 3A 00}{:clear }I got you out of that jail cell, Sparrow.
+Do this and your debt´s repaid.
+---
+10009: You´ll have to win fair
+lady´s heart alone, mate.{:delay 9D 00}{:clear }I see no profit in it for me.
+---
+10010: C´mon, Captain!
+---
+10011: Are you sure you can sail
+her, all on your own?
+---
+10012: You´ve a point there.
+---
+10013: Thanks, Sparrow.
+---
+10014: CAPTAIN Sparrow.
+---
+10015: I´m Sora. This is Donald and Goofy.
+---
+10016: I´m Will Turner.
+---
+10017: That would be short for
+William, I imagine.{:delay 89 00}{:clear }No doubt named for your father, eh?
+---
+10018: Yes.
+---
+10019: Well, then, Mr. Turner.{:delay 60 00}{:clear }You get us ready to make way.
+I´ve some effects to liberate.
+---
+10020: Aye aye! But hurry.
+---
+10021: Naturally.
+---
+10022: Sora...
+---
+10023: You really wanna be a pirate?
+---
+10024: Of course not!
+---
+10025: What do you make of this Will?
+---
+10026: I don´t know. We just met him.
+---
+10027: Hmm... I think my luck´s
+about to change.
+---
+10028: {:unk13 01 01 D1 00}{:unk08 01 00 05}Shall we be on our way?
+---
+10029: You can release me.{:delay 5A 00}{:clear } {:delay 39 00}{:clear }You have your trinket; I´m
+of no further value to you.
+---
+10030: This is no trinket, missy.
+This is cursed Aztec gold.{:delay 5C 01}{:clear }One of eight hundred and eighty-two identical
+pieces they delivered in a stone chest{:delay FC 00}{:clear }to Cortez himself.
+---
+10031: I hardly believe in ghost stories
+anymore, Captain Barbossa.
+---
+10032: That´s exactly what I thought.{:delay 77 00}{:clear }Buried on an Island of Dead
+what cannot be found{:delay A5 00}{:clear }´cept for those who know
+where it is.{:delay A5 00}{:clear }Find it, we did.{:delay 66 00}{:clear }There be the chest. Inside be the gold.
+And we took ´em all!{:delay 14 01}{:clear }We spent ´em and traded ´em and frittered
+´em away on drink and food and{:delay 14 01}{:clear }pleasurable company.{:delay 72 00}{:clear }The more we gave ´em away,
+the more we came to realize...{:delay 0B 01}{:clear }the drink would not satisfy,{:delay 8A 00}{:clear }and food turned to ash in our mouths.{:delay EA 00}{:clear }We are cursed men, Miss Turner.
+Compelled by greed, we were,{:delay FC 00}{:clear }but now...
+we are consumed by it.
+---
+10033: How very sad for you.
+---
+10034: {:delay 78 00}{:clear }There is one way we can end our curse.{:delay C1 00}{:clear }All the scattered pieces of the Aztec gold must
+be gathered and restored to the stone chest.{:delay 64 01}{:clear }And the blood of every soul who touched
+a piece o´ the treasure must be repaid.
+---
+10035: Miss Turner! For ten years we´ve searched
+every league of these waters,{:delay 50 01}{:clear }every town and village--preying
+on sailors and settlers alike!{:delay 4A 01}{:clear }Eight hundred and eighty-one pieces we found,
+but despaired of ever finding the last.{:delay 86 01}{:clear }All those years, you been safe in your bed,{:delay D8 00}{:clear }readin´ your pirate stories,
+dreamin´ of adventures on the high seas--{:delay 32 01}{:clear }we´ve endured torments
+worse than death itself!
+---
+10036: But now, thanks to ye,{:delay B4 00}{:clear }we have the final piece--
+at last.{:delay 14 01}{:clear }When this medallion is restored to the chest,
+we´ll be free to roam the seas as men.{:delay 92 01}{:clear }No longer will we be ghosts!
+---
+10037: And the blood that´s to be repaid?
+---
+10038: That´s why there´s no sense
+to be killin´ ye...yet.
+---
+10039: Ye see, the moonlight shows
+us for what we really are.{:delay 68 01}{:clear }We are not among the livin´,
+and so we cannot die.{:delay 3E 01}{:clear }But neither are we dead.{:delay CC 00}{:clear }I´ve suffered too long!
+---
+10040: You´d best start believin´ in
+ghost stories, Miss Turner.{:delay 3B 01}{:clear }For, you see, tonight--you´re in one!
+---
+10041: {:unk13 F2 00 9F 00}{:unk08 01 00 05}Why are you so fixated
+on that compass?
+---
+10042: {:unk13 6F 01 17 01}{:unk08 01 00 01}It´ll be she that leads
+us to the Isla de
+Muerta--{:clear }where Barbossa´s
+headed. Savvy?
+---
+10043: {:unk13 1E 01 90 00}{:unk08 01 01 06}How do you know?
+---
+10044: {:unk13 A4 00 DA 00}{:unk08 01 01 01}Ah, lad...{:clear }He and I once had our eyes
+on a treasure--Aztec gold.{:clear }´Twas hidden on the
+Isla de Muerta.{:clear }But he turned traitor
+and stole my ship.
+---
+10045: {:unk13 7A 01 99 00}{:unk08 01 00 01}So he´s after that
+treasure, then.
+---
+10046: {:unk13 B4 00 FC 00}{:unk08 01 00 02}Treasure´s
+already his.{:clear }So´s the curse upon it.{:clear }I´ve no desire for such
+treacherous spoils.{:clear }But I will have back
+what´s mine--{:clear }the Black Pearl.
+---
+10047: {:unk13 3D 01 FA 00}{:unk08 01 01 01}You lads
+wait here.{:clear }Young Turner and I
+will rescue the lady.
+---
+10048: {:unk13 B7 00 34 00}{:unk08 01 00 05}Hey! What about us?
+---
+10049: {:unk13 3D 01 FA 00}{:unk08 01 01 01}You´re to guard the
+ship, o´ course.{:clear }It´s a task given only
+to the bravest pirates.
+---
+10050: {:unk13 A3 00 36 00}{:unk08 01 00 05}All right...
+---
+10051: {:unk13 20 01 E2 00}{:unk08 01 01 02}Guard her well!
+---
+10052: {:unk13 F7 00 A7 00}{:unk08 01 00 01}Shall we?
+---
+10053: {:unk13 0E 01 39 00}{:unk08 01 00 05}I think he was just
+trying to fast-talk us...
+---
+10054: {:unk13 1B 01 A6 00}{:unk08 01 00 05}And you fell for it.
+---
+10055: {:unk13 E1 00 2C 00}{:unk08 01 00 05}What´s keeping those two?
+---
+10056: {:unk13 0C 01 3F 00}{:unk08 01 01 06}They sure are taking their time...
+---
+10057: {:unk13 4D 01 39 00}{:unk08 01 00 04}If Pete´s hanging around, there
+must be Heartless here, too.{:clear }And Jack and Will aren´t used
+to fighting Heartless...
+---
+10058: {:unk13 D6 00 2C 00}{:unk08 01 00 05}Let´s go see.
+---
+10059: Every last piece that went astray
+we have returned, save for this!
+---
+10060: And now, the blood will be repaid to
+free us from this curse forever!
+---
+10061: Quick, they´re after us!
+---
+10062: We´ll hold them off! Give us a sign
+when the ship´s ready to sail!
+---
+10063: Right! We´ll light the signal fire!
+---
+10064: The signal!
+---
+10065: {:unk13 DD 00 74 00}{:unk08 01 01 06}Where´s Jack?
+---
+10066: {:unk13 C4 00 85 00}{:unk08 01 00 05}Well...
+---
+10067: And now, the blood will be repaid to
+free us from this curse forever!
+---
+10068: No! Not yet.{:delay 47 00}{:clear } {:delay 44 00}{:clear }We wait for the opportune moment.
+---
+10069: When it´s of greatest profit to you?
+---
+10070: May I ask you something?
+---
+10071: Have I ever given you
+reason not to trust me?{:delay 91 00}{:clear }Stay here...
+and try not to do anything stupid.
+---
+10072: Begun by blood...by blood undone.
+---
+10073: You! Maid! Your father.
+Was your father William Turner!?
+---
+10074: No.
+---
+10075: What´s going on?
+---
+10076: Who brought this wench to us?
+---
+10077: She said her name was Turner!
+---
+10078: Hurry!
+---
+10079: You there!
+---
+10080: The medallion!
+---
+10081: After them, you ingrates!
+---
+10082: {:unk13 0A 01 39 00}{:unk08 01 00 05}I had to.{:clear }Jack´s no fairy-tale
+pirate. {:clear }The real ones aren´t
+to be trusted.
+---
+10083: {:unk13 11 01 39 00}{:unk08 01 00 05}We sail for Port Royal.
+I´ll take the helm.
+---
+10084: Is it true? You gave Barbossa
+my name instead of yours.
+---
+10085: Why choose my name?
+---
+10086: I don´t know.
+---
+10087: Elizabeth...where did you get that?
+---
+10088: It´s yours. From that day we
+found you--drifting at sea.
+---
+10089: After all this time...{:delay 3C 00}{:clear } {:delay 58 00}{:clear }I thought I´d lost it.{:delay 66 00}{:clear } {:delay 75 00}{:clear }It was a gift from my father...
+he sent it to me.
+---
+10090: I´m sorry.
+---
+10091: Why did you take it?
+---
+10092: Because I was afraid
+that you were a pirate.{:delay 12 01}{:clear }That would have been awful.
+---
+10093: Of course...{:delay 94 00}{:clear }Don´t you see?{:delay 2A 00}{:clear } {:delay 85 00}{:clear }It wasn´t your blood they needed...
+it was my father´s blood--
+---
+10094: My blood.{:delay BE 00}{:clear }The blood...{:delay 3C 00}{:clear } {:delay BA 00}{:clear }of a pirate.
+---
+10095: How the blazes did you get
+off that island, Jack?
+---
+10096: When you sailed away in my ship and marooned
+me on that godforsaken spit of land, {:delay 4A 01}{:clear }with naught but a pistol and a single shot,{:delay B0 00}{:clear }you forgot one very important thing, mate.{:delay AA 00}{:clear }I´m Captain Jack Sparrow.
+---
+10097: I won´t be makin´ that mistake again.
+---
+10098: Then what say you to puttin´ the past behind us,{:delay B1 00}{:clear }untying these ropes, and letting me negotiate
+the return of your medallion, eh?{:delay 0B 01}{:clear }What say you to that?
+---
+10099: Seein´ as how the Black Pearl´s mine now, Jack,{:delay DE 00}{:clear }lettin´ you go doesn´t seem
+to fall within my interest.
+---
+10100: Odd, {:delay 36 00}{:clear }I´m not actually concerned
+with YOUR INTEREST.{:delay C8 00}{:clear }Give me back the Pearl!
+---
+10102: All right! Lock him in the brig!
+---
+10103: We´re comin´ up on
+the Interceptor.{:delay 6F 00}{:clear }What do we do, Captain?
+---
+10104: Whaddya think, you idiot?
+---
+10105: Hooray!
+---
+10106: We beat the pirates!
+---
+10107: Well, did you now, laddie?
+---
+10108: Jack!
+---
+10109: 
+---
+10110: Now then, I´ll be having
+back that medallion.
+---
+10111: Unless it´s more important than their lives?
+---
+10112: Barbossa!
+---
+10113: She goes free!
+---
+10114: Go ahead, boy--shoot! We can't die.
+---
+10115: You can´t...{:delay 3C 00}{:clear } {:delay A8 00}{:clear }But I can.
+---
+10116: My name is Will Turner!{:delay 78 00}{:clear }My father was Bootstrap Bill Turner!
+His blood runs in my veins!
+---
+10117: On my word, do as I say,{:delay 74 00}{:clear }or I'll pull this trigger and be
+lost to Davy Jones's locker.
+---
+10118: Name your terms...Mr. Turner.
+---
+10119: Release Elizabeth...and Sora, and Donald,{:delay A4 00}{:clear }and Goofy, too!
+---
+10120: Anythin´ else?
+---
+10121: Leave--now!
+---
+10122: Agreed. Leave we shall...
+---
+10123: but the Heartless stay!
+---
+10125: No fair!
+---
+10126: {:unk13 95 01 74 00}{:unk08 01 00 02}Good work,
+Barbossa!{:clear }Who knew it´d
+be this easy?
+---
+10127: {:unk13 58 00 9B 00}{:unk08 01 01 05}Barbossa,
+you coward!
+---
+10128: {:unk13 1F 01 B9 00}{:unk08 01 00 05}That´s the last time
+I trust a pirate!
+---
+10129: {:unk13 C3 00 57 00}{:unk06 02}The powder kegs are
+ready, Captain!
+---
+10130: {:unk13 12 01 77 00}{:unk08 01 01 02}Then I bid ye farewell!
+---
+10131: {:unk13 32 01 49 00}{:unk08 03 01 05}{:unk06 02}What are we gonna do!?
+---
+10132: {:unk13 97 01 01 01}{:unk08 03 00 01}{:unk06 02}We´ll be blown
+to smithereens!
+---
+10133: {:unk13 55 01 0B 01}{:unk08 01 00 01}Why struggle, mate?{:clear }A pirate knows
+when to surrender.
+---
+10134: {:unk13 92 00 77 00}{:unk08 01 01 05}Are you serious, Jack?
+---
+10135: {:unk13 10 01 03 01}{:unk08 01 00 02}Your average pirate, anyway.
+---
+10136: {:unk13 64 01 A3 00}{:unk08 01 00 02}First, we´ve got to
+see to the gunpowder.{:clear }I´m not about to
+lose this ship!
+---
+10137: {:unk13 FE 00 DD 00}{:unk08 01 00 05}I still don´t plan to
+trust pirates again.
+---
+10138: {:unk13 93 01 7E 00}{:unk08 01 00 01}Wise policy, lad.
+---
+10139: All clear!
+---
+10140: That´s the second time I´ve had to
+watch that man sail away with my ship.{:delay D8 00}{:clear }But I´ll be havin´ her back soon enough.
+---
+10141: {:unk13 4C 01 50 00}{:unk08 01 00 05}You stay with
+the ship, lass!
+---
+10142: {:unk13 FA 00 39 00}{:unk08 01 00 04}I´ll do no such thing!
+Will could die in there.
+---
+10143: {:unk13 4C 01 50 00}{:unk08 01 00 05}Dear William is
+fine. Trust me.
+---
+10144: {:unk13 FC 00 2F 00}{:unk08 01 00 04}I am not a fool, Jack.
+---
+10145: {:unk13 A0 01 76 00}{:unk08 01 00 05}Then trust
+me instead!
+---
+10146: {:unk13 27 01 39 00}{:unk08 01 00 04}Sora, Donald, Goofy--
+bring Will back safely!
+---
+10147: This ain´t over!
+---
+10148: Right! Care to surrender, Barbossa?
+---
+10149: Well, enough of this, then...
+---
+10150: What say you we call it--a draw?
+---
+10151: Jack, how many times do I have to tell ya--
+---
+10153: Laugh while you can, Barbossa!
+---
+10154: I feel...cold.
+---
+10155: What now, Jack?
+---
+10156: Whatever I want, now that
+the Pearl is mine again.
+---
+10157: That she is.{:delay 3C 00}{:clear }{:delay 3C 00}{:clear }Thank you, Jack.
+---
+10158: I didn´t want ye hittin´ me again, mate.
+---
+10159: Hey, Jack--good luck.
+---
+10160: And remember to be good!
+---
+10161: I´m off.
+---
+10162: Will!
+---
+10163: Good for them.
+---
+10164: Uh-huh!
+---
+10165: Hey, Sora--{:delay 40 00}{:clear }how come your face is all red?
+---
+10166: What? It is not red!
+---
+10167: Aw, I know who you´re thinking about.
+---
+10168: 
+---
+10169: You know...for a minute there...{:delay 99 00}{:clear }I was afraid we were gonna lose Donald
+to the curse of the treasure!
+---
+10170: Yup. Me, too.
+---
+10171: What!?
+---
+10172: {:unk13 51 01 4D 01}{:unk08 01 00 01}That´s coming from the port.
+---
+10173: {:unk13 05 01 82 00}{:unk08 01 00 05}Let´s check it out.
+---
+10174: Jack!
+---
+10175: Zola! Some assistance!
+---
+10176: That´s SORA, Donald, and Goofy!
+---
+10177: Will ye leave a mate to perish?
+---
+10178: Aye aye...
+---
+10180: {:unk13 F3 00 39 00}{:unk08 01 00 04}Some scallywag
+must´ve got greedy.
+---
+10181: {:unk13 C8 00 39 00}{:unk08 01 00 05}Oh, I see...{:clear }You don´t trust
+me, do you?
+---
+10182: {:unk13 CF 00 39 00}{:unk08 01 00 05}Likely a wise choice.
+I AM a pirate, mates.
+---
+10183: {:unk13 69 00 96 00}{:unk08 03 00 04}{:unk06 02}Jack! Sora!
+---
+10184: {:unk13 16 01 9E 00}{:unk08 01 01 06}Elizabeth!
+---
+10185: {:unk13 87 00 1D 01}{:unk08 02 01 01}Some sticky business
+is afoot, I fear.
+---
+10187: {:unk13 FA 00 46 00}{:unk08 01 01 07}Aye, there it is.{:clear }If you´ll be wanting
+him rescued,
+best do it alone, lass.
+---
+10188: {:unk13 01 01 39 00}{:unk08 01 00 04}Alone? Really, Jack?{:clear }Sail to the island and take
+on the cursed pirates?
+---
+10189: {:unk13 03 01 2F 00}{:unk08 01 01 07}Well, if any lass could...
+---
+10190: {:unk13 E4 00 6A 00}{:unk08 01 01 05}Are you sure he´s in trouble?
+---
+10191: {:unk13 01 01 39 00}{:unk08 01 00 04}No. Not certain. But he´s
+been gone too long.{:clear }I wanted to go with him,{:clear }but he insisted
+I stay here.{:clear }I can´t just sit and wait!{:clear }I´ve got to know
+if he´s all right.
+---
+10192: {:unk13 1F 01 2F 00}{:unk08 01 01 07}Lucky man...
+---
+10193: {:unk13 D4 00 39 00}{:unk08 01 00 04}Please, Jack.
+Take me to him!
+---
+10194: {:unk13 FA 00 39 00}{:unk08 01 01 07}Hold a moment.{:clear }I see no profit
+in it for me.
+---
+10195: {:unk13 E8 00 39 00}{:unk08 01 00 04}I shall reward you.
+Of course...{:clear }you do owe Will.{:clear }He has saved your
+life before.
+---
+10196: {:unk13 B0 00 42 00}{:unk08 01 01 07}Right. Shall we?
+---
+10197: Interceptor off the starboard bow!
+---
+10198: Will!
+---
+10199: Stop that, Jack.
+---
+10200: We´ve got to rescue him!
+---
+10201: Will, wake up.
+---
+10202: {:delay 0A 01}{:clear }Elizabeth...
+---
+10203: What happened?
+---
+10204: The medallions...{:delay 55 00}{:clear }and...the stone chest--
+someone´s taken them...{:delay DF 00}{:clear } {:delay 54 00}{:clear }Next thing I knew, we were attacked...{:delay D3 00}{:clear }but I couldn´t see who it was--
+his face was shrouded...in a black hood.
+---
+10205: The Organization!
+---
+10206: We found a way out of the cave...{:delay A2 00}{:clear }but the villain sent a horde of
+terrible creatures after us...{:delay B4 00}{:clear } {:delay 42 00}{:clear }I´ve never seen their likes before...{:delay 60 00}{:clear } {:delay 60 00}{:clear }I think I´m the only one who
+made it back to the ship...
+---
+10207: Will...
+---
+10208: Elizabeth...{:delay 3C 00}{:clear } {:delay 36 00}{:clear }I feel rather...
+---
+10209: Our turn, guys.
+---
+10210: You´d best go prepared. We´ve
+no idea what´s out there.
+---
+10211: Pardon me, lads and lass,{:delay 72 00}{:clear }but your captain will have
+no monsters today.{:delay AE 00}{:clear }Thank ye. We´re turning for home.
+---
+10212: Just like that?
+---
+10213: Just like that!
+---
+10214: Don´t remember invitin´ you.
+---
+10215: So it was the Organization.
+We´ll handle this!
+---
+10216: The darkness of men´s hearts--drawn
+to these cursed medallions;{:delay 13 01}{:clear }and this Heartless--a veritable maelstrom
+of avarice: {:delay 1C 01}{:clear }I wonder, are they worthy to serve
+Organization {XIII}?
+---
+10217: And you want an answer now?
+---
+10218: Precisely!
+---
+10219: Oh, boy!
+---
+10220: Not over yet!
+---
+10221: Throw him overboard!
+---
+10222: Aye aye!
+---
+10223: Parley!
+---
+10224: ´Scuse me?
+---
+10225: Barley?
+---
+10226: It´s a bit of a pirates´ code.{:delay 60 00}{:clear } {:delay 24 00}{:clear }Anyone who invokes "parley" must not be
+harmed ´til negotiations are complete.
+---
+10227: This is no time for rules!
+---
+10228: True. But as we´re honorable pirates{:delay A2 00}{:clear }we should always stick to the Code.{:delay B4 00}{:clear }All right, you. Out with it!
+---
+10229: I surrender the chest
+with my humblest apologies.
+---
+10230: Rather accommodating of you, mate.{:delay 84 00}{:clear }And for that you want...?
+---
+10231: Just a few souvenirs...for the memories.
+---
+10232: Huh?
+---
+10233: Oh, no!{:delay 38 00}{:clear }We can´t stop the curse unless
+we got all the medallions!
+---
+10234: Our friend´s about to learn what
+it means to cross a pirate.
+---
+10235: Oh?
+---
+10236: Sora! Donald! Goofy! He´s yours!
+---
+10237: Fire!
+---
+10238: You stole a medallion again!?
+---
+10239: Were I only that fortunate...
+---
+10240: Fortunate?
+---
+10241: So, uh, how come you´re all skeleton-y?
+---
+10242: Perhaps I got a touch o´ somethin´ from
+that monster what attacked us.{:delay F0 00}{:clear }Yet, why´s the skin restin´
+right on you three?
+---
+10243: ´Cause we´re not greedy!
+---
+10244: What´re you looking at?
+---
+10245: That still doesn´t solve the mystery.
+---
+10246: Gawrsh...{:delay 42 00}{:clear }Maybe the reason we´re all okay is
+because we´re not from this world.
+---
+10247: There must be different laws.
+---
+10248: Yeah...{:delay 3C 00}{:clear }{:delay 36 00}{:clear }we´re always just passing through...
+---
+10249: Wonder when we´ll see home again...
+---
+10250: Sora...
+---
+10251: Just kiddin´ you.{:delay 6E 00}{:clear }Lucky we didn´t get cursed, huh?
+---
+10252: Quit yammerin´, mates!{:delay 4E 00}{:clear }We´ve got to find ourselves
+a ship that´ll float.
+---
+10253: Look!
+---
+10254: A medallion! Get it!
+---
+10255: Three more to go!
+---
+10256: How do you know?
+---
+10257: A pirate must have a keen eye.{:delay 78 00}{:clear }Else he won´t be sailin´ free
+for very long. Savvy?
+---
+10258: Huh? What´s that?
+---
+10259: Ahoy, mateys!
+---
+10260: Ridiculous imitation--
+and yet, I´m flattered.
+---
+10261: {:unk13 58 01 8C 00}{:unk08 01 00 02}Jack, what happened!?
+This is horrible!
+---
+10262: {:unk13 4E 01 39 00}{:unk08 01 00 05}Ah, but who´s to
+blame for it, eh?
+---
+10263: {:unk13 EE 00 D7 00}{:unk08 01 00 01}Well, it certainly isn´t Elizabeth.
+---
+10264: {:unk13 62 01 6E 00}{:unk08 01 00 06}It´s Organization {XIII}.{:clear }They´re the ones
+behind it all.
+---
+10265: {:unk13 D2 00 0A 01}{:unk08 01 01 01}Wonder where they went.
+---
+10266: {:unk13 94 00 AD 00}{:unk08 01 01 01}The hooded man took
+the pirates and his
+creatures with him{:clear }into some strange hole.{:clear }We saw them leave
+from inside the
+captain´s stateroom.
+---
+10267: {:unk13 0A 01 A6 00}{:unk08 01 01 02}Didn´t occur to you
+to fight them, mate?
+---
+10268: {:unk13 8A 00 9C 00}{:unk08 01 01 01}I´m no fool.{:clear }I knew I was no
+match for them.
+---
+10269: {:unk13 23 01 9D 00}{:unk08 01 01 02}That I believe.
+---
+10270: {:unk13 E3 00 39 00}{:unk08 01 00 04}Sora, I think we´ll
+need your help.
+---
+10271: {:unk13 7F 01 5C 00}{:unk08 01 01 05}Got it.
+---
+10272: {:unk13 F2 00 39 00}{:unk08 01 00 04}First, let´s find
+all the medallions.{:clear }Otherwise, the curse
+can´t be broken...{:clear }and the creatures
+will remain invincible.
+---
+10273: That´s four medallions!
+We got ´em all!
+---
+10274: But where´s the chest?
+---
+10275: If we find the hooded
+man, we´ll find it.
+---
+10276: Prob´ly in Port Royal.
+---
+10277: Why´s that?
+---
+10278: Organization {XIII} is after people´s hearts.{:delay AE 00}{:clear }So they´re gonna go
+wherever there´s lots of people.
+---
+10279: They´ll hurt the townsfolk?
+---
+10280: No, they´re bringin´ ´em flowers, mate.{:delay A3 00}{:clear }I don´t know who these Organizers are,{:delay 8A 00}{:clear }but I will say they´re makin´ we
+pirates look like proper gents.
+---
+10281: Well, Jack...{:delay 3C 00}{:clear }{:delay 54 00}{:clear }then...we have to help!
+---
+10282: Then let go and haul to run free!
+---
+10283: Go! He´s for me.
+---
+10284: Now to break that curse!
+---
+10285: The curse--it´s gone!
+---
+10286: Then what´s this?
+---
+10287: Aw, I understand.{:delay 7E 00}{:clear }Jack musta been cursed by that monster,
+not from takin´ the gold.
+---
+10288: Oh, I´ve no worries, then.
+---
+10289: It´s okay, Jack.{:delay 42 00}{:clear }We´ll just have to defeat the monster,
+that´s all.
+---
+10290: Get the gold!
+---
+10291: All better.
+---
+10292: Ah, not quite, mate.
+---
+10293: Sora, bravo.
+---
+10295: Just who was that chap?
+---
+10296: He´s part of an Organization that´s
+collecting hearts.{:delay C0 00}{:clear }First they release Heartless
+into different worlds.{:delay B4 00}{:clear }We defeat those Heartless.{:delay 72 00}{:clear }Then they get the hearts.{:delay 8A 00}{:clear }We´re never gonna stop ´em like this.
+---
+10297: What´s the plan, then?
+---
+10298: We´ve gotta find their stronghold and
+finish them off once and for all.
+---
+10299: Sailin´ these waters, I´ve heard
+some tales, but not a one like this.
+---
+10300: Is there any way we can help?
+---
+10301: 
+---
+10302: Anything at all?
+---
+10303: There is.
+---
+10304: It´s certain we don´t need the likes of that
+hooded fellow and the Heartless about.{:delay 12 01}{:clear }They´ll ruin the market for us true pirates.
+---
+10305: So that´s why you went to Port Royal.{:delay 82 00}{:clear }And we thought you actually
+wanted to save everyone.
+---
+10306: A pirate always looks to profit, Miss Swann.
+---
+10307: Too bad. You had us going there,
+thinking you´d turned over a new leaf.
+---
+10308: The question is, what´s beyond the leaf?
+Savvy?
+---
+10309: Oh...oh, yes--a reward. And what´ll it be?
+---
+10310: That lovely blade of Sora´s.
+---
+10311: Huh?
+---
+10312: Okay. Sure.
+---
+10313: Hold on! That was far too easy.{:delay A9 00}{:clear }What´s the rub?
+---
+10314: There, you see?
+---
+10315: Well, you´ve always got the Pearl, Jack.
+---
+10316: That I do.{:delay 50 00}{:clear }But someday, I´ll gather a blood-thirsty
+crew, and come to take that blade.{:delay 1A 01}{:clear }Chance by then I´ll have
+the way to wield it.
+---
+10317: And if I succeed, I´ll ask you two to
+join me. That´d be reward enough.
+---
+10318: Done.
+---
+10319: Maybe someday, Jack´ll be able
+to use the Keyblade after all.
+---
+10320: Why´s that?
+---
+10321: A-hyuck! He and Sora are
+kind of alike, dontcha think?
+---
+10322: Are not!
+---
+10323: Some say Jack Sparrow´s the worst
+pirate ever to sail the Spanish Main.
+---
+10324: No one could really mean that.
+---
+10325: Right. We know he´s the best.
+---
+10326: I hope we´ll get to see him again.
+---
+10427: Ah, but in the moonlight...
+---
+10431: It's an ambush! You'll have to defeat them all or escape within the ship!
+---
+10432: When Barbossa captured me,
+I didn´t want him to find out{:clear }I was the Governor´s daughter.{:clear }That´s why I told him the name Turner.
+I had no idea it would lead to all that!
+---
+14156: Defeat Barbossa with the help of Jack!
+---
+14157: Defeat Barbossa with the help of Jack!
+Defeat the Heartless creating darkness,
+then fight Barbossa!
+Using magic will make the battle easier!
+---
+15191: One more medallion to go! Search for Nobodies in other areas!
+---
+15192: Two more medallions to go! Search for Nobodies in other areas!
+---
+15193: The Nobody has escaped!
+---
+15229: Defeat the Nobody and retrieve the medallion
+before it escapes!
+---
+15230: Find the Nobody hiding in the dark
+and retrieve the medallion!
+---
+15231: Find the Nobody in hiding
+and retrieve the medallion!
+---
+15232: The Nobody will appear once all
+the pirates have been defeated!
+Using the moonlight will make
+the battle easier!
+---
+15233: Defeat the Nobody and retrieve the medallion
+before it escapes!
+---
+15234: Defeat the Nobody and retrieve the medallion
+before it escapes!
+---
+15851: You want to catch the {:theme 0A}Black Pearl{:reset}, right?
+If so, stop moseying around and let´s go.
+---
+15852: We´d better {:theme 0A}get back to Port Royal{:reset}.
+We should be safe there.
+---
+15853: Hey! Keep your hands off my helm!
+---
+15854: I don´t trust pirates, either,
+but I hope Jack´s all right.{:clear }First, we have to get Elizabeth back,
+though, so let´s {:theme 0A}return to Port Royal{:reset}.
+---
+15855: Teaming up with Heartless...
+that´s sinking pretty low even for pirates!{:clear }It looks like we have no choice now but to
+settle things on Isla de Muerta!
+---
+15856: I´m sure Jack will be all right.{:clear }He seems to be the kind of guy who
+can get out of any situation.
+---
+15857: Will was captured trying
+to help us.{:clear }I know our enemies are lying in wait
+for us, but we can´t just abandon him!
+---
+15858: Who knows where those guys might be?
+We´ll just have to look everywhere!{:clear }I doubt they´re in town, though.
+Hmm...I wonder where we should begin.
+---
+15859: The Nobodies stole four
+medallions in total, right?{:clear }Hmm...I wonder where
+they could be.
+---
+15860: If someone declares parley,
+a pirate must cease hostilities and negotiate.{:clear }That´s just the way it is.
+Even pirates have a code.
+---
+15861: We were knocked from the Black Pearl over
+to the Interceptor by that Heartless.{:clear }If the Interceptor wasn´t so sturdy, we
+would have sunk before winding up here.
+---
+15862: This seems to be where wrecked
+ships drift to.{:clear }There may be a boat in good enough
+condition to use. {:theme 0A}Let´s go look.{:reset}
+---
+15863: I´ll bet those Heartless from before
+are waiting for us in town!{:clear }They´re using the power of the Aztec gold,
+so we´ll need to rely on our magic again!
+---
+15864: Well, we have the medallions.
+Now all that´s left to do is return them.{:clear }Organization {XIII} is probably in town, so
+I´ll bet that´s where the chest is.
+---
+15865: It's an ambush! You'll have to defeat
+them all or escape within the ship!
+---
+15900: I don´t want to hear about any
+monsters or curses.{:clear }I´m taking this ship out,
+so hurry to your posts.
+---
+15901: Jack doesn´t wanna help.{:clear }Still, we can´t just ignore Organization {XIII},
+and we need a ship to travel on.
+---
+15902: So Organization {XIII} is now
+in this world, huh?{:clear }They must be up to no good.
+We´d better be on our guard.
+---
+15904: Do you want to try that
+sliding plank again?
+---
+15905: Despite all that´s happened, I´m still
+intrigued by a life on the high seas.{:clear }I think I´d like to do
+some more traveling.
+---
+15916: Breezy, eh?
+---
+15917: I was worried for awhile there that Donald
+might end up getting cursed by that gold.{:clear }I know he´ll be mad at me for thinking
+that, but after all...he´s Donald!
+---
+15960: Please, let´s hurry after Will´s ship.
+I fear for him.
+---
+15961: Those cursed medallions sure
+caused us a lot of trouble!{:clear }And it´s all because people try to
+steal treasure! Sheesh!
+---
+16669: {:unk13 B6 00 EB 00}{:unk08 01 00 01}Of course!{:clear }I´m Sora.
+---
+16670: {:unk13 BF 00 F5 00}{:unk08 01 00 01}This is Donald
+and Goofy.
+---
+17009: {:unk13 97 01 46 00}{:unk08 01 00 06}Those pirates
+were cursed.
+---
+17010: {:unk13 10 01 46 00}{:unk08 01 01 06}I thought we´d seen the last of
+the curse of the Aztec gold...{:clear }What gives?
+---
+17011: {:unk13 3D 01 42 00}{:unk08 01 00 05}Wait, Jack!
+I need your help.
+---
+17012: {:unk13 52 01 46 00}{:unk08 01 00 05}The cursed pirates
+have returned. Will
+had to find out why...{:clear }so he went to Isla
+de Muerta--{:clear }to check on the
+Aztec treasure.{:clear }I fear something´s
+happened. You have
+to take me to him.
+---
+17105: My bet is Barbossa´s on Isla de Muerta,
+trying to lift the curse. We´d best hurry!
+---
+17106: Why am I going back to
+Isla de Muerta...?
+---
+17107: We´ll probably need to sail all over the
+blooming place for these medallions, eh?
+---
+17108: It´s back to the town then, eh? Once
+you´re ready, we´d better get moving!
+---
+17109: I can´t believe Will went back to
+{:theme 0A}Isla de Muerta{:reset}! What´s the big deal!?
+---
+17110: Elizabeth is so worried.
+We´d better find Will soon.
+---
+17352: You dropped the medallion!
+---
+17353: The medallion was stolen! Retrieve it quickly!
+---
+17354: Retrieve the medallion quickly!
+---
+17426: Looks like Barbossa´s really gone
+to town with the...uh...town.{:clear }Anyway, I´ve gotten all the information
+I need, so I´m ready whenever you are.
+---
+17427: Will´s a blacksmith, and that
+girl who was kidnapped is{:clear }the daughter of one of
+his important customers.{:clear }If you ask me, though, Will seems more
+like a swordsman than a blacksmith.
+---
+17428: Apparently that pirate who was with
+Pete is called Barbossa.{:clear }People say he'll stop at nothing to get what
+he wants, but I wonder what it is he's after.
+---
+17687: I've despised pirates all my life,
+but some aren't so bad after all.{:clear }I'm grateful to all of you...even Jack.
+---
+17688: I´ve seen cursed pirates before,
+so I can kind of understand.{:clear }Those members of Organization {XIII}
+aren´t really people.{:clear }They´re...something else,
+aren´t they?
+---
+18341: "For use in the event of a pirate attack.
+-Commodore Norrington"
+---
+18342: "A Gift for the Pirates"
+---
+18343: "A symbol of peace and prosperity
+in Port Royal."
+---
+18344: The rudder of the naval vessel, the Interceptor.
+---
+18345: This must be for use against pirates.
+---
+18346: Dangerous to operate, this cannon
+was installed with great care.
+---
+18347: Plenty of rations are stored.
+---
+18348: This ship is obviously ready
+for immediate combat.
+---
+18349: You can detect the faint smell
+of grease and gunpowder.
+---
+18350: The rudder of the Black Pearl--
+the fastest ship ever built.
+---
+18351: The bell is dented. Must be the rough
+activity of the pirates.
+---
+18352: There are many beautiful ornaments...
+but the treasure chest is empty.
+---
+18353: It's part of Barbossa's stolen treasure...
+but the treasure chest is empty.
+---
+18354: It's part of Jack's stolen treasure...
+but the treasure chest is empty.
+---
+18355: People who steal the medallions from
+here are cursed with immortality.
+---
+18356: This is all that´s left of the Interceptor.
+---
+18405: This place is not accessible now.
+---
+18710: Use magical and physical attacks to
+defeat the Heartless!
+---
+18711: Collect the medallions from
+the Heartless with the use of magic!
+Return them to the chest to help
+defeat the Heartless!
+---
+18918: I found something strange. It´s a board
+with wheels on it. Think you could use it?
+---
+18919: {:unk13 00 01 40 01}{:unk08 02 00 06}It looks kinda fun. Try it out?
+{:chardelay 33 00}Um, maybe not.
+{:chardelay 52 00}Sure, I´ll borrow it.
+---
+18920: {:unk13 00 01 40 01}{:unk08 02 00 06}It does resemble a skateboard.
+Maybe I should?
+{:chardelay 33 00}Um, maybe not.
+{:chardelay 52 00}Sure, I´ll borrow it.
+---
+19109: Apparently this bell is used to announce
+the passing of the hours.
+---
+19110: This ship is very well furnished
+for a naval vessel. Hmmm.
+---
+19111: This cannon only proves
+Barbossa´s hostile intentions.
+---
+19347: Return the medallions to the chest by using magic to collect them from the Heartless!
+---
+19348: The Heartless Boss is stealing the medallions! Stop him!
+---
+19619: Defeat the Heartless that is creating darkness!
+---
+19745: 
+---
+19877: 
+---
+19878: 
+---
+19879: 
+---
+19880: 
+---
+19881: 
+---
+20187: {:unk08 02 00 06}It's an Absent Silhouette, a shadowy presence
+within an emblem.
+{:chardelay 33 00}Who cares?
+{:chardelay A1 00}Let's check it out!
+---
+20614: Press {:icon dynamic-triangle} to begin the duel! Find and attack her real form!
+---
+21548: {:delayandfade 07 B4} 
+As Sora and his friends fend off the
+pirates, Pete flees from the scene,
+leaving them behind.
+ 
+Determined to finish off the remaining
+cursed pirates, they hurry into town.
+ 
+ 
+ 
+ 
+
+---
+21549: {:delayandfade 07 B4} 
+They meet a young man named Will Turner,
+who is on a mission to save Elizabeth,
+the governor's daughter.
+ 
+They all head to the port where the pirate
+ship should be docked. They'd better hurry
+if they want to catch her!
+ 
+ 
+ 
+
+---
+21550: {:delayandfade 07 B4} 
+Sora and his friends make their way to
+Isla de Muerta.
+ 
+Jack, wanting to save the Black Pearl, and
+Will, wanting to save Elizabeth, hurry off
+the boat.
+ 
+ 
+ 
+ 
+
+---
+21551: {:delayandfade 07 B4} 
+While the others head off to fulfill their
+duties, Sora is told to wait quietly aboard
+the ship.
+ 
+But of course, the adventure-loving hero
+ignores their words, and rushes to their
+aid instead.
+ 
+ 
+ 
+
+---
+21552: {:delayandfade 07 B4} 
+Sora and his friends return to the ship,
+but they realize Jack is nowhere to be
+seen. Where could the Captain be?
+ 
+In response, Will begins to talk about the
+chain of events that took place on the
+island.
+ 
+ 
+ 
+
+---
+21553: {:delayandfade 07 B4} 
+"Jack's no fairy-tale pirate. The real
+ones aren't to be trusted."
+ 
+Will utters those words with disdain.
+ 
+Leaving Jack to fend for himself on
+the island, Will steers the ship back to
+Port Royal.
+ 
+ 
+
+---
+21554: {:delayandfade 07 B4} 
+Sora and his friends become trapped in
+the hold of the ship--a ship set with
+explosives. Will they all be lost to Davy
+Jones's locker!?
+ 
+It looks like all hope is lost, but Jack's
+cunning wisdom and Sora's courage
+save the day.
+ 
+ 
+
+---
+21555: {:delayandfade 07 B4} 
+Sora and his friends find themselves in
+Port Royal once again--a world of
+pirates, treasures, and great adventures.
+ 
+However, the only thing they're met with
+is something they're all too familiar
+with: trouble.
+ 
+ 
+ 
+
+---
+21556: {:delayandfade 07 B4} 
+The curse should have been lifted, but
+cursed pirates still wander the streets.
+Not only that, Will, who had gone to Isla
+de Muerta to investigate, is missing.
+ 
+Sora hops on the Black Pearl and heads
+back out to sea.
+ 
+ 
+ 
+
+---
+21557: {:delayandfade 07 B4} 
+The Organization can't get away with this
+any longer!
+ 
+But Sora doesn't challenge them--not yet.
+The gang knows they don't have a fighting
+chance without gathering all the
+medallions.
+ 
+After a long, hard chase...
+ 
+
+---

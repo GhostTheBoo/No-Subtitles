@@ -1,0 +1,1008 @@
+﻿4661: I wonder if Pooh´s home.
+---
+4662: 
+---
+4663: Hey, Pooh Bear! How you doing?
+Finding enough honey lately?
+---
+4664: Oh, yes.{:delay 5A 00}{:clear }In fact, I was just about to do
+my stoutness exercises.{:delay FA 00}{:clear }Would you like to join me, Sora?
+---
+4665: Sure, I´m game!
+---
+4666: Huh?
+---
+4667: Pooh!
+---
+4668: I´m so glad you´re okay, Pooh.
+---
+4669: And I´m glad you came to visit.{:delay A0 00}{:clear }But you see, I was just about to
+begin my stoutness exercises.{:delay DC 00}{:clear }Perhaps we could visit a bit later...
+Somebody-I-Don´t-Know.
+---
+4670: Oh...sure.
+---
+4671: So...how´s Piglet these days?
+---
+4672: I don´t think I know anyone
+by that name.{:delay 9C 00}{:clear }Now where was I? Oh, yes.
+My stoutness exercises.
+---
+4673: Pooh?
+---
+4674: Hey! Pooh?
+---
+4675: Something very weird is
+happening here.{:delay 78 00}{:clear }Maybe I´d better go back and
+ask Merlin about this.
+---
+4676: Say, what´s wrong, sonny?
+---
+4677: Oh, I was just thinking...
+and--and wondering.
+---
+4678: You should be skedaddlin´
+outta here.
+---
+4679: Why?
+---
+4680: Why?
+Because it´s Windsday, of course!
+---
+4681: Windsday? Oh!
+Well then, happy Windsday!
+---
+4682: Now, I think I shall wish everyone
+a happy Windsday!
+---
+4683: Oh, bother. Let´s see now.
+Who is "Everyone"?
+---
+4684: Ouch!
+---
+4685: Wonder if Pooh´s here...
+---
+4686: Oh, help, help!
+Somebody save me!
+---
+4687: Piglet!
+---
+4688: Sora! Help! Please!
+---
+4689: Hold on, little guy!
+---
+4690: {:unk13 2C 01 50 00}{:unk06 00}{:unk08 01 00 05}There you go!
+---
+4691: {:unk13 68 01 C8 00}{:unk06 00}{:unk08 01 00 06}Whew!
+Thank you, Sora.
+---
+4692: {:unk13 68 01 C8 00}{:unk06 00}{:unk08 01 00 06}Oh, here comes
+Pooh Bear.
+---
+4693: {:unk13 5E 01 3C 00}{:unk06 00}{:unk08 01 00 05}Pooh! You´re all right!
+---
+4694: {:unk13 4A 01 3C 00}{:unk06 00}{:unk08 01 01 05}Why, hello.
+It´s nice to meet you.{:clear }{:delay 1E 00}Happy Windsday.
+---
+4695: {:unk13 B2 00 03 01}{:unk06 02}{:unk08 01 01 06}Nice to m-meet you?
+But, Pooh. It´s me, Piglet.{:clear }{:delay 1E 00}Don´t you remember me?
+---
+4696: {:unk13 53 01 65 00}{:unk06 00}{:unk08 01 00 05}And me, too? We´re friends!
+---
+4697: {:unk13 4A 01 46 00}{:unk06 00}{:unk08 01 01 05}We are? Hmm...
+It seems I can´t remember.
+---
+4698: {:unk13 94 00 A8 00}{:unk06 00}{:unk08 01 00 06}Oh, Pooh...
+That´s v-v-very sad!
+---
+4699: {:unk13 7C 01 3C 00}{:unk06 00}{:unk08 01 00 05}Good-bye, Sora!
+Good-bye, Pooh!
+---
+4700: {:unk13 2C 01 C8 00}{:unk06 00}{:unk08 01 00 04}Piglet...
+---
+4701: {:unk13 5E 01 E6 00}{:unk06 00}{:unk08 01 00 05}Oh my. That looks
+rather fun, doesn´t it?
+---
+4702: {:unk13 52 01 BD 00}{:unk06 00}{:unk08 01 00 05}I say, it seems we have a
+rather serious predicament!
+---
+4703: Jump down, Piglet!
+I´ll catch you!
+---
+4704: Oh, d-d-dear...
+---
+4705: You can do it, Piglet!
+You just have to be brave!
+---
+4706: Sora...
+---
+4707: All right, Sora. I´ll t-try...
+---
+4708: Oh, that was rather frightening.
+I do hope you´re all right, Piglet.
+---
+4709: Oh, P-Pooh!{:delay 46 00}{:clear }You remembered my name?{:delay A0 00}{:clear }You really, truly remembered?
+---
+4710: Of course, Piglet.{:delay 72 00}{:clear }But today I think I shall call you
+"my friend Piglet who is very brave"!
+---
+4711: Me? Very brave? No...{:delay 9C 00}{:clear }But it´s easy to be brave when I have
+have a wonderful friend like you, Pooh Bear!
+---
+4712: I´m happy for you guys!
+---
+4713: Oh, and thank you for rescuing
+my friend Piglet...{:delay AE 00}{:clear }Somebody-I-Don´t-Know.
+---
+4714: Oh... Uh, sure. Don´t mention it.
+---
+4715: Oh d-d-d-dear!
+---
+4716: C´mon!
+---
+4717: Eeyore, Pooh. Are you okay?
+---
+4718: Gosh, that´s too bad, Eeyore.
+After all that work...
+---
+4719: No matter. Most likely would
+have fallen down anyway.
+---
+4720: Well, I´ll help you fix
+your house, Eeyore.
+---
+4721: Oh, hello there, Piglet.
+Thanks for offerin´.{:delay 20 01}{:clear }Wouldn´t want to spoil your
+fun day, though.
+---
+4722: Well, hello, Piglet.
+---
+4723: And hello, Somebody-I-Don´t-Know.
+---
+4724: Pooh, this is Eeyore.
+You know Eeyore, don´t you?
+---
+4725: Um, I do?
+---
+4726: What could´ve happened to him?
+---
+4727: Oh, I have an idea!{:delay 78 00}{:clear }Maybe Pooh´s tummy is so rumbly
+that it´s making him forget.{:delay F0 00}{:clear }If we bring him some honey,
+he´s sure to remember!
+---
+4728: Well...um...I guess it´s worth a try.
+---
+4729: Might work. But prob´ly not.
+---
+4730: First we gotta find some honey.
+---
+4731: If honey´s what you´re looking for,
+I know just the place.{:delay 18 01}{:clear }Follow me.
+---
+4732: Splendid, just splendid.
+---
+4733: This is the place I told you about.
+---
+4734: Wow! Look at that.
+---
+4735: How yummy for my tummy!
+---
+4736: But doesn´t that honey
+belong to someone?
+---
+4737: {:unk13 FA 00 4A 01}{:unk06 02}{:unk08 01 00 00}Oh, no!
+---
+4738: {:unk13 FA 00 4A 01}{:unk06 02}{:unk08 01 00 00}My honey!
+---
+4739: {:unk13 04 01 4A 01}{:unk06 01}{:unk08 01 00 00}Pooh, did you eat
+ALL my honey!?
+---
+4740: {:unk13 73 01 70 00}{:unk06 00}{:unk08 01 00 06}Oh, hello.
+It´s nice to meet you.
+---
+4741: {:unk13 04 01 4A 01}{:unk06 00}{:unk08 01 00 00}What did you say?
+---
+4742: {:unk13 73 01 70 00}{:unk06 00}{:unk08 01 00 06}Is that for me, too?
+---
+4743: {:unk13 9A 00 58 00}{:unk06 00}{:unk08 01 01 05}Oh, I was sure I´d found
+a safe place for it, too...
+---
+4744: {:unk13 6B 01 46 00}{:unk06 00}{:unk08 01 00 05}Sorry. It´s our fault.
+We brought Pooh here.
+---
+4745: {:unk13 9C 00 3B 00}{:unk06 00}{:unk08 01 01 05}Oh, hello, Sora...
+It´s good to see you again.
+---
+4746: {:unk13 7C 01 46 00}{:unk06 00}{:unk08 01 00 05}Same here...
+We really are sorry.
+---
+4747: {:unk13 9C 00 43 00}{:unk06 00}{:unk08 01 01 05}It´s quite all right. I know
+Pooh can´t be stopped
+when he gets this hungry.
+---
+4748: {:unk13 FA 00 64 00}{:unk06 00}{:unk08 01 01 06}Pardon me, Somebody-I-Don´t-
+Know. Is there any more?
+---
+4749: {:unk13 5E 01 50 00}{:unk06 00}{:unk08 01 01 06}Are you feeling
+all right, Pooh?
+---
+4750: {:unk13 4A 01 46 00}{:unk06 00}{:unk08 01 01 06}Could you really have
+forgotten all about me?
+What on earth is going on?
+---
+4751: {:unk13 FF 00 64 00}{:unk06 00}{:unk08 01 01 06}Is there more hunny?
+You see, my tummy´s rumbly.
+---
+4752: {:unk13 4A 01 50 00}{:unk06 00}{:unk08 01 01 06}That´s it! He´s so hungry,
+he can´t remember a thing!
+---
+4753: {:unk13 2C 01 36 01}{:unk06 00}{:unk08 01 00 04}Oh! We thought
+that, too.
+---
+4754: {:unk13 5E 01 50 00}{:unk06 00}{:unk08 01 01 06}Then let´s stuff this
+bear full of honey!
+---
+4755: {:unk13 EB 00 B4 00}{:unk06 00}{:unk08 01 00 06}I wouldn´t get
+my hopes up.
+---
+4756: {:unk13 C8 00 50 00}{:unk06 00}{:unk08 01 00 05}But I thought Pooh ate
+all your honey, Rabbit?
+---
+4757: {:unk13 2C 01 50 00}{:unk06 00}{:unk08 01 01 06}Oh, I´ve got more.{:clear }Must have emergency rations.
+But I hid them a bit too well.
+---
+4758: {:unk13 5E 01 64 00}{:unk06 00}{:unk08 01 00 05}Well, this is quite a situation.
+---
+4759: There now, Pooh.
+Have just as much as you´d like.
+---
+4760: Why, thank you!
+---
+4761: Pardon me, Kind Somebody,{:delay 6C 00}{:clear }but do you know where I might find
+another smackeral or two of hunny?
+---
+4762: My tummy seems to be telling me
+there´s some hunny right in there.
+---
+4763: Bother. I´m stuck.
+---
+4764: He still doesn´t remember.{:delay 90 00}{:clear }What in the world has
+gotten into Pooh Bear?
+---
+4765: Whatever it is, we´d better help him.
+---
+4766: Oh, yes. And quickly, too!
+---
+4767: Oh, stuff and fluff.
+---
+4768: One...{:delay 46 00}{:clear }Two...{:delay 46 00}{:clear }Three!
+---
+4769: You´re okay now, Pooh.
+---
+4770: Well, I wouldn´t be so sure
+of that if I were you.{:delay BE 00}{:clear }Why, just--just look at him!
+He doesn´t even remember who I am.{:delay 32 01}{:clear }Perhaps it´s all this blustery wind, or--{:delay 82 00}{:clear }Or maybe he actually
+needs more honey!{:delay 96 00}{:clear }Or he´s--he´s sleepwalking
+and--and dreaming!
+---
+4771: Well, if I am dreaming--
+which I suppose I could be--{:delay 04 01}{:clear }I hope that I get to the part{:delay 5A 00}{:clear }where you invite me to lunch
+again very soon, Rabbit.
+---
+4772: That´s right, you´re always
+stopping by for lunch!{:delay BE 00}{:clear }Wait! Pooh!{:delay 3C 00}{:clear }You called me "Rabbit"!
+---
+4773: Well, of course, Rabbit.
+---
+4774: What about Eeyore?{:delay 5A 00}{:clear }Do you remember Eeyore,
+too, Pooh?
+---
+4775: Oh, hello there, Eeyore.
+It´s ever so nice to see you today.
+---
+4776: Thanks for noticing me, Pooh Bear.
+---
+4777: And hello to you, too,
+Somebody-I-Don´t-Know!
+---
+4778: Well, at least you remember
+Rabbit and Eeyore now.
+---
+4779: Hi!
+---
+4780: Well, hello, Sora!
+---
+4781: Yes, hello there,
+Somebody-I-Don´t-Know.
+---
+4782: Eeyore told me Pooh
+wasn´t quite himself.{:delay B4 00}{:clear }I thought this might be just
+what the poor dear needed.
+---
+4783: Yeah, I hope it´ll make
+Pooh better!
+---
+4784: A present! For me?{:delay A0 00}{:clear }Why, presents are what
+Tiggers like best!{:delay 78 00}{:clear }And it´s not even my birthday!
+---
+4785: But Tigger! That´s not for you!
+---
+4786: Wait, Tigger!
+---
+4787: Oh, dear!
+---
+4788: C´mon, let´s go after him.
+---
+4789: {:unk13 C8 00 50 00}{:unk06 00}{:unk08 01 01 05}You´re saying Pooh
+even forgot about ME!?
+---
+4790: {:unk13 7C 01 04 01}{:unk06 00}{:unk08 01 00 05}Yes, Tigger.
+---
+4791: {:unk13 C5 00 46 00}{:unk06 00}{:unk08 01 01 07}That bottle you thought was
+a present was medicine to
+make Pooh better.
+---
+4792: {:unk13 BE 00 55 00}{:unk06 00}{:unk08 01 01 05}Aw, who needs medicine!?
+Why, some tiggeriffic bouncing
+will jog his memory for sure!
+---
+4793: {:unk13 FA 00 69 00}{:unk06 00}{:unk08 01 01 05}Well, Pooh?
+---
+4794: {:unk13 AA 00 64 00}{:unk06 00}{:unk08 01 00 05}That looks like fun,
+Somebody-I-Don´t-Know.
+---
+4795: {:unk13 C8 00 50 00}{:unk06 00}{:unk08 01 01 06}Nothing, huh? Hmm...{:clear }Of course! We all gotta bounce
+together! That´ll do the trick!
+---
+4796: {:unk13 5E 01 64 00}{:unk06 00}{:unk08 01 00 05}Somebody call...{:clear }...for a bouncing lesson?
+Well, that´s my specialty.
+---
+4797: I bet you remember me now,
+don´t you, buddy-bear!
+---
+4798: Well, I remember that bouncing
+always makes me hungry.
+---
+4799: All that bouncin´ and he still
+doesn´t remember me?
+---
+4800: Oh, please be careful with that.
+---
+4801: Aw, sorry little Piglet...{:delay 78 00}{:clear }but Pooh not rememberin´ me
+has me confuzled.{:delay AA 00}{:clear }I don´t even feel like bouncin´!
+---
+4802: Oh, but Tigger.{:delay 64 00}{:clear }I always thought that bouncing
+was what Tiggers did best.
+---
+4803: Pooh Boy!{:delay 5A 00}{:clear }You remember me!{:delay 73 00}{:clear }You do remember your
+ol´ buddy Tigger after all!
+---
+4804: I wonder who that is.
+---
+4805: Oh, well. Perhaps...
+I´ll remember tomorrow.
+---
+4806: {:unk13 E6 00 50 00}{:unk06 00}{:unk08 01 01 06}Hey, everyone...
+---
+4807: {:unk13 E6 00 50 00}{:unk06 00}{:unk08 01 01 06}Uh-oh... Where´s Pooh?
+---
+4808: {:unk13 04 01 5D 01}{:unk06 00}{:unk08 01 01 01}He went in there.
+---
+4809: {:unk13 BE 00 73 00}{:unk06 00}{:unk08 01 00 05}Do you think there might be
+a jagular hiding inside?
+---
+4810: {:unk13 DC 00 6B 00}{:unk06 00}{:unk08 01 00 05}Jagular...well, now.{:clear }That reminds me of when
+dear cousin Alphonse--
+---
+4811: {:unk13 32 01 86 00}{:unk06 00}{:unk08 01 00 06}Say, why are you all
+sitting around here?{:clear }If you´re worried about that
+bear, let´s go find him!
+---
+4812: {:unk13 4A 01 6E 00}{:unk06 00}{:unk08 01 01 05}That´s exactly what
+I was thinking!
+---
+4813: {:unk13 36 01 36 01}{:unk06 00}{:unk08 01 01 07}Yeah, let´s go!
+---
+4814: {:unk13 04 01 82 00}{:unk06 00}{:unk08 01 00 04}But if there really is a jagular,
+we´d better think this through.
+---
+4815: {:unk13 F0 00 46 00}{:unk06 00}{:unk08 01 00 05}It seems we´ve got
+a bit of time.{:clear }Why don´t I just resume
+where I left off?{:clear }My cousin--that is, my
+father´s younger sister´s--
+---
+4816: {:unk13 6A 01 73 00}{:unk06 00}{:unk08 01 00 07}What do you think
+we should do, Sora?
+---
+4817: {:unk13 5E 01 64 00}{:unk06 00}{:unk08 01 00 05}Say, no need to get excited...{:clear }Don´t have to go if you don´t want to.{:clear }Before you leave, though...
+---
+4818: Pooh! There you are!
+---
+4819: Hey...we looked everywhere for you.
+---
+4820: I was looking for a
+very dear friend{:delay 78 00}{:clear }that I remember I made a
+very important promise to.
+---
+4821: So, did you find him?
+---
+4822: No, I looked and looked.
+But he doesn´t seem to be anywhere.
+---
+4823: Oh, Pooh Boy!
+So there you are.
+---
+4824: But, Tigger, did you have to
+bounce me so...bounce-ily?
+---
+4825: Gosh, I thought a jagular
+had gotten ya!
+---
+4826: Oh dear.{:delay 8A 00}{:clear }
+I hadn´t thought of that.{:delay 96 00}{:clear }I do hope a jagular hasn´t gone
+and gobbled up my friend!
+---
+4827: Now, try to remember, Pooh.{:delay 5A 00}{:clear }Isn´t Sora the one you´re
+looking for?
+---
+4828: Oh! The jagular!
+---
+4829: No, it´s just your tummy grumbling.{:delay AA 00}{:clear }You must be hungry. C´mon...{:delay 7E 00}{:clear }Let´s head home and see if
+we can find you some honey.
+---
+4830: I´d like that, Sora.
+---
+4831: Pooh! You--you finally remembered!
+---
+4832: Remembered what, Sora?
+---
+4833: Pooh...
+---
+4834: I like it ever so much when
+you´re cheerful, Sora.
+---
+4835: Me too, Pooh.
+---
+4836: Oh...There´s a bit of a
+rumbly in my tumbly.
+---
+4837: All right. Then let´s go home!
+---
+4838: {:unk13 A1 00 5A 00}{:unk06 02}{:unk08 03 00 05}Oh, bother!
+---
+4839: {:unk13 7B 00 7B 00}{:unk06 02}{:unk08 03 00 05}Are you all right?
+---
+4840: {:unk13 56 01 C5 00}{:unk06 02}{:unk08 03 01 05}Sora? Is that you?{:clear }Help!
+---
+4841: {:unk13 5E 01 64 00}{:unk06 00}{:unk08 01 00 05}Oh yes. I´ve seen this
+situation before. I know
+just the thing to do.{:clear }Listen closely...
+---
+4842: So, what were you doing here?
+---
+4843: I was thinking:{:delay 4E 00}{:clear }Perhaps there´s a way to make it
+so you won´t go away.
+---
+4844: You mean a way to make me stay?
+---
+4845: Yes. Would there be
+such a thing as a way{:delay CC 00}{:clear }to make it so you don´t
+go away again?
+---
+4846: Pooh...
+---
+4847: Don´t worry.{:delay 28 00}{:clear }{:delay 48 00}{:clear }I promise I´ll come back and
+visit you now and then.
+---
+4848: Could you make it
+"now and now" instead?{:delay C6 00}{:clear }That seems a bit better to me.{:delay C6 00}{:clear }Sora, if I go looking for you,
+will I find you?
+---
+4849: I´ll always be with you--right here.{:delay C8 00}{:clear }You don´t have to go anywhere.{:delay 78 00}{:clear }Just stay here, and you can
+see me anytime you want.
+---
+4850: You mean I just have to
+stay right here?
+---
+4851: Yep, that´s all.
+---
+4852: Would you promise?
+---
+4853: Promise.
+---
+4854: I promise too!
+---
+4855: And so do Roo and I.
+---
+4856: We sure do!
+---
+4857: You´re welcome to visit us
+anytime, Sora.
+---
+4858: Thanks.
+---
+4859: After all, I must tell you of my
+Uncle Albert´s adventures at sea.
+---
+4860: Guess you´ll be stayin´ awhile.
+---
+4862: Good-bye, Sora.
+---
+4863: Thanks, Gopher.
+---
+4864: If you ever get lonely, just start
+bouncin´ and think of your pal Tigger!
+---
+4865: I will, Tigger!
+---
+4866: You´re leaving?
+---
+4867: Yes. I really have to go.
+---
+4868: Well, I won´t be sad,{:delay 78 00}{:clear }because you´ll always be
+right here forever and ever.{:delay DE 00}{:clear }Right, Sora?
+---
+4869: And all of you...{:delay 3F 00}{:clear }{:delay 22 00}{:clear }are right here, too.
+---
+4870: See ya!
+---
+4871: 1
+---
+4872: 2
+---
+4873: 4
+---
+4874: 5
+---
+4875: 6
+---
+4876: 7
+---
+4877: 8
+---
+4878: 101
+---
+4879: 102
+---
+4880: 103
+---
+4881: 104
+---
+4882: 105
+---
+4883: 201
+---
+4884: 202
+---
+4885: 203
+---
+4886: 204
+---
+4887: 205
+---
+4888: 301
+---
+4889: 302
+---
+4890: 303
+---
+4891: 304
+---
+4892: 305
+---
+4893: 401
+---
+4894: 402
+---
+4895: 403
+---
+4896: 404
+---
+4897: 501
+---
+4898: 502
+---
+4899: 503
+---
+4900: 504
+---
+4901: 505
+---
+4902: 601
+---
+4903: 602
+---
+4904: 603
+---
+4905: 604
+---
+7896: This is the umpteenth time I´ve seen Pooh
+like that!{:clear }Sora, don´t hold back.
+Go and grab that pot off of him.
+---
+7897: Sora? Is that you, Sora?
+Help!
+---
+7898: {:unk13 00 01 40 01}{:unk08 02 00 06}Could he be eating honey?
+{:chardelay 33 00}Leave him be...
+{:chardelay 09 00}Let´s help him!
+---
+7899: Hello there, Somebody-I-Don´t-Know.
+It´s a beautiful day today, don´t you think?
+---
+7900: Hi, Sora. It´s a beautiful day today.
+Perfect for hunny!{:clear }Perfect for exercise, too.
+Let´s play today, too!
+---
+7901: Actually, there´s still some more honey,
+but I can´t reach it.
+---
+7902: {:unk13 00 01 40 01}{:unk08 02 00 06}Get the honey for him?
+{:chardelay 33 00}Then I probably can´t reach it, either.
+{:chardelay 09 00}Don´t worry, I´ll get it!
+---
+7903: It´s not easy gathering honey behind
+Pooh´s back.{:clear }But seeing how happy he is, I figure, what
+the heck?
+---
+7904: If I can eat hunny,
+I´ll follow you anywhere.{:clear }Just promise you´ll help me out if I get in
+trouble, kind Somebody-I-Don´t-Know.
+---
+7905: Pooh is scared of bees. Try to
+keep him from running into a hive.{:clear }Stay close to him, and don´t let him
+wander off.
+---
+7906: Come, follow me.{:clear }Feel free to go on ahead if you want,
+though. I´m a slow walker.
+---
+7907: It looks like Gopher went on ahead to
+make preparations.{:clear }He might protect everyone,
+someday.
+---
+7908: I´m going to build a house today! I´m sure
+something will go wrong, though, as usual.
+---
+7909: Don´t do anything foolish while
+gathering honey.{:clear }You can go get honey as many times as
+you want, but choose a safe path.
+---
+7910: Look at that person floating around over
+there. He must be having fun!
+---
+7911: {:unk13 00 01 40 01}{:unk08 02 00 06}Is he really having fun?
+{:chardelay 33 00}Yeah, I´m jealous.
+{:chardelay 09 00}He´s in trouble! We´ve got to help him!
+---
+7912: I´m glad Pooh remembered
+me.{:clear }It´s awful to have a friend you care for so
+much completely forget about you.
+---
+7913: Dodge and break things that come flying at
+you.{:clear }Some stuff doesn´t break so easily, though.
+Try something different for them.
+---
+7914: Ho ho! There´s not an easy solution for
+everything.{:clear }If you´re stuck, take some time to figure
+out how to solve the problem at hand.
+---
+7915: If any of the others are in trouble,
+please help them out, too.{:clear }I´ll do what I can to help as well.
+---
+7916: What´s everyone doing here?
+Is something going to take place?{:clear }Maybe a hunny competition?
+Or a race?
+---
+7917: Tigger is always bouncing no matter where
+he is.{:clear }We used to all bounce together, but it
+seems Pooh´s forgotten that, too.
+---
+7918: If Tigger would only just listen a little
+more...{:clear }This is terrible. We have to get that
+medicine back from Tigger.
+---
+7919: When you step on a balloon, it´ll boost you
+when it pops.{:clear }There are other ways of jumping as well.
+Roo can tell you more.
+---
+7920: You have to stop Tigger, quick, or he´ll
+drink it all!
+---
+7921: Hoo! Tigger taught me the secret to
+bouncing,{:clear }If you jump again as soon as you land,
+you´ll do a different kind of jump!
+---
+7923: He still doesn´t remember? That´s strange...{:clear }I know! Let´s all bounce together!
+That´ll jog his memory!
+---
+7924: {:unk13 00 01 40 01}{:unk08 02 00 06}Try bouncing?
+{:chardelay 33 00}I can´t bounce.
+{:chardelay 09 00}It´s worth a shot!
+---
+7925: Hoo-hoo-hoo-hoo!
+I´m the best bouncer in the world.♩{:clear }No matter who you are, bouncing will solve
+all your problems! ♩
+---
+7927: You mean Pooh came to this place all by
+himself?{:clear }Well, no matter.
+Let´s hurry up and find him!
+---
+7928: This place is dark, and feels like
+a maze!{:clear }If I get lost, you´ll find me, won´t you, Sora?
+I´m counting on you!
+---
+7929: There´s no way I´d find him even if I
+looked.{:clear }The ground´s slippery here. I just hope I
+don´t fall and lose my tail.
+---
+7930: I can hear wings buzzing. I hope there
+aren´t any bees here.{:clear }Sora, if we´re attacked by bees, please
+exterminate them.
+---
+7931: Hmm...
+This place looks a tad bit dangerous.{:clear }Okay gang, let´s stay alert while going
+through here.
+---
+7932: I can´t imagine any of that honey Pooh
+loves so much being in this place.{:clear }The walls are hard, yet crumbly.
+Watch out for falling rocks.
+---
+7933: Hey, Sora. Maybe we should go
+find Pooh.
+---
+7934: {:unk13 00 01 40 01}{:unk08 02 00 06}Go look for Pooh?
+{:chardelay 33 00}Let´s give this some more thought.
+{:chardelay 09 00}Of course we should. Let´s go.
+---
+13954: Where are you taking me,
+kind Somebody-I-Don´t-Know?{:clear }Wherever it is, I hope there´s a lot of
+hunny.
+---
+13955: Eeyore´s tail is always
+falling off.{:clear }He often has us help him
+look for it.
+---
+13956: If you jump well, you can keep stepping on
+the balloons.{:clear }The more you step on, the higher you´ll
+climb. Who knows what you´ll find at the top?
+---
+13972: You want me to bounce with
+Somebody-I-Don´t-Know? Is there hunny involved?{:clear }I think I smell something nice coming from
+the sky.
+---
+16084: I know that voice. Sora, it´s you, right?
+I´m stuck again! Help!
+---
+16085: {:unk13 00 01 40 01}{:unk08 02 00 06}Yep, that´s Pooh all right.
+{:chardelay 33 00}Let´s watch a bit longer.
+{:chardelay 09 00}Let´s hurry and help him!
+---
+16086: Hi, Sora.
+Want to get some more honey?
+---
+16087: {:unk13 00 01 40 01}{:unk08 02 00 06}Go get some honey?
+{:chardelay 33 00}I don´t need any now.
+{:chardelay 09 00}Yeah, let´s go!
+---
+16088: It sure is windy today. If one´s not careful,
+they might get swept off their feet!
+---
+16089: {:unk13 00 01 40 01}{:unk08 02 00 06}Try to fly away?
+{:chardelay 33 00}I feel like walking.
+{:chardelay 09 00}Let´s fly!
+---
+16090: Hoo-hoo-hoo-hoo! Bouncing will cheer
+you up today, too! Let´s bounce, Sora!
+---
+16091: {:unk13 00 01 40 01}{:unk08 02 00 06}Bounce with Tigger?
+{:chardelay 33 00}Sorry, I´m busy.
+{:chardelay 09 00}Let´s bounce!
+---
+16092: I want to go look again with everyone.
+Will you help, too, Sora?
+---
+16093: {:unk13 00 01 40 01}{:unk08 02 00 06}Go look for him?
+{:chardelay 33 00}I´ve got other things to do.
+{:chardelay 09 00}Of course I´ll help!
+---
+18087: I had a great time floating around,
+Somebody-I-Don´t-Know.{:clear }I seem to remember floating around before
+on a balloon...
+---
+18088: I was so happy to have all that hunny the
+other day.{:clear }Let´s go looking for hunny again sometime,
+Somebody-I-Don´t-Know.
+---
+18089: Once, we all dressed up like Tigger and
+bounced around.{:clear }If you want, let´s bounce again sometime,
+Somebody-I-Don´t-Know.
+---
+18090: It´s fun to bounce with
+everyone.{:clear }But for some reason, everyone always
+seems to land on top of my house.
+---
+18091: I´m so happy Pooh remembered you,
+Sora.{:clear }I wonder why he forgot about you in the
+first place, though.
+---
+18092: If my house is done by the next time we
+meet, I´ll invite you over.{:clear }I doubt it´ll be done, though...
+---
+18093: There are other friends in the Hundred
+Acre Wood, too.{:clear }I haven´t seen them lately, though. I hope
+everyone´s doing well.
+---
+18094: Tigger may like bouncing, but he´s afraid of
+heights.{:clear }That may seem contradictory, but isn´t that
+the way of the world? Ho ho!
+---
+18095: I´m relieved Pooh´s memory is
+back.{:clear }I wanted to sing a song in celebration, but
+for some reason the others stopped me.
+---
+18096: Lazy days like this are
+the best.{:clear }On stormy days, the tree I nest in creaks
+so much I can hardly think!
+---
+18097: Hm? What will I do after the balloon breaks
+when gathering honey?{:clear }Don´t worry! I´m strong enough not to let
+something like that faze me!
+---
+18098: Piglet may seem easily frightened, but when he
+commits to something, he does it!{:clear }I was surprised when he went looking for
+Pooh in a hole that scared even me!
+---
+18099: My dream is to build the ultimate
+tunnel.{:clear }If I ever get close to achieving my dream,
+I´ll send you an invitation, Sora!
+---
+18100: Owl is always long-winded. Sometimes he
+says the strangest things, too!
+---
+18101: Tigger´s gonna teach me a cool
+new jump!{:clear }It´s called the "Whoop-di-Loopa Loop-di-
+Lupa," or something like that!
+---
+18102: Exploring can be a little scary, but it´s lots
+of fun!{:clear }Everyone´s always exploring for love bugs
+and such, so I wanna go too!
+---
+18103: When I was exploring by myself the other
+day, I made a new friend.{:clear }It´s fun just having friends.
+---
+18104: When Pooh´s not his usual self, it affects
+us all.{:clear }That doesn´t apply to just Pooh, either.
+We want everyone to be well.
+---
+18324: This tree gently watches over the hill.
+---
+18325: You could probably see the moon
+really well from here.
+---
+18326: He probably meant to write "Ring the bell"
+here.
+---
+18327: You can see a cute curtain.
+---
+18328: The sweet smell of honey floats by.
+---
+18329: It should read: "Carrots"
+---
+18330: It seems it was supposed to read: "Cabbage"
+---
+18331: It seems to read: "Pumpkins"
+---
+18332: This is the entrance to Rabbit´s house.
+---
+18333: This mailbox reads, "Rabbit."
+---
+18334: Laundry is being hung to dry.
+---
+18335: It´s dammed up to catch fish.
+---
+18336: This small mailbox reads, "Piglet."
+---
+18337: Only Piglet could fit through this door.
+---
+18338: This must be Piglet´s grandpa´s name.
+---
+18339: These mailboxes read, "Kanga" and "Roo."
+---
+18340: This mailbox reads, "Kanga."
+---
+18521: {:unk13 64 01 DA 00}{:unk06 00}{:unk08 01 01 05}That was rather fun!
+Shall we do it again?
+---
+18522: {:unk13 CA 00 5C 00}{:unk06 00}{:unk08 01 01 06}With the way Pooh eats, we´ll
+have to find more honey!
+---
+18523: {:unk13 2E 01 3F 00}{:unk06 00}{:unk08 01 01 05}Say, your bouncin´ could
+use some more bounce.
+---
+18524: {:unk13 37 01 83 00}{:unk06 00}{:unk08 01 00 05}Where did that bear go...?
+---
+18525: {:unk13 9B 01 69 00}{:unk06 00}{:unk08 01 00 05}Great...
+---
+18722: Hit
+---
+18723: Dash
+---
+18996: {:unk13 A7 00 86 00}{:unk06 02}{:unk08 03 01 05}Sora? Is that you?{:clear }Help!
+---
+19374: {:unk13 53 01 BD 00}{:unk06 00}{:unk08 01 01 05}I say, it seems we have a
+rather serious predicament!{:clear }Sora, would you mind
+going after poor Piglet?
+---
+19396: Well then, I guess bouncin´s
+not the answer.{:delay C0 00}{:clear }It makes a Tigger almost
+never wanna bounce again...
+---
+19754: 
+---
+19888:  
+---
+21520: {:delayandfade 07 B4} 
+Piglet is finally rescued! Or so they
+thought.
+ 
+The poor little fellow is so stunned by
+the fact that Pooh had forgotten him that
+he's carried off by the wind once again.
+ 
+What a disastrous day for poor Piglet!
+ 
+ 
+
+---
+21521: {:delayandfade 07 B4} 
+As Pooh happily finishes off the last of
+the honey, Rabbit appears, unable to hide
+his disbelief. His precious honey collection!
+ 
+But as soon as Rabbit notices Pooh acting
+strangely, he coaxes his friend to eat more.
+Perhaps a full stomach will get Pooh to
+return to his usual ways.
+ 
+ 
+
+---
+21522: {:delayandfade 07 B4} 
+Tigger claims he knows just the thing to
+jog Pooh's memory. What's better than a
+bottle of medicine or a trove of honey?
+Why, tiggeriffic bouncing, of course!
+ 
+Hoping for the best, Sora and his friends
+all decide to give it a try.
+ 
+ 
+ 
+
+---
+21523: {:delayandfade 07 B4} 
+It looks like Pooh's gone and found trouble
+again. This time, inside a cave.
+ 
+Although danger lurks around every corner,
+everyone summons up their courage to help
+find their friend.
+ 
+ 
+ 
+ 
+
+---
+21524: {:delayandfade 07 B4} 
+Atop the hill with the starry sky, Sora
+finds Pooh with his head stuck in a honey
+pot. Silly old bear!
+ 
+Although Sora's not quite sure whether to
+help him or leave him be, after some
+pondering, he decides to give Pooh a hand.
+ 
+ 
+ 
+
+---

@@ -1,0 +1,1394 @@
+﻿3018: Cogsworth went ahead to
+the master´s chamber.{:clear }Please, Sora, go with him to{:theme 0A}
+see the master{:reset}. He´s all alone.
+---
+3019: We will not tolerate suspicious persons
+roaming freely about the castle!{:clear }Of course you, on the other hand,
+are welcome anytime.
+---
+3020: I´m sure the master
+regrets what he said.{:clear }Please, {:theme 0A}
+help him recover the rose{:reset}.
+---
+3021: That man in black ran out
+{:theme 0A}into the garden{:reset}.{:clear }Please, prepare yourselves for
+anything, and above all, be careful!
+---
+3022: The ballroom and the garden are
+the highlights of this castle.{:clear }I only hope those intruders
+don´t cause any damage...
+---
+3023: If I could, I´d like nothing more
+than to serve you some tea...{:clear }At least try to get some rest.
+This place seems safe enough.
+---
+3024: You should be able to get to
+the undercroft from the {:theme 0A}west hall{:reset}.{:clear }Everyone´s probably locked up
+in the dungeon beyond there.
+---
+3025: The Beast is really a kind person at heart.
+I´m sure everything will go just fine.
+---
+3026: Please...
+I just want to be left alone now...
+---
+3027: I´ll be waiting here.
+Please go rescue the others!
+---
+3028: If you´re looking for Belle, she went
+off in search of that man in black.{:clear }I´m worried about the master going all
+alone. Would you help him {:theme 0A}find Belle{:reset}?
+---
+3029: This castle´s really livened up
+ever since Belle came.
+---
+3030: I´m afraid Belle isn´t here.{:clear }Judging by her clothes,
+I doubt she went outside.{:clear }Why don´t you try
+{:theme 0A}the master´s room{:reset}?
+---
+3031: Belle´s been this way for far too long.{:clear }There´s nothing I can do to
+cheer her up, though...
+---
+3032: Now that you mention it, I saw a
+man dressed in black outside the window.{:clear }He may have been heading to the {:theme 0A}garden{:reset}.
+---
+3033: The suits of armor in the
+west hall should let you pass, now.{:clear }Please, {:theme 0A}go see Belle{:reset},
+and hurry!
+---
+3034: What´s going on?{:clear }Should we chase after Belle,
+too?
+---
+3035: Oh, this is just awful!{:clear }I believe the master is heading to {:theme 0A}his chamber{:reset}.
+---
+3036: So, those things that attacked us
+were just a diversion!?
+---
+3037: I´ve never seen the master
+in such a temper.{:clear }When the man in black said "something you
+hold very dear," he couldn´t have meant...
+---
+3038: Did you know that Cogsworth
+can make an alarm sound, too?{:clear }It´s so loud I bet it´d
+wake up anybody!
+---
+3039: It seems all the statues in the
+castle have become hostile.{:clear }Please be careful.
+---
+3040: Please talk to {:theme 0A}Cogsworth {:reset}upstairs
+about the hidden passageway.
+---
+3044: Defeat the Heartless!
+---
+3046: Help Beast come to his senses!
+---
+3049: Defeat all of the Nobodies!
+---
+3050: Defeat all of the Nobodies!
+---
+3066: Hey, what is this place?
+---
+3067: It´s huge!
+---
+3068: And sorta gloomy, don´t ya think?
+---
+3069: I wonder who lives here.
+---
+3070: 
+---
+3071: Hey, does anybody else recognize that?
+---
+3072: Hey! That´s the Beast!
+---
+3073: Yeah.
+---
+3074: Maybe we should check up on him.
+---
+3075: Look!
+---
+3076: C´mon!
+---
+3077: Where did it go?
+---
+3078: Found it!
+---
+3079: 
+---
+3080: Aw, c´mon, enough already.
+---
+3081: Somebody help us!
+---
+3082: Just in time!
+---
+3083: Gee, do ya think he maybe forgot who we are?
+---
+3084: With this many Heartless around,
+something must be up.
+---
+3085: Why´d he have to do that?
+---
+3086: 
+---
+3087: {:unk13 5E 01 18 01}{:unk08 01 00 02}If the Beast is here,
+shouldn´t Belle be
+close by?
+---
+3088: {:unk13 18 01 2C 01}{:unk08 01 00 01}You´re right.
+Belle might have some clue
+about what´s going on.
+---
+3089: {:unk13 C8 00 5E 01}{:unk08 01 01 02}Let´s go find her!
+---
+3090: {:unk13 9A 01 64 00}{:unk08 01 00 05}What is it?
+---
+3091: {:unk13 9E 00 4F 00}{:unk08 01 01 05}I just know I saw
+a lady at the
+top of those stairs...
+---
+3094: Donald!
+---
+3095: Oh, I´m so happy you´re here!
+---
+3096: Donald!
+---
+3097: Sora! Goofy!
+---
+3098: Hiya!
+---
+3099: Put me down! Put me down!
+---
+3100: What am I going to do?
+---
+3101: Shhh!
+---
+3102: Okay.
+---
+3103: Hey! Who opened the door?
+---
+3104: {:unk13 9E 00 68 01}{:unk08 01 01 02}Where´s the Beast?
+---
+3105: {:unk13 36 01 46 00}{:unk08 01 00 05}Oh, he must be in the west wing.
+We don´t talk like we used to.
+---
+3106: {:unk13 91 00 4F 00}{:unk08 01 01 05}Did something happen?
+---
+3107: {:unk13 40 01 46 00}{:unk08 01 00 05}Yes.{:clear }Isn´t that why
+you´re here?
+---
+3108: {:unk13 FA 00 32 00}{:unk08 01 00 05}Not exactly. But
+we can still help!
+---
+3109: {:unk13 F7 00 25 00}{:unk08 01 01 06}Since we´re here and all.
+---
+3110: {:unk13 EC 00 60 01}{:unk08 01 01 01}The Beast won´t talk to you?
+---
+3111: {:unk13 4A 01 50 00}{:unk08 01 00 05}He´s been acting strange lately.
+---
+3112: {:unk13 4A 01 46 00}{:unk08 01 00 05}The only ones who might
+know why are locked
+up in the dungeon.{:clear }I want to help
+them, but...
+---
+3113: {:unk13 0E 01 3C 00}{:unk08 01 01 06}Wait a second.
+Who locked who up?
+---
+3114: {:unk13 00 01 5A 01}{:unk08 01 00 01}The Beast locked
+up his servants.
+---
+3115: {:unk13 78 01 27 01}{:unk08 01 00 00}But why?
+---
+3116: {:unk13 FA 00 32 00}{:unk08 01 00 05}That´s what I don´t know.
+---
+3117: {:unk13 48 01 67 01}{:unk08 01 00 00}Hmm.{:clear }Where´s this dungeon?
+---
+3118: {:unk13 4A 01 46 00}{:unk08 01 00 05}You can get to the undercroft
+from the west hall.
+The dungeon is down there.
+---
+3119: {:unk13 32 01 68 01}{:unk08 01 00 00}West hall. Got it.
+---
+3120: {:unk13 A0 00 46 00}{:unk08 01 01 06}Be careful!
+---
+3121: {:unk13 E0 00 45 01}{:unk08 01 01 00}There should be a way
+into the undercroft
+around here...
+---
+3122: {:unk06 02}{:unk13 8C 00 C8 00}{:unk08 03 01 06}Here it is!
+---
+3123: {:unk06 02}{:unk13 B4 00 46 00}{:unk08 03 01 06}Do you
+MIND!?
+---
+3124: {:unk13 FA 00 AA 00}{:unk08 01 01 00}And I was just
+starting to
+get comfortable...
+---
+3125: {:unk13 7C 01 32 00}{:unk08 01 00 05}May I help you?
+---
+3126: {:unk13 68 01 E6 00}{:unk08 01 00 01}Huh?{:clear }What?{:clear }Oh, right--
+Belle needs us
+to go to the dungeon.
+---
+3127: {:unk13 B4 00 64 00}{:unk08 01 01 06}Goodness!{:clear }You´re here
+to help my friends?{:clear }Well, why didn´t
+you say so?
+---
+3128: {:unk13 DC 00 5E 01}{:unk08 01 00 01}Er...
+---
+3129: {:unk13 6F 01 ED 00}{:unk08 01 00 02}I´m sorry I
+startled you.{:clear }Oh, I used to be
+human, you know,{:clear }until the enchantress
+cast her spell.
+---
+3130: {:unk13 07 01 5D 01}{:unk08 01 00 02}I was turned into a wardrobe when
+the prince was turned into a beast.
+---
+3131: {:unk13 E1 00 26 00}{:unk08 01 00 06}The prince is the Beast!?
+---
+3132: {:unk13 96 00 EB 00}{:unk08 01 01 00}The Beast is a prince!?
+---
+3133: {:unk13 40 01 46 00}{:unk08 01 00 05}That´s right.{:clear }Although his behavior was
+far from princely at the time.
+---
+3134: {:unk13 7E 01 BD 00}{:unk08 01 00 00}What´s this
+about a...spell?
+---
+3135: {:unk13 5E 01 3C 00}{:unk08 01 00 05}Well, it was a cold
+winter´s night...
+---
+3136: {:unk13 BA 00 3C 00}{:unk08 01 01 07}And that´s enough for now.{:clear }You can hear the rest when
+you´ve rescued the others.{:clear }It´ll give you something
+to look forward to.
+---
+3137: {:unk13 FA 00 B4 00}{:unk08 01 00 05}Aww...
+---
+3138: {:unk13 40 01 64 00}Hurry, now. The dungeon
+is damp and chilly.{:clear }Certainly no place for a clock!
+---
+3139: {:unk13 E6 00 32 00}{:unk08 01 00 05}A clock?
+---
+3140: {:unk13 D2 00 2E 00}{:unk08 01 01 06}You´ll find out soon enough.
+---
+3141: {:unk13 66 01 D8 00}{:unk08 01 00 03}All right.
+Let´s get going.
+---
+3142: This must be it.
+---
+3143: Uh-oh!
+---
+3144: {:unk13 61 01 A6 00}{:unk08 01 00 07}You think the dungeon´s
+past this door?
+---
+3145: {:unk13 94 00 B4 00}{:unk08 01 01 05}C´mon, we gotta set
+those servants free!
+---
+3146: {:unk13 5E 01 C8 00}{:unk08 01 00 05}He´s right. Let´s go.
+---
+3147: There´s nobody here.
+---
+3148: You mean there´s nobody to rescue?
+---
+3149: Did someone say "rescue"?
+---
+3150: Shhh!{:delay 32 00}{:clear }{:delay 0F 00}{:clear }Keep quiet. It might be THEM.
+---
+3151: Oh, they look like nice boys to me.
+---
+3152: We are nice. We´re your friends.
+---
+3153: Yeah.{:delay 19 00}{:clear }{:delay 1E 00}{:clear }Belle sent us to find you.
+---
+3154: 
+---
+3155: I´m Sora.
+---
+3156: Donald.
+---
+3157: Goofy.
+---
+3158: ...D-don´t touch! I-I am self-winding, sir!
+---
+3159: I´m glad you´re okay.
+---
+3160: It is we who are overjoyed to see you!
+---
+3161: Did somebody put a spell on you guys, too?
+---
+3162: Yes, that´s right...{:delay 5F 00}{:clear }You´ve heard! It was the enchantress.
+---
+3163: It seems so long ago...
+---
+3164: It was a cold winter´s night...
+---
+3165: An old beggar woman came to the castle,
+and asked for shelter.
+---
+3166: But the master of this castle,
+that is of course, the prince...
+---
+3167: Stop that! Put me down this instant!
+---
+3168: {:unk13 2C 01 46 00}{:unk08 01 01 06}The master turned her away.{:clear }All because of her, ahem,
+meager appearance.
+---
+3169: {:unk13 9A 01 FA 00}{:unk08 01 00 05}That´s awful!
+---
+3170: {:unk13 FA 00 46 00}{:unk08 01 01 05}Oui. He was a spoiled prince, so
+selfish and...how shall I say...cruel.
+---
+3171: {:unk06 02}{:unk13 A4 01 FA 00}{:unk08 03 00 02}Lumiere!
+---
+3172: {:unk13 C8 00 46 00}{:unk08 01 00 05}The old woman warned
+our master not to be
+deceived by appearances...{:clear }Still, he would not
+take her in.
+---
+3173: {:unk13 2C 01 50 00}{:unk08 01 01 06}Then the old woman´s
+ugliness melted away{:clear }to reveal a beautiful
+enchantress.
+---
+3174: {:unk13 DC 00 46 00}{:unk08 01 00 05}She turned the prince into
+a beast, a shape she thought
+fitting for his cold heart.
+---
+3175: {:unk13 2C 01 4B 00}{:unk08 01 01 06}And to further punish him, everyone
+in the castle was enchanted, too.
+---
+3176: {:unk13 90 01 2C 01}{:unk08 01 00 01}Wow...
+That´s quite
+a story.
+---
+3177: {:unk13 90 00 3C 00}{:unk08 01 01 05}Is there anything we
+can do to help?
+---
+3178: {:unk06 02}{:unk13 58 01 B7 00}{:unk08 03 00 05}Let´s get the enchantress!
+---
+3179: {:unk06 02}{:unk13 AA 00 78 00}{:unk08 03 00 05}Oh no, dear.
+---
+3180: {:unk13 FA 00 46 00}{:unk08 01 01 06}We already know what needs
+to be done, but with the
+master out of sorts...
+---
+3181: {:unk13 DC 00 3C 00}{:unk08 01 01 06}He sure is
+acting weird.
+---
+3182: {:unk13 E8 00 5B 00}{:unk08 01 01 04}It´s almost as if he´s forgotten
+how to trust others.
+---
+3183: {:unk13 36 01 5A 00}{:unk08 01 01 06}You don´t suppose he´s been
+turned into a Heartless, do you?
+---
+3184: {:unk06 02}{:unk13 18 01 A0 00}{:unk08 03 00 06}Heartless!?
+---
+3185: {:unk13 D2 00 3C 00}{:unk08 01 01 06}If they´re a part of this, then
+it´s a good thing we´re here.
+---
+3186: {:unk13 64 00 D7 00}{:unk08 01 01 06}Let´s go find
+the Beast!
+---
+3187: {:unk06 02}{:unk13 72 01 46 00}{:unk08 03 00 06}Splendid!
+---
+3188: {:unk13 FA 00 C8 00}{:unk08 01 00 06}Follow me, messieurs.
+I know a shortcut.
+---
+3189: {:unk13 AA 00 C8 00}{:unk08 01 01 06}Allow our guests
+to pass!
+---
+3190: {:unk13 A0 00 D2 00}{:unk08 01 01 05}After you.
+---
+3192: {:unk13 96 00 78 00}{:unk08 01 01 06}Now, I must check on
+the castle.{:clear }I fear my absence
+has been too long.
+---
+3193: {:unk13 A0 00 D2 00}{:unk08 01 01 06}I´d best be off,
+too, dears.
+---
+3194: {:unk13 FA 00 3C 00}{:unk08 01 01 06}Watch out for Heartless!
+---
+3195: {:unk13 5E 01 96 00}{:unk08 01 00 05}The master´s room is
+at the very end of
+the west wing.{:clear }I shall go on ahead
+and wait for you.
+---
+3196: It´s time you dealt with Belle.
+---
+3197: She´s scheming to take everything you have.
+---
+3198: This castle, your precious rose.{:delay A0 00}{:clear }{:delay 32 00}{:clear }And then--your life.
+---
+3199: Trust no one. Feed your anger!
+---
+3200: Only anger will keep you strong.
+---
+3201: I´ve had enough of strength.
+There´s only one thing I want--
+---
+3202: What? To love, and be loved in return?{:delay D2 00}{:clear }{:delay 60 00}{:clear }Who could ever love a beast?
+---
+3203: See? She has accomplices.
+---
+3204: Hey, Prince!
+---
+3205: Oh, dear! Master!
+---
+3206: Cogsworth...
+what happened?
+---
+3207: Well, Master...ah, you see...that is...
+How shall I say...ah, actually...mmm...
+---
+3208: Well, you put everybody down
+there in that dungeon!
+---
+3209: I did what?
+---
+3210: Ah...you did!
+---
+3211: Who was that guy you were talking to?{:delay 64 00}{:clear }{:delay 0A 00}{:clear }The one in black?
+---
+3212: Xaldin.{:delay 3C 00}{:clear }{:delay 28 00}{:clear }...That´s his name.{:delay 8C 00}{:clear }{:delay 34 00}{:clear }He came from the darkness... 
+He...used my anger to control me.{:delay 20 01}
+---
+3213: He took all my sorrow, my sadness, my pain--
+and turned it all into rage.
+---
+3214: There was nothing I could do... 
+I could no longer see the truth.
+---
+3215: Well, I´ll be. That must be why you threw
+all of your friends down there into the dungeon.
+---
+3216: You wanted to make sure that
+you didn´t hurt ´em, right?
+---
+3217: Was that it? Was it to protect them?
+---
+3218: Sure. We know you´re good inside.
+---
+3219: He´s right, Master.
+We´ve all seen how kind you can be.{:delay E6 00}{:clear } {:delay 14 00}{:clear }After all...
+---
+3220: Belle can see the goodness in your heart,
+but I´m afraid you´ve yet to--
+---
+3221: Belle!
+---
+3222: I´ve mistreated her...
+I´ve mistreated her and been so selfish.
+---
+3223: She didn´t say anything about that.
+---
+3224: She´d never tell anyone of my cruelty...
+She´s too good.
+---
+3225: You see, I´m afraid he judges himself
+far too harshly.
+---
+3226: Why don´t you just go talk to her?
+---
+3227: But...
+---
+3228: No excuses! C´mon, we´ll go with you.
+---
+3229: {:unk06 02}{:unk13 72 01 50 00}{:unk08 03 00 05}Master!
+---
+3230: {:unk13 7A 01 83 00}{:unk08 01 00 06}Everybody´s
+safe now.
+---
+3231: {:unk13 5C 00 9C 00}{:unk08 01 01 02}Wonderful!
+Thank you!
+---
+3232: {:unk13 5E 01 64 00}{:unk08 01 00 05}Where is Belle?
+---
+3233: {:unk13 4A 01 DC 00}{:unk08 01 00 01}Why, she left in a hurry.
+Something about going after
+this...man in black.
+---
+3234: {:unk06 02}{:unk13 72 01 50 00}{:unk08 03 00 05}WHAT!?{:clear }Why doesn´t she do
+as she´s told?
+---
+3235: {:unk13 40 01 46 00}{:unk08 01 00 05}Temper, temper!{:clear }Her spirit is what
+makes Belle so special.
+---
+3236: {:unk13 7C 01 50 00}{:unk08 01 01 05}We´d better go
+find her!
+---
+3237: I´m warning you! You´ll be sorry!
+---
+3238: Belle! Where are you?
+---
+3239: Beast! Help!
+I´m in the ballroom!
+---
+3240: Belle!
+---
+3241: I´m all right!
+---
+3242: We did it!
+---
+3243: So you think.
+---
+3244: Xaldin!
+---
+3245: Farewell.
+---
+3246: What does he want here?
+---
+3247: He must be with Organization {XIII}.
+---
+3248: Ever heard of the Nobodies?
+---
+3249: When a strong-hearted person turns
+into a Heartless, a Nobody´s created, too.
+---
+3250: See, the Organization...they´ve got
+control of all the Nobodies.
+---
+3251: That´s right. And they were gonna make you
+into a Heartless.{:delay DC 00}{:clear }That way, they could get that Nobody of yours
+and have control over it.
+---
+3252: You´re all right!
+---
+3253: Belle!
+---
+3254: Belle... I-I´m sorry--I...wasn´t myself.{:delay 13 01}{:clear }{:delay 14 00}{:clear }I hope I haven´t done anything to hurt you.
+---
+3255: Forgive me.
+---
+3256: I know you weren´t yourself.
+You don´t have to apologize.
+---
+3257: But I had hoped...
+that you might have changed a little bit.
+---
+3258: I wish you could start trusting me.
+---
+3259: Oh, I am afraid time is running short.
+---
+3260: What do you mean?
+---
+3261: Remember the rose?
+---
+3262: From the Beast´s room?
+---
+3263: Precisely.
+You see, if the master can learn to love,{:delay F0 00}{:clear }and earn love in return,
+before the last petal falls...
+---
+3264: the spell will be broken.
+---
+3265: Really? You think he´s gonna make it?
+---
+3266: We think so.
+---
+3267: Yep, I think you´re right.
+---
+3268: I HOPE you´re right...
+---
+3269: What happened?
+---
+3270: The gate is open!
+---
+3271: Do you have to go?
+---
+3272: Yeah.
+---
+3273: Now, no more arguin´, okay?
+---
+3274: We´ll see to it.
+---
+3275: Take care, dears.
+---
+3276: You´re welcome here anytime!
+---
+3277: If you hear anything about Riku or the King,{:delay AA 00}{:clear } {:delay 05 00}{:clear }the Heartless, the Organization--
+anything at all--let us know!
+---
+3278: Okay, gotta go!
+---
+3279: I hope tonight goes well.
+---
+3280: So do I.{:delay 28 00}{:clear }{:delay 2E 00}{:clear }But I wonder why he´s so nervous.
+---
+3281: The master does have his shy side, you know.
+---
+3282: {:unk06 02}{:unk13 64 00 40 01}{:unk08 03 00 05}Hey there!
+---
+3283: {:unk13 52 01 07 01}{:unk08 01 00 05}No Heartless and
+no Nobodies!
+---
+3284: {:unk13 94 00 A4 00}{:unk08 01 00 05}I think they´re
+close, though...
+---
+3285: {:unk13 78 00 A0 00}{:unk08 01 01 06}Better watch out!
+---
+3286: {:unk13 68 01 C8 00}{:unk08 01 00 05}What are you
+so mad about?
+---
+3287: {:unk13 C8 00 3C 00}{:unk08 01 01 06}Why are you here?
+---
+3288: {:unk13 96 00 5F 00}{:unk08 01 00 07}The Nobodies´ world
+has to be out there
+somewhere.{:clear }We´re looking for
+a way in.
+---
+3289: {:unk13 7C 01 32 00}{:unk08 01 00 05}Hmph.
+---
+3290: Tonight is very important.
+---
+3291: Uh, maybe we came at a bad time.
+---
+3292: Well, there´s only one way to find out.
+---
+3293: Donald!
+---
+3294: Now then, Monsieur, Mademoiselle.
+Please, enjoy the evening.
+---
+3295: And of course, our honored guests
+are welcome, too.
+---
+3296: A welcome indeed.
+---
+3297: The Organization!
+---
+3298: You don´t know when to quit.
+---
+3299: Oh yeah! We´ll show you!
+---
+3300: Get out!
+---
+3301: Not tonight!
+---
+3302: I´ve come to take something
+you hold very dear.
+---
+3303: Yes. Let your anger grow...
+---
+3304: Beast!
+We have to get rid of these guys first!
+---
+3305: {:unk06 02}{:unk13 5E 01 64 00}{:unk08 03 01 06}Where´s
+Belle!?
+---
+3306: {:unk06 02}{:unk13 64 00 32 00}{:unk08 03 00 05}Over here!
+---
+3307: {:unk13 61 00 C7 00}{:unk08 01 01 00}Whew,
+she´s okay.
+---
+3308: {:unk13 0E 01 46 00}{:unk08 01 01 07}Guess Xaldin didn´t
+take anything after
+all.
+---
+3309: {:unk13 B4 00 AA 00}{:unk08 01 00 01}What´s wrong?
+---
+3310: {:unk13 96 00 0E 01}{:unk08 01 01 06}Belle?
+---
+3311: {:unk13 DC 00 32 00}{:unk08 01 01 06}What´s with them?
+---
+3312: {:unk13 C8 00 46 00}{:unk08 01 00 05}Maybe Belle isn´t the only thing
+precious to the Beast.
+---
+3313: {:unk13 FA 00 FA 00}{:unk08 01 00 05}C´mon!
+---
+3314: What´s wrong?
+---
+3315: Please, calm down!
+---
+3316: Calm down!?
+---
+3317: 
+---
+3318: You just had to have a party, didn´t you?
+Don´t you see what´s happened?
+---
+3319: Hey. What´s with you?
+---
+3320: The rose... My rose...
+---
+3321: What, that?
+He took it?
+---
+3322: But surely, you can find another rose...
+---
+3323: Silence! You don´t know anything!
+---
+3324: That´s not fair, Beast.
+Don´t take it out on Belle.{:delay BE 00}{:clear }{:delay 0F 00}{:clear }It´s not like she stole it!
+---
+3325: I´m sorry.
+---
+3326: You don´t have to apologize.
+---
+3327: But...
+---
+3328: Belle... Sora...
+I want you to leave the castle.
+---
+3329: Look at me. Look. This is what I am.
+---
+3330: When you first got here,
+I tried to change.
+---
+3331: But I was only fooling myself.
+I can´t be any different.
+---
+3332: I´ll always be a beast.
+So, I should live like a beast.{:delay EB 00}{:clear }{:delay 3C 00}{:clear }With no one, alone.
+---
+3333: Good-bye, Belle.
+---
+3334: You can´t mean that...
+---
+3335: Aw, I think his mind´s all made up.
+---
+3336: Yeah.
+---
+3337: Look, Belle. Leave this to us.{:delay 7D 00}{:clear }If we can get the Beast´s rose back,
+he´ll calm down.
+---
+3338: {:unk13 36 01 C8 00}{:unk08 01 00 05}Poor child...
+---
+3339: {:unk13 5E 01 8C 00}{:unk08 01 00 05}How could it have
+come to this?
+---
+3340: {:unk13 5E 01 64 00}{:unk08 01 00 05}And they were so looking
+forward to this evening...
+---
+3341: {:unk13 82 00 AA 00}{:unk08 01 01 05}Now, now--no need
+to be so sad.
+---
+3342: {:unk13 40 01 46 00}{:unk08 01 01 05}Once the rose is back safely,
+this will all be over.
+---
+3343: {:unk13 36 01 78 00}{:unk08 01 00 06}What´s so special about
+one rose, anyway?
+---
+3344: {:unk13 40 01 C8 00}{:unk08 01 00 02}If the master can love
+and be loved in return,
+the spell will be broken.{:clear }We´ll all be human again.
+---
+3345: {:unk13 82 00 E6 00}{:unk08 01 01 05}Yeah. You told us.
+---
+3346: {:unk13 96 00 BB 00}{:unk08 01 01 02}But there is
+a time limit.
+---
+3347: {:unk13 FA 00 4A 01}He must find his true
+love before the last petal
+falls from that rose.
+---
+3348: {:unk13 5E 01 46 00}Ah, but that is not all...
+---
+3349: {:unk13 FA 00 46 00}{:unk08 01 01 06}Over time, caring for that rose
+has become a cherished part
+of the master´s daily life.
+---
+3350: {:unk13 F0 00 96 00}{:unk08 01 01 05}It´s as though all his
+hopes and dreams are
+tied to that single bloom...
+---
+3351: {:unk06 02}{:unk13 C8 00 32 00}{:unk08 03 01 06}Poor Beast!
+---
+3352: {:unk13 B4 00 2D 00}{:unk08 01 01 06}Then we have to get it back.
+---
+3353: {:unk13 5E 01 C8 00}{:unk08 01 00 05}Please do!
+---
+3354: {:unk13 DC 00 3C 00}{:unk08 01 01 05}We can´t without the
+Beast, though.{:clear }If it´s that important to him,
+he´s got to do it himself.
+---
+3355: Hey, Beast.
+---
+3356: Leave me alone.
+---
+3357: C´mon, you need to hear this.
+---
+3358: You used to be fearless.
+You would have given your life to save Belle.
+---
+3359: Don´t you know what that meant to us?
+You gave us all courage.
+---
+3360: Hmph, maybe you should
+have kept some for yourself.
+---
+3361: I mean, are you really gonna throw
+your happiness away?
+---
+3362: The rose is your only hope, isn´t it?
+---
+3363: Well, it´s the only hope for Cogsworth
+and the others, too.
+---
+3364: So, don´t throw away your last chance. {:delay 78 00}{:clear }{:delay 26 00}{:clear }Remember what it was like
+before Belle lived here?
+---
+3365: See?{:delay 28 00}{:clear }{:delay 23 00}{:clear }You can´t give up. Not now.
+---
+3366: I know one thing.
+---
+3367: What?
+---
+3368: This castle belongs to me.{:delay 78 00}{:clear }{:delay 3C 00}{:clear }Xaldin will never be
+welcome here.
+---
+3369: So, Beast...you came after all.
+---
+3370: You had me worried.
+I was afraid you´d given up for good.
+---
+3371: What do you guys really want?
+---
+3372: ...Kingdom Hearts.
+---
+3373: When Kingdom Hearts is ours, we can exist
+fully and completely.
+---
+3374: So you see, Beast--that´s why we need
+your Heartless AND your Nobody!
+---
+3375: {:unk13 64 00 3C 00}{:unk08 01 00 05}Belle...
+---
+3376: {:unk13 C8 00 46 00}{:unk08 01 00 05}She´s been like this for hours.
+---
+3377: {:unk13 B1 00 74 00}{:unk08 01 00 06}After what the Beast said
+to her, I´m not surprised.
+---
+3378: {:unk13 2C 01 46 00}{:unk08 01 01 06}I´m sorry.
+---
+3379: {:unk13 40 01 46 00}{:unk08 01 00 06}Belle, the Beast is going
+to get the rose back.{:clear }Things will be right again
+in no time, you´ll see.
+---
+3380: {:unk13 54 01 3C 00}{:unk08 01 00 05}No, Belle has suffered long
+enough on my acco--
+---
+3381: {:unk13 64 00 FA 00}{:unk08 01 01 06}Shhh!
+---
+3382: {:unk13 25 01 32 01}{:unk08 01 01 07}First we get the rose.
+Then you can work the rest out.
+---
+3383: Is that...
+---
+3384: Look! It´s the rose!
+---
+3385: Belle!
+---
+3386: Hurry!
+---
+3387: Huh?
+---
+3388: You! Get out of my castle, now!
+---
+3389: With pleasure, but I´d rather travel light...{:delay F0 00}{:clear }{:delay 46 00}{:clear }What shall I leave behind?
+---
+3390: Belle?{:delay 3C 00}{:clear }{:delay 12 00}{:clear }Or the rose?
+---
+3391: Belle!
+---
+3392: (stunned GRUNT)
+---
+3393: Good one, Belle!
+---
+3394: Here. It´s yours again.
+---
+3395: Belle...
+---
+3396: I know.
+You want me to leave the castle.
+---
+3397: What matters is...
+You weren´t hurt by Xaldin...{:delay F0 00}{:clear }{:delay 27 00}You´re safe.
+---
+3398: And... I´m very grateful to you...
+for bringing the rose back to me.{:delay CC 01}{:clear }{:delay 56 00}{:clear }Thank you.
+---
+3399: It´s the least I could do.{:delay 70 00}{:clear }You´ve been good to me.{:delay 64 00}{:clear }And you didn´t have to be.
+---
+3400: Listen, Belle...
+---
+3401: Yes?
+---
+3402: Say it!
+---
+3403: Go on!
+---
+3404: C´mon!
+---
+3405: You can do it!
+---
+3406: We have confidence.
+---
+3407: Don´t be bashful, now.
+---
+3408: Belle, I´d like you to stay...
+---
+3409: With me...
+---
+3410: Please?
+---
+3411: I will.
+---
+3412: Maestro--music!
+---
+3413: Hey, did you see the look on Belle´s face
+when she grabbed that rose?
+---
+3414: Yep, she sure was havin´ fun, all right.
+---
+3415: She is rather unique, isn´t she?
+---
+3416: Always ready for a little adventure.
+---
+3417: The two of them do seem
+made for each other.
+---
+3418: Yeah, they sure do!
+---
+7526: {:unk13 4A 01 A0 00}{:unk08 01 00 05}Are we all set?
+---
+7527: {:unk13 8C 00 8C 00}{:unk08 01 01 05}Oui. The secret door
+should open now.
+---
+7528: {:unk13 7C 01 A0 00}{:unk08 01 01 05}But I don´t see
+any secret door.
+---
+7529: {:unk13 4A 01 A0 00}{:unk08 01 01 05}No need
+to worry.
+---
+7530: {:unk13 59 01 C3 00}{:unk08 01 01 05}Just push that
+block over there--{:clear }the one that´s
+sticking out.
+---
+7531: {:unk13 C8 00 A0 00}{:unk08 01 01 06}Got it.
+---
+7534: {:unk13 E6 00 5A 00}{:unk08 01 01 05}Well...{:clear }If the Beast is here in
+the castle, that lady
+musta been Belle, right?
+---
+7535: {:unk13 52 01 44 00}{:unk08 01 00 07}Yeah, maybe so.{:clear }Belle might know what´s
+happened to the Beast, too.
+---
+7536: {:unk13 B4 00 6E 00}{:unk08 01 01 06}C´mon! Let´s go find her!
+---
+7576: {:unk13 96 00 64 00}{:unk08 01 01 05}All right, how do we
+get out of here?
+---
+7577: {:unk13 FA 00 46 00}{:unk08 01 01 06}I´m afraid we won´t be
+marching out that easily.{:clear }You see, the door leading to
+the other side is concealed by
+a sort of contraption.
+---
+7578: {:unk13 87 00 6E 00}{:unk08 01 01 05}What kind of
+contraption?
+---
+7579: {:unk13 64 00 64 00}{:unk08 01 00 05}Observe.
+---
+7580: {:unk13 78 00 0E 01}{:unk08 01 00 07}The lantern
+came down!
+---
+7581: {:unk13 B4 00 78 00}{:unk08 01 01 05}Indeed it did.{:clear }If we could but light all
+the lanterns in this passage,{:clear }the secret door would
+open...
+---
+7582: {:unk13 40 01 82 00}{:unk08 01 00 06}But, as you can see, the
+lanterns are already burning--
+with an enchanted flame.
+---
+7583: {:unk13 13 01 6E 00}{:unk08 01 00 05}You must put out this enchanted
+flame before I am able to
+light the lanterns properly.
+---
+7584: {:unk13 77 01 BE 00}{:unk08 01 00 07}Can´t ya just throw
+some water on ´em?
+---
+7585: {:unk13 18 01 8C 00}{:unk08 01 01 05}I´m afraid that´s
+not enough.{:clear }But if you use the
+power of light...
+---
+7586: {:unk13 D2 00 A0 00}{:unk08 01 01 05}Hmm...{:clear }How about I try using
+the Keyblade?
+---
+7587: {:unk06 02}{:unk13 82 00 B4 00}{:unk08 03 01 06}Bravo!
+---
+7588: Approach each lantern and use the reaction
+command Sprinkle to put it out.
+---
+7589: {:unk13 4A 01 B4 00}{:unk08 01 00 06}Only three lanterns left!{:clear }If we work together, we´ll have
+that door open in no time!
+---
+7590: {:unk13 7C 01 C8 00}{:unk08 01 00 04}Piece of cake!
+---
+7592: {:unk06 02}{:unk13 BE 00 64 00}{:unk08 03 01 06}What? Why?
+Lumiere! You--
+---
+7593: {:unk13 BE 00 82 00}{:unk08 01 01 05}If he gets tired and falls off,
+all the unlit lanterns will rise
+to the ceiling again.
+---
+7594: {:unk13 4A 01 82 00}{:unk08 01 00 06}Before you can continue, you
+must see to Cogsworth.{:clear }Once he gets his strength
+back, he´ll grasp the lever
+again for you.
+---
+7595: Use the reaction command Restore to
+help Cogsworth recover his strength.
+---
+7596: {:unk13 B4 00 78 00}{:unk08 01 01 06}Let´s give it a shot!
+---
+7597: {:unk13 A0 00 AA 00}{:unk08 01 01 05}Again, it is not quite
+so simple, mon ami.
+---
+7598: {:unk13 40 01 78 00}{:unk08 01 01 05}Certainly you cannot expect
+Cogsworth to hang from that
+handle forever?
+---
+7599: {:unk13 FF 00 80 00}Hanging on the handle
+---
+7600: {:unk13 FF 00 80 00}The lantern comes down
+---
+7601: {:unk13 FF 00 80 00}Reject motion
+---
+7743: Help Beast come to his senses!
+Work with Cogsworth to make
+his alarm ring and snap Beast out of it!
+---
+7744: Defeat all of the Nobodies!
+Using reaction commands with {:icon dynamic-triangle}
+will make the battle easier!
+---
+7745: Defeat all of the Nobodies!
+Using reaction commands with {:icon dynamic-triangle}
+will make the battle easier!
+---
+7746: Try moving the wardrobe!
+---
+7747: Come back and try while it´s asleep. Be sure to be quiet.
+---
+7748: Light all the lanterns!
+---
+7749: Cogsworth is drained! Help him recover energy!
+---
+7750: Two more lanterns to go!
+---
+7751: One more lantern to go!
+---
+8305: Help Cogsworth gather energy with successive Charges!
+---
+8306: Take advantage of when he falters!
+---
+12935: Everyone needs to help light the lantern!
+---
+12936: He´s thirsty! Mrs. Potts can give him water!
+---
+15718: If you´re going to the {:theme 0A}dungeon{:reset},
+you can get there through this door.{:clear }I´ll go back to Belle´s room.
+Please help the others.
+---
+15719: Come on, guys.
+There´s no need to lose hope.{:clear }Sora and his friends are here!
+I´m sure they´ll do something!
+---
+15720: You´re traveling to all sorts of places,
+aren´t you, Sora?{:clear }I wanna hear about all your
+adventures sometime, okay?
+---
+15721: Oh, Lumiere doesn´t take
+anything seriously!{:clear }If the spell is lifted, then I will
+really put him to work.
+---
+15722: Without that rose, neither the master nor
+any of us can ever become human again.{:clear }Please, steal back our only hope
+from that man!
+---
+15723: It would be wonderful if we could
+set up another nice evening,{:clear }seeing how we were so rudely
+interrupted before.
+Perhaps an elegant dinner is in order?
+That would help the mood.
+---
+15724: Oh, my. What a terrible turn of events.{:clear }And Belle was so looking forward
+to today´s dance...
+---
+15725: Thanks to you, the master and Belle
+are on good terms again.{:clear }You have done so much for us.
+Thank you.
+---
+15726: Why...
+Why did this have to happen...?
+---
+15727: I´d like to return to my former appearance.{:clear }Although, to tell you the truth, I have
+kind of taken a liking to my current look!
+---
+15728: I´m sure we´ll be able to put this whole
+affair behind us soon enough.{:clear }Sure, it was scary at the time,
+but I´ll be fine so long as{:clear }there´s someone who I can trust...
+---
+15732: Hey! Is something going on
+in the castle today?{:clear }Belle looks really happy, and everyone
+seems busy preparing for something.
+---
+15733: There´s no harm in preparing a little
+atmosphere for those two.{:clear }This, of course, is only possible
+because of me--the head steward!
+---
+15734: I have a good feeling
+about today.{:clear }Not even the master could reject
+Belle´s request.
+---
+15735: Well? {:theme 0A}How is the master{:reset}?{:clear }Hee hee... Knowing him,
+he´s probably jittery as a bumblebee!
+---
+15736: Why did the master yell at Belle?{:clear }Would you mind asking him that for me?
+---
+15737: Just when I thought the curse
+might be lifted, this has to happen!
+---
+15738: The master can be a bit...
+how shall I say...overdramatic, sometimes.{:clear }Would you mind {:theme 0A}speaking with him{:reset}
+for us, please?
+---
+15739: I´m sure those two will be fine,
+but still I worry...
+---
+15742: I´m so relieved everyone is all right.
+Now there´s just the Beast...{:clear }I´d really like to go with you, but I´d just
+get in the way. I´m counting on you, Sora!
+---
+15743: The master´s probably
+in {:theme 0A}his room{:reset}.{:clear }Be careful, though.
+He hasn´t quite been himself lately.
+---
+15744: The door is locked.
+---
+15746: The rose is gone.
+---
+15747: Someone must have torn
+up the room.
+---
+15749: The door is locked.
+---
+15750: At first, Belle and the master
+barely spoke to each other.{:clear }Now they´re inseparable! Ah, sweet amour!
+You never know where life will lead.
+---
+15751: It seems someone dreadful
+was after the master.{:clear }I know you have a hard task before
+you, but try not to overdo it.
+---
+15752: Did you find Belle?{:clear }What? Her scream was heard from the
+{:theme 0A}ballroom{:reset}? Oh no! You´ve got to go help!
+---
+15753: What´s this!?
+Belle needs our help!?{:clear }Then we must not keep her waiting!
+Let´s be off to the {:theme 0A}ballroom{:reset}, quickly!
+---
+15762: I heard Belle´s scream coming
+from the {:theme 0A}ballroom{:reset}!{:clear }She must be in trouble!
+What should we do, Sora!?
+---
+15763: A maiden in distress.
+This is your time for action, Master!
+---
+15764: I know you don´t want to waste any time,
+but you don´t know what´s waiting for you.{:clear }You must prepare yourselves
+before going.
+---
+15766: I wasn´t supposed to, but I kind of snuck
+along. I´m glad the master´s better.{:clear }Now if you´ll just {:theme 0A}talk to Belle{:reset},
+I´m sure they´ll get back together again.
+---
+16664: That weird-looking wardrobe
+is blocking our way!{:clear }Hmm... It looks like we might be able
+to move it if we {:theme 0A}push from the left side{:reset}.
+---
+16665: Yup. That´s the door to the {:theme 0A}undercroft{:reset}
+behind the wardrobe, all right.{:clear }But we´d better be careful to move
+the wardrobe without waking it.
+---
+16666: Cogsworth will lower the lantern, and then
+you can remove the curse with the Keyblade!{:clear }After that, Mrs. Potts and Lumiere
+will light the lantern.
+---
+16667: That wooden box is getting in everyone´s
+way, so let´s break it and clear a path.{:clear }If Cogsworth gets tired, come back
+and have Mrs. Potts take care of him.
+---
+16793: All right!
+The master´s his old self again!{:clear }Now we just have to {:theme 0A}go see Belle{:reset}.
+Come on, let´s go see her!
+---
+16865: So that´s what happened. I suspected
+something was wrong by the look of Belle.{:clear }I hate to keep dragging you into this,
+but could you please {:theme 0A}talk to the master{:reset}?
+---
+16960: It´s hard to tell who is portrayed
+in this torn portrait.
+---
+16961: This rose emits a mysterious light.
+---
+16962: A strangely shaped wardrobe.
+---
+16963: Its protrusions make it impossible
+to move from this side.
+---
+16964: These suits of armor appear impassable.
+---
+16965: The armor suits stand idly by.
+---
+16966: These suits of armor appear impassable.
+---
+16967: The armor suits stand idly by.
+---
+16968: The gate is locked.
+---
+17323: Not enough Charges! You need to Charge quicker!
+---
+17627: {:unk0f 03 0F 00 6D 01}{:color #00F0F080}The Party Command has been added.{:reset}
+This Command allows a quick exchange of Party Members.{:clear }Use this Command to switch Party Members
+during battles where menus can't be opened.{:clear }{:unk0f 00 00 00 00 00}{:unk0f 03 0F 00 84 01}{:color #00F0F080}The Limit Command has been added.{:reset}
+Press {:icon dynamic-dpad-left} to show the Limit, then select it.{:clear }{:unk0f 00 00 00 00 00}Limits are Abilities that consume Sora's MP
+and are executed with Party Members.
+---
+17628: {:unk0f 03 0F 00 84 01}{:color #00F0F080}The Limit Command has been added.{:reset}
+Press {:icon dynamic-dpad-left} to show the Limit, then select it.{:clear }{:unk0f 00 00 00 00 00}Limits are Abilities that consume Sora's MP
+and are executed with Party Members.
+---
+17709: I saw some thick, black smoke
+clinging to those statues.{:clear }Is that what´s making them move?{:clear }With them jumping out at
+people like that, I´m scared!
+---
+17710: Now you can get to the dungeon from
+the west hall! To think, though...{:clear }that wardrobe was blocking the door!
+It mustn´t have been easy for you.
+---
+18733: Defeat the Heartless that´s
+possessing the door!
+---
+18734: Defeat the Heartless!
+When it´s hiding, attack it
+and then use a reaction command!
+---
+18735: Defeat the Heartless!
+When it disappears, use
+the powerful reaction command!
+---
+18736: Defeat Xaldin of Organization {XIII}!
+Using Jump, obtained from Learn,
+will make the battle easier!
+---
+18753: The wardrobe is blocking the door again.
+---
+18754: {:unk08 02 00 06}Move the wardrobe?
+{:chardelay 33 00}Leave it alone.
+{:chardelay 09 00}Move it!
+---
+19077: The fireplace is intricately crafted.
+It must have cost a fortune.
+---
+19078: The lantern-hanging pulley
+can no longer be moved.
+---
+19079: The lantern burns strongly, and
+shouldn´t go out anytime soon.
+---
+19208: That man who ran out to the garden looked
+pretty tough, Sora. Will you be okay?{:clear }Well, I guess if you acted tough, you
+might be able to scare him.
+---
+19750: 
+---
+19873: 
+---
+19882: 
+---
+19883: 
+---
+19886: 
+---
+20186: {:unk08 02 00 06}It's an Absent Silhouette, a shadowy presence
+within an emblem.
+
+{:chardelay 33 00}Who cares?
+{:chardelay A1 00}Let's check it out!
+---
+20602: Press {:icon dynamic-triangle} to begin the duel! Collect the items that drop!
+---
+21494: {:delayandfade 07 B4} 
+According to Belle, Beast hasn't been
+himself lately. He's even locked up all the
+residents of the castle in the undercroft.
+ 
+Sora and his friends head to the west hall
+to discover a wardrobe blocking the door
+leading downstairs. After a brief
+conversation, they learn she used to be
+human, but was magically transformed
+by an evil spell.
+
+---
+21495: {:delayandfade 07 B4} 
+She goes on to explain that Beast was also
+once human, and prince of the castle. If
+Sora wants to know more, his servants
+have more details they can share.
+ 
+Curious to find out the truth, Sora heads
+downstairs.
+ 
+ 
+ 
+
+---
+21496: {:delayandfade 07 B4} 
+Although the old woman begged him to let
+her stay the night, the selfish prince
+turned her away.
+ 
+Little did he know that the old woman was
+really a witch. She magically transformed
+him into a beast, his servants also
+victims of her spell.
+ 
+ 
+
+---
+21497: {:delayandfade 07 B4} 
+Sora and the gang save Belle, managing to
+protect "something they hold very dear."
+ 
+Or so they thought, until they see Beast
+run off, leaving Belle behind. What could
+be more important to him than Belle?
+ 
+ 
+ 
+ 
+
+---
+21498: {:delayandfade 07 B4} 
+Beast treasured the rose with his life
+because it was his only hope of undoing
+the spell cast upon himself and the others
+in the castle.
+ 
+It's up to Sora to convince Beast to
+retrieve the precious flower for everyone's
+sake.
+ 
+ 
+
+---
+21631: {:delayandfade 07 B4} 
+In order to help everyone return to the
+way they were, Beast must first come to
+his senses.
+ 
+Guided by the castle's servants, Sora and
+his friends head to Beast's chambers.
+There's no time to lose!
+ 
+ 
+ 
+
+---

@@ -1,0 +1,1323 @@
+﻿4906: Scar is cruel and brutal.{:clear }You´d do well to keep your distance
+from him.
+---
+4907: Nala taught me how to run fast. It
+sure is easier to catch food now!
+---
+4908: He may be living in the {:theme 0A}king´s den{:reset},
+but he isn´t doing a king´s job.{:clear }Oh... I wonder if Rafiki has anything
+in mind...
+---
+4909: So Scar fled to the king´s den, hm?
+That leads to the peak.{:clear }It´s time for Simba to show everyone
+he´s fit to be king!
+---
+4910: The king has returned, but much yet
+needs to be done to restore our kingdom.{:clear }Still, this challenge may be just what
+Simba needs.
+---
+4911: Simba´s in the {:theme 0A}king´s den{:reset},
+but you´ve seen the ghost, too.{:clear }Please go to him. Seeing you may
+cheer him up.
+---
+4912: The hyenas should be in
+the {:theme 0A}Elephant Graveyard{:reset}.{:clear }After that, it all depends on Simba´s
+heart.
+---
+4913: Simba is lucky to have friends such
+as you.{:clear }If Scar had friends like you, maybe he
+wouldn´t be this way.
+---
+4914: Why doesn´t Nala like
+hakuna matata?{:clear }It´s a wonderful phrase that means
+no worries, no cares! Live for today!
+---
+4915: So, you´re returning
+to the {:theme 0A}Pride Lands{:reset}...{:clear }You can prepare for your journey
+here. Whatever you do, don´t get hurt.
+---
+4916: Nala wants to be left alone.
+Why don´t you go cheer up Simba?{:clear }hakuna matata...
+You understand, don´t you, guys?
+---
+4917: You can run fast like lions,
+right?{:clear }I wish I could do that, too. It´d be
+useful when running away...
+---
+4918: A bird and a turtle.
+You´re a strange bunch.{:clear }What? We´re strange, too? Well, all
+that really matters is having fun.
+---
+4919: Nala and the others are in trouble!
+We´ve got to get to Pride Rock!
+---
+4920: Nooooo!
+---
+4921: Nooooo!
+---
+4922: Hey! Check us out.
+---
+4923: Are you thinking what I´m thinking?
+---
+4924: Definitely Heartless.
+---
+4925: That´s him.
+---
+4926: Hey--a snack.
+---
+4927: {:unk13 A0 00 6E 00}{:unk08 01 01 05}I´m sorry I got you
+involved in this.
+---
+4928: Hey, why the long face, Simba?
+You gotta lighten up and live a little!
+---
+4929: 
+---
+4930: 
+---
+4931: we were told that Simba
+died alongside him.
+---
+4932: Simba!
+---
+4933: Simba! Wait!
+---
+4934: Simba, you´ve got to come back
+to Pride Rock.
+---
+4936: My father´s dead.
+And it´s because of me... It´s my fault.
+---
+4937: Wait a minute.
+We´re gonna fight your uncle for THIS?
+---
+4938: Simba! You´re...alive!
+---
+4939: Where´s Simba?
+---
+4940: Simba!
+---
+4941: 
+---
+4942: Hey, what´s with the light show?
+---
+4943: 
+---
+4944: Scar!?
+---
+4945: {:unk13 B5 00 4E 00}{:unk08 01 01 04}Have you come to see Simba?
+---
+4946: You came back...
+---
+4947: {:unk13 E6 00 4A 00}{:unk08 01 00 06}Oh ho ho!
+The king--he is ready to be king?
+---
+4948: Whoa...
+---
+4949: Oh no... I guess you caught us ALL.
+---
+4950: {:unk13 91 00 87 00}{:unk08 01 00 05}Where´s Simba?
+---
+4951: Father...
+---
+4952: Simba!
+---
+4954: Simba seems fine now.
+---
+8089: Defeat all of the Heartless!
+---
+8090: Defeat all of the Heartless!
+Using reaction commands with {:icon dynamic-triangle}
+will make the battle easier!
+---
+8091: Fight the hyenas while protecting Pumbaa and Timon!
+---
+8092: Defeat all of the hyenas!
+Coordinate with Pumbaa to
+lure them together.
+---
+8093: Defeat the three hyenas, Shenzi, Banzai, and Ed!
+---
+8094: Defeat all of the hyenas!
+---
+8481: 
+---
+8482: This place is kinda creepy, though.
+---
+8483: 
+---
+8484: 
+---
+8485: Heartless?
+---
+8486: I dunno, Sora.
+I get the feelin´ they might live here.
+---
+8487: Don´t mind us! Just passing
+through. We won´t be any trouble.
+---
+8488: Yeah, that´s right!
+---
+8489: Don´t be silly.
+We´d love you to stick around for lunch.
+---
+8490: Um...we didn´t bring anything to eat.
+---
+8491: That´s not gonna be a problem!
+---
+8492: Gawrsh, Sora--
+I think WE´RE the lunch!
+---
+8493: 
+---
+8494: Going somewhere?
+---
+8495: Man, that Scar´s got the worst timing.
+---
+8496: Just let him roar.
+---
+8497: Nah, we better go see{:delay 78 00}{:clear }what he wants. Sounds like
+he's grumpy enough already.{:delay B4 00}{:clear }{:delay 46 00}{:clear }Fine...
+---
+8498: I dunno what that was about,
+but I´m glad it´s over!
+---
+8499: Everything´s harder on four legs...
+---
+8500: Better start practicing!
+---
+8501: I found a trick to it. Here, lemme show ya.
+---
+8502: Heartless!?
+---
+8503: What do we do?
+---
+8504: Stay back!
+---
+8505: Thank you. You really saved me.
+---
+8506: We´re just glad you´re okay.
+---
+8507: Did you see any other Heartless around here?
+---
+8508: Heartless... Is that what they´re called?
+I´m not sure if there are any others...
+---
+8509: I don´t usually hunt
+outside the Pride Lands.
+---
+8510: Pride Lands?
+---
+8511: Hey, do you know if a guy
+named Riku is there?
+---
+8512: Or some bad guys in black hoods?
+---
+8513: Or maybe this really big bully named Pete?
+---
+8514: Oh well, we might as well go take a look, anyway.
+---
+8515: Wait--the Pride Lands are dangerous.
+---
+8516: Scar and the hyenas have made
+things unbearable for everyone.
+---
+8517: There´s no food left. They´ve driven
+off the prey. We´re about to starve.
+---
+8518: We can handle a little danger. You just
+saw us beat those Heartless, didn´t you?
+---
+8519: I guess you´re right...{:delay 78 00}{:clear }You could be just what the kingdom
+needs. Maybe you can help us.
+---
+8520: Ya mean take on this Scar guy
+and all those hyenas?
+---
+8521: Scar?
+---
+8522: He took over when our last king,
+Mufasa, died.
+---
+8523: So you´re saying this guy is your king.
+---
+8524: You want us to take down your king?
+---
+8525: Wait just a minute.
+---
+8526: We can´t just go around knocking
+kings off their thrones.
+---
+8527: Then again, if they see that
+I´m stronger than their king,{:delay B4 00}{:clear }maybe they´ll ask me to be
+their next king!
+---
+8528: Sora...
+---
+8529: I´d have to refuse, of course.
+---
+8530: Still, I´d like to see the
+Pride Lands,{:delay 78 00}{:clear }so you guys don´t mind
+lending ´em a paw, do you?
+---
+8531: Uh-oh, there he goes again...
+---
+8532: She´s gonna go on ahead and
+tell the other lionesses.
+---
+8533: We´re supposed to meet her
+at a place called Pride Rock.
+---
+8534: Uh...what?
+---
+8535: What is it?
+---
+8536: I told Rafiki you might be able to help
+us force Scar and the hyenas{:delay C8 00}{:clear }out of the Pride Lands.
+---
+8537: But he says it won´t work.{:delay 78 00}{:clear }You see, whoever saves the Pride Lands
+will be our next king...{:delay 78 00}{:clear }and he has to have the right qualities.
+---
+8538: Meaning...
+---
+8539: I think she means
+you´re not cut out for the job, Sora.
+---
+8540: I´m sorry you came all this way.
+---
+8541: Hey, no--it´s okay.
+---
+8542: You´d better go before
+Scar finds out you´re here.
+---
+8543: I´m really sorry.
+---
+8544: Snack? Nah, we got us a three course meal.
+---
+8545: Look at that, here comes Scar--the king.
+---
+8546: And Pete!
+---
+8547: My back...
+---
+8548: What are you doing here!?
+---
+8549: Aww, the cute li´l kitty´s worried about me.{:delay B4 00}{:clear }If I were you, I´d be more worried
+about my friends!
+---
+8550: We´re surrounded!
+---
+8551: Sora!!
+---
+8552: Go on, ladies--
+you´ve got some hunting to do.
+---
+8553: The herds have moved on, Scar.
+We can´t hunt in a land with no prey.
+---
+8554: No prey?
+Then what do you call this?
+---
+8555: We´re not prey!
+---
+8556: Oh. Nice and fresh, too.
+---
+8557: Well, they´re all yours, Scar.
+---
+8558: 
+---
+8559: Run!
+---
+8560: Follow me!
+---
+8561: Y-yeah....
+---
+8562: What were you thinkin´ about?
+---
+8563: Lemme guess. The past, right?
+---
+8564: 
+---
+8565: Hakuna matata!
+---
+8567: Would you look how he´s
+grown, Pumbaa.{:delay 90 00}{:clear }Why, when I rescued the little guy,
+he was only this big.
+---
+8568: What´s wrong?
+---
+8569: We´re never gonna make it.
+---
+8570: I guess Rafiki was right.
+---
+8571: What?
+---
+8572: Never mind. It´s not important.
+Here, I´ll show you how.
+---
+8573: You can do it!
+---
+8574: Who told you that?
+---
+8575: Scar.
+---
+8576: It is time.
+---
+8577: It must be Simba!
+---
+8578: Sora! Hurry!
+---
+8579: Wait up!
+---
+8580: I-it´s me--Sora!
+Donald and Goofy are here, too.
+---
+8581: Sora! Donald! Goofy!
+---
+8582: What happened to you?
+---
+8583: Help! Simba! Heeelp!
+---
+8584: She´s gonna eat us!
+---
+8585: Timon? Pumbaa!?
+---
+8586: Something must have happened in the jungle!
+I have to go help my friends!
+---
+8587: Okay, we´ll back you up!
+---
+8588: Stop!
+---
+8589: It´s Nala! Don´t you recognize her?
+---
+8590: Nala?
+---
+8591: It´s me, Simba!
+---
+8592: Simba!
+---
+8593: You are alive!
+---
+8594: Hey! What´s goin´ on here!?
+---
+8595: Don´t worry. They´re all friends of mine.
+---
+8596: So that means...nobody´s planning
+to eat anybody else for lunch, right?
+---
+8597: Are you sure they don´t wanna
+eat me like I´m some kinda pig!?
+---
+8598: We won´t...but you are a pig, right?
+---
+8599: Call me Mr. Pig!
+---
+8600: Could you guys excuse us for a few minutes?
+---
+8601: Why am I not surprised?
+---
+8602: I thought Sora might be
+able to help,{:delay 87 00}{:clear }but you´re the only one
+who can save us from Scar.
+---
+8603: I can´t go back.
+---
+8604: Why?
+---
+8605: Hakuna matata.
+---
+8606: Simba...
+---
+8607: Hakuna!
+---
+8608: Matata!
+---
+8609: He´s not the Simba I remember.
+---
+8610: Something about hakuna matata...
+---
+8611: I can´t go back...
+It won´t change anything.
+---
+8612: Look at the stars.{:delay 78 00}{:clear }The great kings of the past
+look down on us from those stars.
+---
+8613: So whenever you feel alone,
+---
+8614: just remember that those kings will
+always be there to guide you...{:delay DE 00}{:clear }And so will I.
+---
+8615: Father...are you there?
+---
+8616: Simba...you have forgotten who you are.
+You must take your place in the Circle of Life.
+---
+8617: How can I go back? I´m not who I used to be.
+---
+8618: Remember who you are.
+---
+8619: You can all come out now.
+---
+8620: I´m going back to face my past.
+I could use your help.
+---
+8621: He really is a king...
+---
+8622: Yes, Timon. This is my home.
+---
+8623: This kingdom doesn´t belong to you.
+---
+8624: Simba´s the rightful king.
+---
+8625: The choice is yours, Scar.
+Either step down or fight.
+---
+8626: Must this all end in violence?
+---
+8627: I´d hate to be responsible for the
+death of a family member, Simba...
+---
+8628: I´ve put the past behind me.
+---
+8629: But what about your faithful subjects?
+Have they?
+---
+8630: Simba, what´s he talking about?
+---
+8631: Go on. Tell them who´s responsible
+for Mufasa´s death!
+---
+8632: I am.
+---
+8633: He admits it! Murderer!
+---
+8634: If it weren´t for you, Mufasa would
+still be alive. Do you deny it?
+---
+8635: No! But it was an accident!
+---
+8636: You´re in trouble again. But this time,
+Daddy isn´t here to save you.
+---
+8637: And now everyone knows why!
+---
+8638: Now this looks familiar.
+---
+8639: Oh, yes! I remember.{:delay A2 00}{:clear }This is just the way your
+father looked...before he died.
+---
+8640: And here´s my little secret...
+I killed Mufasa.
+---
+8641: Murderer! Tell them the truth!
+---
+8642: All right. All right! I did it.
+---
+8643: Louder!
+---
+8644: I...killed...Mufasa!
+---
+8645: Simba! You get Scar!
+We´ll handle these guys!
+---
+8646: ´Scuse me! Pardon me! Comin´ through!
+---
+8647: He went up there.
+---
+8648: This is his fight, Donald.
+---
+8649: You´re okay!
+---
+8650: Aw, that was just a sneak preview!
+---
+8651: ´Cause this ain´t over--not by a long shot!
+---
+8652: Anger and jealousy turned the king of
+Pride Rock into a Heartless!
+---
+8653: Oh, your kingdom´s gonna rise again...
+---
+8654: But this time, as the Pride Lands of Darkness!
+---
+8655: That´s what you think!
+---
+8656: We have to say good-bye for a little while.
+---
+8657: I´ll go tell Simba.
+---
+8658: Aw, he´s prob´ly busy.
+Just tell him we´ll be back soon.
+---
+8659: Oh, that´s right--
+he´s king now. {:delay B4 00}{:clear }He´s gonna be so busy he´ll prob´ly
+forget about his two best buddies.
+---
+8660: Well, you always got hakuna matata, right?
+---
+8661: Guess so...
+---
+8662: Whaddaya mean, "Guess so"!?
+---
+8663: What if he forgets to tell the
+carnivores who we are?{:delay 96 00}{:clear }One look at you, and you´re a pig roast.
+---
+8664: That´s MISTER Pig Roast.
+---
+8665: Same thing!
+---
+8666: And I´m not sticking around to be
+anybody´s pork dinner!
+---
+8667: Pumbaa!
+---
+8668: You can never forget your true buddies.
+---
+8669: Oh, it´s you guys.
+Man, we were hoping you were a meal.
+---
+8670: Hiya!
+---
+8671: Don´t gimme any of that "hiya" stuff!
+Thanks to you clowns,{:delay DC 00}{:clear }we´re back to scavenging scraps
+for a living.
+---
+8672: C´mon, it´s not that bad. I enjoyed that
+week-dead elephant we had yesterday.
+---
+8673: Hey, how´s Simba?
+---
+8674: We gotta laugh every time
+we hear that dude´s name.
+---
+8675: Ooh. Say it again!
+---
+8676: Simba!
+---
+8677:  {:delay 78 00}{:clear }One more time!
+---
+8678: Simba!
+---
+8679: That´s enough!
+---
+8680: Go on then, see for yourself.
+Simba is one wishy-washy king.
+---
+8681: Yeah, I bet about now, even some of those
+high and mighty lionesses were wishin´{:delay FC 00}{:clear }they´d gotten themselves a different king.
+---
+8682: Gawrsh, whaddaya think coulda happened?
+---
+8683: Well, let´s go find Simba and see.
+---
+8684: Huh?
+---
+8685: A ghost?
+---
+8686: We better tell Simba about this.
+---
+8687: Wonder if he´s up there...
+---
+8688: Are you okay?
+---
+8689: You don´t look so good.
+---
+8690: Hey, Simba. Why don´t we team up and
+do something about that Scar ghost?{:delay 16 01}{:clear }Seems like everybody´s worried about it.{:delay 7F 00}{:clear }So, now´s your big chance to show ´em
+what you´re really made of!
+---
+8693: That doesn´t concern you!
+---
+8694: Sorry...
+---
+8695: It´s okay.
+---
+8696: I just wish I knew
+what my father would do.
+---
+8697: But he´s not here, Simba.
+It´s all up to you now.
+---
+8698: And that means the important thing is
+what you´re gonna do being the king.{:delay DC 00}{:clear }Not what your father woulda done.
+---
+8699: So you´re saying...it´s all up to me...
+---
+8700: See, there ya go!
+---
+8701: Exactly!
+---
+8702: We know your dad was a great king, and all.
+But now it´s your turn.
+---
+8703: Remember what I taught ya.
+"You gotta put the past behind you."{:delay C8 00}{:clear }It´s time to go out there and show
+everybody things are gonna be just fine!
+---
+8704: Yeah, you can do it!
+---
+8705: You gotta live for today!
+---
+8706: And find your own path!
+---
+8707: Live for today...
+---
+8708: And find my own path...
+not my father´s...
+---
+8709: That´s it!
+---
+8710: I´m glad to hear you say that, Simba.
+---
+8711: Nala!
+---
+8712: Promise me you´ll help Simba any way you can.
+---
+8713: As long as Sora handles the dangerous parts!
+---
+8714: I´m counting on you, Simba...
+and so is our baby.
+---
+8715: Great! Now we´re going to have to babysit!
+---
+8716: Let´s go see Rafiki first. I´m sure he´ll be
+able to tell us something about that ghost.
+---
+8717: Hey you!
+---
+8718: Aw, c´mon, can´t you guys just leave us alone?
+---
+8719: Do you three know anything about Scar´s ghost?
+---
+8720: Huh? Scar´s ghost?
+---
+8721: Maaaybe.
+---
+8722: You DO know!
+---
+8723: What´re we gonna do?
+---
+8724: Tell me about Scar´s ghost!
+---
+8725: Sorrrry. We don´t know nothin´.
+---
+8726: Ooh, wait! It´s coming back to me!{:delay 96 00}{:clear }That´s the one that only hangs out
+around fraidy cats. Right, Banzai?
+---
+8727: Enough!
+---
+8728: And there it is!
+---
+8729: Must be a fraidy cat around here somewhere!
+---
+8730: Simba! Do something!
+---
+8731: How does it feel to be king, hmm?
+---
+8732: Why, you must be a truly inspiring
+ruler by now.
+---
+8733: After all, you ARE the son
+of the great Mufasa.
+---
+8734: Where´re you going?
+---
+8735: Ah, Simba...running away as always.
+---
+8736: Simba!
+---
+8737: Gawrsh, Rafiki was right.
+---
+8738: You mean, Simba´s still unsure?
+---
+8739: Seems like. Do ya think there´s
+some way we can help?
+---
+8740: Hmm... We should start by talking to
+Simba some more.{:delay FA 00}{:clear }Let´s head back to the Pride Lands.
+---
+8741: Hmm. It seems even your daddy´s
+abandoned you. How sad.
+---
+8742: It´s no use.
+I´ll never be the king my father was.
+---
+8743: But Simba...
+That´s not what you´re supposed to be.{:delay C8 00}{:clear }You can´t be Mufasa. You can only be you.
+---
+8744: Everybody believes in you as a king.
+They just want to see what you´ll do.
+---
+8745: And if anyone´s saying
+they liked your father better,{:delay C8 00}{:clear }it´s because you haven´t done much yet.
+That´s all.
+---
+8746: I know that.
+---
+8747: Then stop moping and DO something!
+---
+8748: I can´t!
+---
+8749: ...Fine.
+---
+8750: Let´s go, Sora.
+---
+8751: Yeah. Why stick around
+if he´s not even gonna try?
+---
+8752: C´mon Goofy!
+---
+8753: The hesitant king will one day lose
+all his friends.
+---
+8754: King Simba the doubtful...
+---
+8755: Worried by a silly ol´ ghost...
+---
+8756: Ooh, Simba the do-nothing king...
+---
+8757: No!
+---
+8758: Try and stop me!
+---
+8759: You did it!
+The ghost is gone!
+---
+8760: We knew you could do it!
+---
+8761: Hooray for Simba!
+---
+8762: 
+---
+8763: You know, I´m really lucky to have friends
+who´ll stand by me...{:delay DC 00}{:clear }and help me see clearly.
+---
+8764: My father...wasn´t so fortunate.
+---
+8765: There you go again.
+---
+8766: I mean...
+---
+8767: Everyone here, and in the Pride Lands,
+wants me to succeed.
+---
+8768: Sora, Donald and Goofy.
+Pumbaa, Timon, Rafiki...Nala.
+---
+8769: You all want what´s best for me.{:delay 96 00}{:clear }But my father always had Scar lurking
+behind his back, trying to cut him down.
+---
+8770: I´ve got to make the most of my
+blessings, and rebuild this kingdom.
+---
+8771: Are you gonna say it, or do it?
+---
+8772: Wait and see.
+---
+8773: Simba!
+---
+8774: Simba! Come quick!{:delay 64 00}{:clear }There´s a bazillion ghosts of Scar
+haunting the Pride Lands!
+---
+8775: Everybody but Nala high-tailed it outta there.
+And now she needs your help.
+---
+8776: Our little Simba...all grown up and
+finding his place in the world...
+---
+8777: Nice try. You´re coming, too!
+---
+8778: We´re here!
+---
+8779: Where´s Simba?
+---
+8780: I´ve come back, Nala.
+---
+8781: Get out!
+---
+8782: Way to go, Simba!
+---
+8783: Are you with me?
+---
+8784: Now and forever, Your Majesty!
+---
+8785: Ha! The king has returned!
+---
+8786: The Pride Lands will not forget
+King Simba´s courage.{:delay C8 00}{:clear }Or the courage of those
+who fought beside him.
+---
+8787: Do you think your quest will ever be over?
+---
+8788: I don´t know...
+---
+8789: But I think, as long as the Keyblade
+stays with me... {:delay C8 00}{:clear }I´ll have to keep fighting.
+---
+8790: Ahh... The struggle never ends.
+That is the great Circle of Life.
+---
+8791: Never ever?
+---
+8792: The secret to victory...
+---
+8793: ...is a strong heart.
+---
+8794: Go on, go on, go--go then!{:delay 72 00}{:clear }{:delay AE 00}Go on, get out! Yes, yes!
+---
+8795: It is time! Your fight continues...
+---
+8796: Till we meet again, Your Majesty.
+---
+8797: I hope that´s soon.
+---
+8798: It will be! So long!
+---
+12095: It´s something I learned out here.{:delay 78 00}{:clear }Sometimes bad things happen and
+there´s nothing you can do about it.
+---
+12886: {:unk13 2C 01 64 00}{:unk08 01 00 05}It´s no big deal.
+---
+12887: {:unk13 20 01 34 00}{:unk08 01 00 04}Aw, it´s not your fault. Sora
+wouldn´t be a good king.
+---
+12888: {:unk13 2C 01 64 00}{:unk08 01 00 05}Hey! I had to give
+it a try, right?
+---
+12889: {:unk13 36 01 04 01}{:unk08 01 00 04}So you DID
+want to be king!
+---
+12890: {:unk13 2C 01 64 00}{:unk08 01 00 05}Well...you know...
+---
+12891: {:unk13 BC 00 61 00}{:unk08 01 01 04}Uh, Nala, isn´t there anybody
+else who could be king?
+---
+12892: {:unk13 D0 00 51 00}{:unk08 01 01 05}There was...but he died...
+when he was just a cub.{:clear }He was the son of our
+last king, Mufasa.
+---
+12893: {:unk13 D8 00 5D 00}{:unk08 01 01 05}If only Simba were here...
+---
+12894: {:unk13 B8 00 43 01}{:unk08 01 01 02}Simba!?
+But Simba´s just fine!{:clear }He was fighting right beside
+us not that long ago.
+---
+12895: {:unk13 05 01 35 01}{:unk08 01 01 01}You mean Simba´s alive!?
+But where is he?
+---
+12896: {:unk13 5F 01 77 00}{:unk08 01 00 05}That... I don´t know.
+---
+12897: {:unk13 7A 01 78 00}{:unk08 01 01 05}Still...Simba´s alive!
+I can´t believe it...{:clear }Please--tell me
+more about him.
+---
+12898: {:unk13 FB 00 2F 01}{:unk08 01 01 00}Of course!
+---
+12899: {:unk13 63 01 65 00}{:unk08 01 01 05}But first, we should get
+away from Scar. We´ll go
+through Wildebeest Valley.{:clear }He won´t follow us there.
+---
+12900: {:unk13 32 01 29 01}{:unk08 01 01 01}We saw Scar´s ghost!
+---
+12901: {:unk13 42 01 CD 00}{:unk08 01 00 01}An omen like that could only be
+foretelling the end of our pride.{:clear }Yet... King Simba
+won´t do a thing.
+---
+12902: {:unk13 45 01 3F 00}{:unk08 01 00 04}I guess just being the son
+of the great King Mufasa{:clear }doesn´t necessarily mean
+he´s ready to rule
+the kingdom himself.
+---
+12903: {:unk13 48 01 72 00}{:unk08 01 01 04}Trust me, Simba will
+think of something.
+---
+12904: {:unk13 00 01 40 00}The time for thinking is past.
+We need him to take action--{:clear }as his father would have done.
+He ruled with courage and pride.
+---
+12905: {:unk13 8E 00 4A 01}{:unk08 01 00 02}I remember it like
+it was yesterday...{:clear }The mighty Mufasa...
+---
+12906: {:unk13 74 01 6D 00}{:unk08 01 00 06}Simba´ll do all that,
+too. You´ll see!
+---
+12907: {:unk13 8E 00 4A 01}{:unk08 01 00 02}I´m not so sure.
+---
+12908: {:unk13 B4 00 56 00}{:unk08 01 01 06}Wait here. I want
+to talk to Simba.
+---
+12909: {:unk13 9D 01 49 00}{:unk08 01 00 05}I think so.
+---
+12910: {:unk13 2F 01 5E 01}{:unk08 01 01 01}Can you tell us about Scar´s ghost?
+---
+12911: {:unk13 54 01 4D 00}{:unk08 01 00 05}Oh, yes...the ghost.{:clear }A being with no body.
+It is created when
+the evil heart of Scar{:clear }meets the hesitating
+heart of Simba.
+---
+12912: {:unk13 73 01 3E 01}{:unk08 01 01 00}Hesitating?
+---
+12913: {:unk13 1C 01 49 00}{:unk08 01 00 06}Ohhhh... You thought
+you were not?
+---
+12914: {:unk13 A8 00 55 01}{:unk08 01 01 02}Gawrsh, that ghost sounds
+just like a Heartless.
+---
+12915: {:unk13 7E 00 19 01}{:unk08 01 01 01}Hmm, I don´t know.
+---
+12916: {:unk13 9B 00 1D 01}{:unk08 01 00 02}You´re right,
+you don´t.{:clear }But you do know
+it is upsetting.{:clear }And it is upsetting
+the hearts of everybody
+in the Pride Lands.{:clear }You may not know
+what it is,
+but it still IS.
+---
+12917: {:unk13 5F 01 46 00}{:unk08 01 00 05}This world, it is full
+of many such things.{:clear }And these things, a king
+must face.{:clear }It is the test that has
+been set for you, Simba.
+---
+12918: {:unk13 3D 01 5D 00}{:unk08 01 00 04}That´s all?
+Come on.{:clear }You have to
+tell us more
+about the ghost...
+---
+12919: {:unk13 FB 00 56 01}{:unk08 01 01 01}No, not today!{:clear }But the hyenas in the elephant
+graveyard may know more.{:clear }Does not matter, though. There is
+little the Simba of late can do.
+---
+12920: {:unk13 54 01 54 00}{:unk08 01 01 05}Aw, don´t say that! Not
+when he´s ready to try!
+---
+12921: {:unk13 AB 00 51 00}{:unk08 01 01 06}In his head, perhaps...
+but what about his heart?
+---
+12922: {:unk13 4A 01 4D 00}{:unk08 01 00 06}Forget it, Sora. Let´s head
+for the elephant graveyard.
+---
+12923: {:unk13 14 01 7B 00}{:unk08 01 01 05}Well, uh...
+---
+12924: {:unk13 A6 00 68 00}{:unk08 01 01 05}Oh ho ho!
+He ran away!{:clear }I knew it would not
+be easy for him.
+---
+12925: {:unk13 4C 01 3B 01}{:unk08 01 01 01}Why didn´t you just say so?
+---
+12926: {:unk13 65 01 82 00}{:unk08 01 00 00}But where´s
+Simba now?
+---
+12927: {:unk13 46 01 45 01}{:unk08 01 01 01}Hey, I know! He´s
+at the oasis.{:clear }It´s our
+favorite hangout!
+---
+12928: {:unk13 C8 00 18 01}{:unk08 01 01 01}Got it! Let´s
+check it out.
+---
+12929: {:unk13 81 00 54 00}{:unk08 01 01 06}I´ll lead the way!
+---
+12930: {:unk13 45 01 50 01}{:unk08 01 00 00}Oh, no you won´t!{:clear }Simba´ll smell you
+coming a mile away.{:clear }And if he´s smart,
+he´ll run for the hills!
+---
+12931: {:unk13 71 01 94 00}{:unk08 01 01 05}Oh...right.
+---
+13025: {:unk13 48 01 3D 01}{:unk08 01 00 01}To face his fears, he must
+go somewhere where the only
+thing to think of is what to do,{:clear }not what others think of him.
+---
+14227: It´s easy to get lost in the vast
+savannah. Try looking for landmarks.{:clear }Things like bones in the Elephant
+Graveyard, or the craggy mountain here.
+---
+14228: This place has gone to ruin ever
+since Scar became king.{:clear }What are we supposed to do when the
+hyenas eat up all our prey?
+---
+14229: There isn´t any prey anywhere. What
+we should do is cross Wildebeest Valley.{:clear }But no, Scar would never let us leave
+here.
+---
+14230: The hyenas are vicious; they hunt 
+just for the thrill of it. They ate up all 
+the prey almost immediately.
+---
+14231: All our problems won´t disappear just
+because we have a new king.{:clear }Still, I won´t lose hope. Having it
+means a world of difference.
+---
+14232: Hakuna matata.{:clear }Yep, that's the life
+for us!
+---
+14233: You can get to the Elephant Graveyard or
+Wildebeest Valley through the savannah.{:clear }I wonder how long it will take before
+the beautiful scenery is restored...
+---
+14234: Things may be better now
+with Simba here...{:clear }but what this land really needs is a
+king like Mufasa.
+---
+14235: Did you see it, too? Scar´s ghost
+appeared all over the place!{:clear }Everyone´s terrified something awful´s
+going to happen.
+---
+14236: I´m sure Mufasa is gazing down on
+Simba with pride.{:clear }I pray that you live a life that makes
+those dear to you proud as well.
+---
+14237: Thanks for helping Simba. It sure is
+nice to have friends!{:clear }I hope our child will have good friends
+like you someday, too.
+---
+14238: Hakuna matata, baby!{:clear }No matter what happens, that will
+never change!
+---
+14239: Timon, Nala and the others are in
+trouble!{:clear }We have to hurry to Pride Rock and
+help them!
+---
+14240: The first time I saw Simba, he was
+smaller than I was.{:clear }We´ve been through a lot together,
+but I´ve never seen him so alive!
+---
+14428: I think I´ve seen this before.
+---
+14654: It seems Simba went to the oasis.
+I´ve done all that I can do.{:clear }The rest is up to Simba and his
+friends.
+---
+14655: Ho ho! A worthy opponent for the
+king, don´t you think?{:clear }The battle will take place on {:theme 0A}the
+savannah{:reset}. As with all trials, be careful!
+---
+14822: When Simba´s father,
+King Mufasa, died,
+---
+14852: You see a painting of a lion.
+---
+15245: You see, whoever saves the Pride Lands
+will be our next king...{:delay F6 00}{:clear }and he has to have the right qualities.
+---
+17174: Scar told us that Mufasa died
+in a wildebeest stampede.{:clear }I can´t believe it was actually Scar
+who killed him. He has to pay!
+---
+17175: Scar ran toward the king´s den!{:clear }Scar´s despicable, but he´s strong.
+Be careful.
+---
+17176: The hyenas also benefitted
+from Mufasa being gone.{:clear }That´s probably why they teamed up
+with Scar.
+---
+17177: Scar tries to confuse his opponents
+by jumping in and out.{:clear }Plan your tactics accordingly when
+fighting him.
+---
+17178: If you´re looking for Simba, he
+probably went to the {:theme 0A}oasis{:reset}.{:clear }It´s quiet there, and the perfect place
+for thinking.
+---
+17179: Nala, Timon and the others all went to
+the king´s den!{:clear }The hyenas ran after them, too. We´ve
+got to help Timon and the others!
+---
+17180: Scar sure is bad!{:clear }So, we really need to be ready
+to help out against the hyenas.
+---
+17181: Simba... You have to beat Scar...
+Please save our kingdom...
+---
+17182: If Scar´s alone, I´m sure Simba can handle
+it, but who knows what he has planned?{:clear }Please, Sora. Go make sure Simba´s all
+right.
+---
+17183: Simba chased after Scar toward
+the {:theme 0A}peak up above{:reset}.{:clear }This is the grand finale.
+Go cheer Simba on!
+---
+17184: That lioness looked
+pretty serious.{:clear }Save the kingdom, defeat the king...
+what kind of world have we come to?
+---
+17185: To get to Pride Rock, we should head
+toward that large mountain, right?{:clear }We´d better get going. Nala´s waiting
+for us.
+---
+17186: I wonder what that scream was.
+It came from the {:theme 0A}jungle{:reset}.
+---
+17187: It sounds like Simba´s friends
+are in trouble!{:clear }This may be a new enemy.
+Let´s go after {:theme 0A}Simba{:reset}!
+---
+17189: Simba has something that Mufasa
+didn´t. He must figure this out himself.{:clear }I´ll be waiting for you, Simba.
+---
+17190: All my old "friends" left me just
+because of how I smell.{:clear }But now I have Timon, and I'm livin' a
+life of hakuna matata!
+---
+17191: Simba thought the world
+of his father.{:clear }That´s why he compares himself with
+Mufasa, and feels so unsure.
+---
+17192: He seemed troubled by a lot of things
+when we lived at the oasis.{:clear }He´s gotten so huge, but the most
+important part of him never grew up.
+---
+17193: {:theme 0A}Rafiki{:reset} is really wise.
+He might know what we should do.{:clear }If you´re ever in a bind, you should
+see what he has to say.
+---
+17252: Simba and Nala used to play together
+when they were younger.{:clear }They were really close, those two.
+Tee hee!
+---
+17253: I evacuated the others!{:clear }Please, you have to win. For Simba
+and our child!
+---
+17254: It looks like something´s riding on top
+of that monster!{:clear }It couldn´t be controlling it,
+could it?
+---
+17255: What are we gonna do if that beast
+comes here?{:clear }You´ve gotta stop it in the {:theme 0A}savannah{:reset},
+or this place´ll be destroyed!
+---
+17256: You must really be bored to be
+wandering about these parts.{:clear }Has Scar´s ghost vanished already?
+---
+17257: Heh heh. It´s lookin´ like the
+kingdom´s falling apart.{:clear }Don´t worry, if that happens, we´ll
+become your new king.
+---
+17258: Eh heh heh heh heh...
+(He sounds happy.)
+---
+17259: Scar used to bring us food all the
+time.{:clear }He must have thought us easy to
+manipulate.
+---
+17260: It´s back to scavenging
+again.{:clear }So long as we´re still alive, though, I
+guess we can´t complain.
+---
+17261: Eee hee hee hee! Gyah hah hah hah.
+(He seems downright ecstatic.)
+---
+17717: It´s hard to be king...{:clear }Mufasa and Simba have both
+dealt with the challenges.
+---
+17718: Timon told me they like
+eating bugs.{:clear }He said Simba ate them, too. He´s
+courageous in more ways than one!
+---
+17719: I wonder if Simba´s cub will go
+through trials like him.{:clear }Even if it does, I´m sure in the end
+it will live up to the family heritage.
+---
+17720: My, don´t you look delicious today!
+Ah ha ha... I´m just kidding, of course.{:clear }You helped Simba save the Pride Lands.
+Thank you!
+---
+18072: If Kairi saw you like this, I bet she´d
+think you were cute!{:clear }I guess those magical clothes of
+yours transformed you.
+---
+18073: We´re gonna have to learn how to defend
+ourselves, bein´ on all fours like this.{:clear }I bet there are lots of moves
+we can do that we normally couldn´t!
+---
+18746: Defeat Scar!
+Watch his movements and
+attack when the time is right!
+---
+18747: Defeat the Giant Heartless!
+A jump attack from behind may take him down!
+---
+18932: 
+Sora learned the "Dash" ability.
+
+---
+18933: 
+Sora learned the "Running Tackle" ability.
+
+---
+18956: The core is in the head of the Giant Heartless! Attack his head!
+---
+18957: The core is in the head of the Heartless! Jump on his back to attack!
+---
+19210: Use reaction commands to stop the Giant Heartless from escaping!
+---
+19254: The king´s den is in there, where a
+long line of kings once reigned.{:clear }Now only pretenders to the throne
+are there.
+---
+19404: Dodge attacks by jumping!
+---
+19405: Successfully use Fend to defeat the Giant Heartless!
+---
+19426: He may be living in the king´s den,
+but he isn´t doing a king´s job.{:clear }Oh... I wonder if {:theme 0A}Rafiki {:reset}has anything
+in mind...
+---
+19427: He may be living in the king´s den,
+but he isn´t doing a king´s job.{:clear }Oh... I wonder if Rafiki has anything
+in mind...
+---
+19755: 
+---
+19869:  
+---
+21525: {:delayandfade 07 B4} 
+With Scar as king, the kingdom is doomed.
+If only there were someone else to rule the
+Pride Lands. Nala can't help but wonder how
+different things would be if Simba were still
+alive.
+ 
+When Sora explains that he fought with
+Simba just a year ago, Nala can barely
+contain her joy. Perhaps there's hope
+after all.
+
+---
+21526: {:delayandfade 07 B4} 
+"Scar's ghost signals the kingdom's demise."
+ 
+The kingdom's subjects cower in fear,
+waiting for the end to come.
+ 
+However, in a time when he's needed most,
+Simba stands by doing nothing. What is
+he waiting for?
+ 
+ 
+
+---
+21527: {:delayandfade 07 B4} 
+According to Rafiki, Scar's ghost is
+connected with and created from Simba's
+weakness.
+ 
+In order to restore peace to the kingdom,
+Simba must defeat the apparition.
+ 
+Perhaps the hyenas in the Elephant
+Graveyard may have some useful knowledge.
+ 
+
+---
+21528: {:delayandfade 07 B4} 
+Sora and his friends search for Simba,
+but he's nowhere to be seen. Perhaps he's
+at his favorite spot--the oasis.
+ 
+Still scarred by the memories of the past,
+does he have what it takes to be king?
+ 
+ 
+ 
+ 
+
+---

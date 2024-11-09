@@ -1,0 +1,1463 @@
+﻿5771: Please talk Jack out of this. I´m worried he
+might do something extreme.
+---
+5772: I can´t count on those kids
+to do anything right.{:clear }Would you be interested in
+helping me in their place?
+---
+5773: We´ll never be able to go through with
+Halloween with those guys around!{:clear }You´ve got to hurry {:theme 0A}to Sandy {:reset}and put an
+end to this!
+---
+5774: Oh no! Everyone, look! There´s smoke
+coming out of the house!{:clear }You´ve got to rescue Santa,
+quick!
+---
+5778: Hmm... I don´t see anything here that we
+could use for Halloween.
+---
+5779: Whoever snuck into the factory must have
+run off somewhere.{:clear }I doubt they could have gotten far.
+Maybe we´ll find a clue outside.
+---
+5780: The entrance to the toy factory
+is over there.{:clear }We´ve been so busy lately, the {:theme 0A}toy factory{:reset}
+is running 24-7! So much for sleep!
+---
+5781: Now then, I can´t let Jack
+upstage me.{:clear }I hope all of you enjoy Halloween and
+Christmas this year.
+---
+5784: The Heartless are causing trouble in
+the{:theme 0A} Halloween Town Square{:reset}.{:clear }It looked like they were playing with
+presents. Be careful.
+---
+5785: A special device is located
+upstairs.{:clear }It caused a lot of problems, though, so now
+only authorized personnel can enter.
+---
+5790: Hey, this is Halloween Town, right?
+---
+5791: Well, it sure does look like
+Hallowee...{:delay DC 00}{:clear }Wha?
+---
+5792: Hey, it´s Zero!{:delay 3C 00}{:clear }How´ve you been, boy?
+---
+5793: What´s that for?
+---
+5794: It´s Jack!
+---
+5795: Sora, Donald, and Goofy!{:delay A8 00}{:clear }Welcome back,{:delay 5A 00}{:clear }and Merry Christmas!
+---
+5796: Merry Christmas?{:delay 54 00}{:clear }  {:delay 31 00}{:clear }Don´t you mean "Happy Halloween"?
+---
+5797: Of course. Halloween greetings from
+Jack Skellington, the Pumpkin King.
+---
+5798: Forgive me. I´m in
+a Christmas mood.{:delay 87 00}{:clear }You see, I´m running the show
+again this year--{:delay 8A 00}{:clear }but I need Sandy Claws´s blessing,
+so I´m off to Christmas Town.
+---
+5799: "Sandy Claws"?
+---
+5800: I think he means Santa Claus.
+---
+5801: Aren´t these decorations wonderful?
+---
+5802: This year Halloween Town´s
+going to handle Christmas too!
+---
+5803: But first!
+---
+5804: We have to visit Sally.{:delay 70 00}{:clear }She´s working on something no self-
+respecting Santa Claus can do without.{:delay FD 00}{:clear }Come along--I´ll show you!
+---
+5805: A Halloween Town Christmas...
+---
+5806: Wanna go check it out?
+---
+5807: C´mon, hurry!
+---
+5808: Hello, Doctor! Where´s Sally?
+---
+5809: Can´t you see...{:delay 46 00}{:clear }  {:delay 0A 00}{:clear }that I´m in the middle
+of an experiment?
+---
+5810: Hey, this is way too heavy!
+---
+5811: Then let´s toss it!
+---
+5812: You do and you´ll be sorry!
+Now bring it over here.
+---
+5813: Heave-ho!
+---
+5814: Imbeciles! Now my experiment is ruined!
+---
+5815: Sally! Did you finish it?{:delay 64 00}{:clear }  {:delay 0A 00}{:clear }I want to show my good friends.
+---
+5816: I´m sorry, Jack. I...{:delay 64 00}{:clear }  {:delay 1E 00}{:clear }I need a little bit more time.
+---
+5817: Ohh...
+---
+5818: Well, that´s all right.{:delay 50 00}{:clear }Just as long as it´s
+ready for Christmas!
+---
+5819: But... Jack...
+---
+5820: I´d best be off.{:delay 62 00}{:clear }I´ve got to go get
+Sandy Claws, right away!
+---
+5821: Wonderful to see you again.
+---
+5822: Good-bye for now!
+---
+5823: Go get Santa Claus...?
+---
+5824: Please, Sora.{:delay 33 00}{:clear }I´m afraid something terrible will
+happen if Jack goes through with this.
+---
+5825: You can say that again!
+---
+5826: Sora?
+---
+5827: Are those strange-looking fellows
+in the town square with you?
+---
+5828: Huh? What "fellows"?
+---
+5829: You know, the ones who wanted
+to spoil Halloween AND Christmas?{:delay 9B 00}{:clear }What are they called again...{:delay 78 00}{:clear }  {:delay 28 00}{:clear }Heartless?
+---
+5830: They're definitely not with us.{:delay 5A 00}{:clear }  {:delay 14 00}{:clear }But Donald, Goofy, and I
+can get rid of them for you.
+---
+5831: And then we can go see Santa!
+---
+5832: But first, the Heartless!
+---
+5833: Now hear this, you...you things!{:delay AD 00}{:clear }Leave Halloween Town at once...{:delay 84 00}{:clear }by order of the mayor!
+---
+5834: Jack? Where are you?{:delay 72 00}{:clear }I´m only an elected official--
+I can´t handle this by myself.
+---
+5835: Jack!
+---
+5836: We´re on it!
+---
+5837: {:unk13 4A 01 50 00}{:unk06 01}{:unk08 01 00 05}How is Sandy Claws
+supposed to relax{:clear }with all this going on?
+---
+5838: {:unk13 4A 01 50 00}{:unk06 01}{:unk08 01 00 05}That´s it, fellows!{:clear }Sandy Claws needs
+bodyguards. Are you
+up to the task?
+---
+5839: {:unk13 AE 01 D2 00}{:unk06 02}{:unk08 03 00 06}Us?
+---
+5840: {:unk13 E6 00 78 00}{:unk06 00}{:unk08 01 01 06}Yeah!
+---
+5841: What should we bring along next time?
+---
+5842: A bucketful of caterpillars!
+---
+5843: Or something even worse!
+---
+5844: Who´s that?
+---
+5845: Some old hag!
+---
+5846: Silence!
+---
+5847: A witch?
+---
+5848: Hmm...perhaps you three
+could be of use to me.{:delay FA 00}{:clear }Come along, all of you.{:delay A0 00}{:clear }I´ll show you the true
+meaning of  "mischief."
+---
+5849: All right, bodyguards!{:delay 73 00}{:clear }Christmas Town is this way!{:delay 8C 00}{:clear }The doorway is in the woods
+just past the graveyard!
+---
+5850: Here it is! The door to Christmas Town.
+---
+5851: The spooks of Halloween can get
+so tiresome year after year.{:delay DE 00}{:clear }I wanted something new.{:delay 6C 00}{:clear }And I found this!
+---
+5852: Beyond this door is a world
+filled with wonders...{:delay B6 00}{:clear }the likes of which
+you´ve never seen!
+---
+5853: At first I couldn´t believe my eyes!{:delay 70 00}{:clear }Everything was so fresh and exciting!
+---
+5854: C´mon! Just open it!
+---
+5855: Cooool!
+---
+5856: So where´s Santa?
+---
+5857: In his workshop.
+---
+5858: Shall we?
+---
+5859: Here too!?
+---
+5860: En garde, loyal bodyguards!
+---
+5861: Christmas is in big trouble!
+---
+5862: Gawrsh, we can´t let anything
+bad happen to Christmas.
+---
+5863: That´s where Sandy Claws lives.
+---
+5864: Well, hello everyone.{:delay 6A 00}{:clear }Did you come to see if
+you´re on my "nice" list?
+---
+5865: Your name?
+---
+5866: Um, Sora, sir.
+---
+5867: Let´s see...Sora...
+---
+5868: Here you are.
+---
+5869: Well, according to my list, Sora...{:delay AF 00}{:clear }seven years ago you told everyone
+you did not believe in Santa Claus...{:delay 50 01}{:clear }Oh, that is unfortunate.
+---
+5870: How about Donald and Goofy?
+---
+5871: Oh, boy!
+---
+5872: Am I on your list too, by any chance?{:delay 72 00}{:clear }It´s me, Jack!
+---
+5873: Jack Skellington!?
+---
+5874: What sort of trouble
+did you bring this time?
+---
+5875: This time?
+---
+5876: It´s a long story!
+---
+5877: Why do we have to hide?
+---
+5878: Silence!{:delay 64 00}{:clear } {:delay 0F 00}{:clear }Well, this is a pleasant surprise. That fool
+Jack brought Sora and the others with him.{:delay 2C 01}{:clear } {:delay 0F 00}{:clear }Now we can deal with all of them at once!
+---
+5879: What do you want us to do?
+---
+5880: Who´s there?
+---
+5881: Busted!
+---
+5882: It´s Lock, Shock, and Barrel!
+---
+5883: Not those three...
+---
+5884: I assure you, they´re not with us.
+---
+5885: Well, whatever the case,
+they´ve been quite naughty.{:delay 9B 00}{:clear }Catch them and bring them back here.{:delay 96 00}{:clear }They´re going to get a lecture.
+---
+5886: Uh...Mr. Claws?{:delay 46 00}{:clear }I wanted to talk to you
+about Christmas first.
+---
+5887: It´ll have to wait.{:delay 50 00}{:clear }  {:delay 0F 00}{:clear }I need to see how things are
+progressing in my workshop.
+---
+5888: C´mon, Jack--{:delay 23 00}{:clear }let´s catch those little pranksters.
+---
+5889: Oh, all right, then.
+---
+5890: I was so looking forward to destroying
+that ridiculous Christmas Town.{:delay 18 01}{:clear }  {:delay 0F 00}{:clear }But now that Sora and those imbeciles are
+here I think a change of plan is called for.{:delay 7C 01}{:clear }  {:delay 0F 00}{:clear }Revenge before pleasure, after all.{:delay B4 00}{:clear }
+---
+5891: What kind of revenge?
+---
+5892: The magnificent, malevolent
+kind, of course.
+---
+5893: That sounds really bad.
+---
+5894: Like Oogie´s kinda bad!
+---
+5895: And that´s super-duper bad!
+---
+5896: Oogie Boogie?{:delay 3C 00}{:clear }  {:delay 32 00}{:clear }That bag of incensed insects?{:delay B4 00}{:clear }  {:delay 64 00}{:clear }How intriguing.{:delay 78 00}{:clear }And where might I find him?
+---
+5897: Jack and his dumb, stupid
+friends destroyed him.
+---
+5898: Ah yes, now I remember.{:delay B7 00}{:clear }More intriguing still!{:delay A1 00}{:clear }I believe I´ll bring your
+master back for you.
+---
+5899:  {:delay CD 00}{:clear }I feel like a million bugs!{:delay B4 00}{:clear }  {:delay 1E 00}{:clear }I really owe you one
+for this, Maleficent.
+---
+5900: Indeed you do, Oogie.{:delay 78 00}{:clear }  {:delay 0F 00}{:clear }Do you remember
+Sora, Donald, and Goofy?
+---
+5901: Do I remember them? Ha!
+You´re too much!{:delay FA 00}{:clear }  {:delay 0F 00}{:clear }I´ll never forget what they did to me...{:delay C8 00}{:clear }  {:delay 14 00}{:clear }What was it they did to me?
+---
+5902: Squashed you like a bug!
+---
+5903: That sounds bad!
+---
+5904: And Jack helped!
+---
+5905: Even worse!
+---
+5906: They creamed ya!
+---
+5907: That's right, that's right!{:delay 78 00}{:clear }  {:delay 14 00}{:clear }That's one thing I won't be forgetting any
+time soon! It's the last thing I remember.{:delay 1D 01}{:clear }  {:delay 0F 00}{:clear }And it's the only thing I'll remember{:delay 91 00}{:clear }until I teach those clowns not to
+mess with Mr. Oogie Boogie!
+---
+5908: Yes...that´s right.
+That´s the spirit.{:delay B4 00}{:clear }  {:delay 46 00}{:clear }And I have the perfect
+plan already in mind.
+---
+5909: Have you ever heard of Christmas Town?
+---
+5910: Mr. Oogie!
+---
+5911: Wake up! Wake up!
+---
+5912: We want to see how bad you are!
+---
+5913: {:delay 64 00}{:clear }It seems he needs more time to recover.{:delay 96 00}{:clear }  {:delay 50 00}{:clear }You three--stay here and keep
+Sora and the others occupied.
+---
+5914: My Heartless will help you.
+But do not fail me!
+---
+5915: There they are!
+---
+5916: Stop them!
+---
+5917: Tie ´em down!
+---
+5918: Get ´em!
+---
+5919: {:unk13 6E 00 96 00}{:unk06 00}{:unk08 01 00 06}Ah ha ha ha!
+---
+5920: {:unk13 2C 01 64 00}{:unk06 00}{:unk08 01 00 06}That was fun!
+---
+5921: {:unk13 04 01 78 00}{:unk06 00}{:unk08 01 01 06}Let´s go see if Mr. Oogie´s ready!
+---
+5922: {:unk13 2C 01 46 00}{:unk06 02}{:unk08 03 00 05}Oogie!?
+---
+5923: {:unk13 6C 01 61 00}{:unk06 00}{:unk08 01 00 05}Isn´t he the one who
+tried to take over
+Halloween Town before?
+---
+5924: {:unk13 5E 01 50 00}{:unk06 00}{:unk08 01 00 05}That´s him. Fellows, I hope
+you´re ready for trouble...
+---
+5925: {:unk13 2C 01 82 00}{:unk06 00}{:unk08 01 01 06}Don´t we have enough
+trouble already?
+---
+5926: Confound it. Now I´ve lost my way.
+---
+5927: Oh, this is utter foolishness.{:delay 9C 00}{:clear }  {:delay 0A 00}{:clear }I should be getting ready for Christmas.
+---
+5928: Is that you...Mr. Sandy Claws?
+---
+5929: Yes, but...please, call me Santa Claus.
+---
+5930: Of course.{:delay 43 00}{:clear }Mr. Santa Claus, I was hoping
+I´d find you here.{:delay C0 00}{:clear }  {:delay 19 00}{:clear } You see...{:delay 42 00}{:clear }It´s very important that you
+go back to Christmas Town.{:delay AE 00}{:clear }  {:delay 11 00}{:clear }I´m afraid something terrible
+is going to happen if you don´t.
+---
+5931: Well, I am behind on
+my preparations...{:delay C8 00}{:clear }  {:delay 14 00}{:clear }All right.{:delay 3C 00}{:clear }Tell Jack I´ll be waiting for him
+at home.{:delay 87 00}{:clear }He had something to say to me
+about Christmas.
+---
+5932: But that´s just it.{:delay 5A 00}{:clear }  {:delay 0F 00}{:clear }Please, go home and lock the door.
+And if Jack knocks, don´t open it!
+---
+5933: There. The large one in red.
+---
+5934: All I gotta do is kidnap him?
+---
+5935: That´s right.{:delay 3C 00}{:clear }  {:delay 14 00}{:clear }Lock him up at once!{:delay 5A 00}{:clear }  {:delay 19 00}Then begin destroying Christmas Town.{:delay D2 00}{:clear }  {:delay 0F 00}{:clear }That´s sure to make Sora and
+the other fools come running.
+---
+5936: And then they´re all mine!
+---
+5937: Yes.{:delay 50 00}{:clear }  {:delay 14 00}{:clear }And in the meantime,{:delay 3C 00}{:clear }I´ll turn Santa Claus
+into Santa Heartless!{:delay F0 00}{:clear }
+---
+5938: Are we done?
+---
+5939: Who´s there?
+---
+5940: {:unk13 FA 00 3C 00}{:unk06 00}{:unk08 01 01 06}What´s wrong, Sally?
+---
+5941: {:unk13 AA 00 64 00}{:unk06 01}{:unk08 01 00 06}Jack! Oogie´s kidnapped
+Santa Claus!
+---
+5942: {:unk13 E6 00 3C 00}{:unk06 02}{:unk08 03 01 07}Oh, no!
+---
+5943: {:unk13 AA 00 64 00}{:unk06 01}{:unk08 01 00 06}And he´s headed for
+Christmas Town!
+---
+5944: {:unk13 FA 00 78 00}{:unk06 00}{:unk08 01 01 06}C´mon, Jack--
+let´s hurry!
+---
+5945: 
+---
+5946: I´ve done a little redecorating!
+---
+5947: Wait...
+Something´s not quite right.{:delay B4 00}{:clear }  {:delay 28 00}{:clear }I know what it is!{:delay 64 00}{:clear }We just need a little more
+of that Oogie flair!
+---
+5948: I do hope our jolly old friend{:delay 8A 00}{:clear }is looking forward to
+becoming a Heartless.
+---
+5949: Clumsy oaf!
+---
+5950: Are you still here?{:delay 73 00}{:clear }Why don´t you Oogie on back where you
+came from. You´re crampin´ my style!
+---
+5951: Have you already forgotten
+who brought you back,{:delay B4 00}{:clear }you insolent bag of bugs?
+---
+5952: Sorry! Can´t remember a thing!
+---
+5953: Very well, you ingrate.{:delay 6E 00}{:clear }You´ll rue the day you spurned my help!
+---
+5954: That´s Santa´s house!
+---
+5955: 
+---
+5956: Jack Skellington!
+---
+5957: Oogie!
+---
+5958: {:delay 82 00}{:clear }You and I have a score
+to settle, Jack!{:delay B4 00}{:clear }  {:delay 1E 00}{:clear }Same goes for your little sidekicks!
+---
+5959: What are you planning to do{:delay 3C 00}{:clear }with Sandy Claws?
+---
+5960: Who?{:delay 3C 00}{:clear }  {:delay 2D 00}{:clear }Sandy Claws?{:delay 64 00}{:clear }  {:delay 28 00}{:clear }I don´t know what you´re talking about!
+---
+5961: And why is this roly-poly red guy here?{:delay DC 00}{:clear }  {:delay 1F 00}{:clear }Time to go, grandpa!
+---
+5962: Eh?
+---
+5964: Mr. Santa Claus!
+---
+5965: Why, you...
+---
+5966: 
+---
+5967: Stop!
+---
+5968: 
+---
+5969: All right, Christmas is safe again!
+---
+5970: Perfect! I´d better
+get down to business!
+---
+5971: Leave that to Santa!
+---
+5972: Yup, you oughta stick to
+Halloween and spooky stuff!
+---
+5973: Jack?
+---
+5974: Here, it´s done.
+---
+5975: Wonderful!{:delay 32 00}{:clear }  {:delay 14 00}{:clear }Why, I love it!{:delay 50 00}{:clear }Thank you, Sally!
+---
+5976: Jack...
+Do you really have to do this?
+---
+5977: But I make a splendid Sandy Claws!
+---
+5978: {:delay 19 00}{:clear }Listen here, Jack Skellington.{:delay 5A 00}{:clear }  {:delay 14 00}{:clear }You saved me, and Christmas as well.
+And for that, I´m very grateful.{:delay 0E 01}{:clear }  {:delay 0A 00}{:clear }But please promise you won´t
+cause any more trouble!
+---
+5979: And about that suit!
+---
+5980: Don´t even think about
+taking over for me again!
+---
+5981: I just thought you could use a
+little help this year, Mr. Claws.{:delay A0 00}{:clear }  {:delay 14 00}{:clear }You must be exhausted from
+all the preparations.{:delay B9 00}{:clear }And--I wouldn´t mind a second chance
+to get this Christmas thing right.
+---
+5982: {:delay 37 00}{:clear }Yes, being Santa Claus can be tiring.{:delay 9B 00}{:clear }  {:delay 14 00}{:clear }But let me tell you something, Jack.{:delay 64 00}{:clear }  {:delay 14 00}{:clear }Seeing the happy faces
+of little children{:delay A0 00}{:clear }  {:delay 14 00}{:clear }when they discover the
+presents I´ve brought them{:delay 96 00}{:clear }makes it all worthwhile,
+year after year after year.
+---
+5983: And you, Jack--you love to
+make them gasp{:delay B3 00}{:clear }and see them shiver with fright.{:delay 7E 00}{:clear }What if someone tried to take
+all of that away from you?
+---
+5984: We both have very important
+jobs to do, Jack.{:delay AA 00}{:clear }  {:delay 1E 00}{:clear }Mine is to take care of Christmas,{:delay 8C 00}{:clear }  {:delay 0A 00}{:clear }and yours is to take care of Halloween.{:delay 9B 00}{:clear }  {:delay 0A 00}{:clear }So we each have to do
+the very best we can.
+---
+5985: After all, you´re the face of Halloween--{:delay 8C 00}{:clear }  {:delay 28 00}{:clear }Mr. Jack Skellington!{:delay 64 00}{:clear }  {:delay 14 00}{:clear }The Pumpkin King!{:delay 64 00}{:clear }  {:delay 0F 00}{:clear }The Knight of Nightmares!
+---
+5986: And even though you´re
+fascinated with Christmas, Jack...{:delay BE 00}{:clear }  {:delay 0A 00}{:clear }Halloween is your true specialty.{:delay 96 00}{:clear }  {:delay 0F 00}{:clear }Don´t you see? Children rely
+on both of us to do our jobs.{:delay F0 00}{:clear }  {:delay 0F 00}{:clear }Halloween needs your attention...{:delay 8C 00}{:clear }and I know Christmas needs mine--
+urgently.
+---
+5987: You´re right!{:delay 28 00}{:clear }  {:delay 14 00}{:clear }I am the master of terror!{:delay 82 00}{:clear }  {:delay 0A 00}{:clear }And if Halloween has become too routine,{:delay 91 00}{:clear }all I have to do is think of something new{:delay 69 00}{:clear }that´ll really make them scream!
+---
+5988: Jack! Oh, Jack!
+---
+5989: I´ve been looking for you everywhere!{:delay 78 00}{:clear }  {:delay 32 00}{:clear }We must go over the plans
+for next Halloween!{:delay A0 00}{:clear }I can´t do a thing without your approval!
+---
+5990: So true.
+---
+5991: Good luck, Jack Skellington.
+---
+5992: Well, there he goes.
+---
+5993: Yes, and I´ve got lots of names to
+check and preparations to finish!
+---
+5994: Jack, this is no time for joking!
+---
+5995: What´s this?{:delay 32 00}{:clear }  {:delay 2D 00}{:clear }Perhaps a bit too festive
+for our Halloween needs.
+---
+5996: We better get going.
+---
+5997: Before you do, Sora...{:delay 53 00}{:clear }  {:delay 15 00}{:clear }I believe there´s a friend of yours...
+who--{:delay 86 00}{:clear }  {:delay 13 00}{:clear }if I recall correctly--
+was the one who told you{:delay B4 00}{:clear }there´s no such thing as Santa Claus?
+---
+5998: Oh yeah...{:delay 64 00}{:clear }  {:delay 0F 00}{:clear }He did say that.
+---
+5999: Be sure to give him
+my very best wishes.
+---
+6000: I will, but...{:delay 28 00}{:clear }  {:delay 1E 00}{:clear }Do you know where I can find Riku?
+---
+6001: No...but don´t give up!{:delay 87 00}{:clear }  {:delay 28 00}{:clear }Remember, if you believe in Riku,{:delay 87 00}{:clear }  {:delay 1E 00}{:clear }you will find him.{:delay 50 00}{:clear }  {:delay 1E 00}{:clear }Just as you found me.
+---
+6002: Right!
+---
+6003: {:delay 28 00}{:clear } {:delay 28 00}{:clear }There´s nothing wrong with my
+design--it´s flawless.{:delay E6 00}{:clear } {:delay 14 00}{:clear }There must be something wrong with the
+parts those imbeciles brought me.
+---
+6004: I need to find better assistants.
+---
+6005: Huh?
+---
+6006: Perfect timing, gentlemen!{:delay 55 00}{:clear }Lend me a hand, won´t you?
+---
+6007: These presents must
+belong to Sandy Claws.{:delay 82 00}{:clear }  {:delay 0A 00}{:clear }So I thought I´d better return them.
+---
+6008: You just happened to find them?
+---
+6009: Of course, Sora.{:delay 46 00}{:clear }I´m finished with Christmas
+fantasies. You know that.
+---
+6010: But...{:delay 0F 00}{:clear }You thought you´d hold on to the suit?
+---
+6011: What, this?{:delay 28 00}{:clear }It´s just a costume.
+---
+6012: And Sally worked so
+very hard making it!
+---
+6013: Come on. We´ve got work to do!
+---
+6014: Oh!
+---
+6015: Wherever did you find these?
+---
+6016: In Halloween Town.{:delay 64 00}{:clear }You´ll be needing them
+for Christmas, right, Sandy?
+---
+6017: Of course.{:delay 3C 00}{:clear }  {:delay 3C 00}{:clear }But these are just a few of the{:delay 78 00}{:clear }Christmas presents that were stolen.
+---
+6018: Stolen!?
+---
+6019: Oh, Sandy... You don´t think it was ME?
+---
+6020: Still wearing the outfit, I see.
+---
+6021: I just thought I´d dress
+for the occasion.{:delay A0 00}{:clear }  {:delay 32 00}{:clear }But if you don´t believe me,{:delay 82 00}{:clear }then we´ll just have to
+find out who really did it!
+---
+6022: Very well, I´ll leave it to you.
+---
+6023: All right,{:delay 3C 00}{:clear }Sora, Donald, Goofy!{:delay 69 00}{:clear }We´re off!
+---
+6024: This looks good.
+---
+6025: No!
+---
+6026: Boooring!
+---
+6027: This one?
+---
+6028: No!
+---
+6029: No way!
+---
+6030: Hey!
+---
+6031: So YOU three took them!
+---
+6032: Took what?
+---
+6033: You stole the presents, didn´t you!
+---
+6034: It wasn´t us!
+---
+6035: But...
+---
+6036: It really sounds like fun!
+---
+6037: Run for it!
+---
+6038: {:unk13 0E 01 5A 00}{:unk06 00}{:unk08 01 00 00}Where´d you put the presents?
+---
+6039: {:unk13 2C 01 64 00}{:unk06 00}{:unk08 01 00 05}We told you!
+We don´t have ´em!
+---
+6040: {:unk13 90 01 50 00}{:unk06 00}{:unk08 01 00 05}Then why are you
+in here!?
+---
+6041: {:unk13 2C 01 32 00}{:unk06 00}{:unk08 01 00 06}We´re looking for parts
+for the experiment.
+---
+6042: {:unk13 90 01 46 00}{:unk06 00}{:unk08 01 00 05}Experiment?
+---
+6043: {:unk13 7C 01 98 00}{:unk06 00}{:unk08 01 01 07}Dr. Finklestein´s
+making us a friend!
+---
+6044: {:unk13 5E 01 54 01}{:unk06 00}{:unk08 01 01 07}One we get to boss around!
+---
+6045: {:unk13 59 01 41 00}{:unk06 00}{:unk08 01 00 05}It´s true the doctor´s
+been hard at work making
+SOMETHING lately...
+---
+6046: {:unk13 5E 01 32 00}{:unk06 00}{:unk08 01 00 05}Besides, Christmas
+presents are boring!{:clear }Not scary or gross...
+So what good are they?
+---
+6047: {:unk13 A4 01 78 00}{:unk06 00}{:unk08 01 00 06}Yeah!
+---
+6048: {:unk13 42 01 32 00}{:unk06 00}{:unk08 01 00 05}There´s nothing fun here.
+Let´s go back to Halloween Town!
+---
+6049: {:unk13 40 01 50 00}{:unk06 00}{:unk08 01 00 05}So, were those pranksters
+responsible for taking the gifts?
+---
+6050: {:unk13 96 00 50 00}{:unk06 00}{:unk08 01 01 06}It doesn´t look like it.
+---
+6051: {:unk13 FA 00 C8 00}{:unk06 00}{:unk08 01 00 05}Then that means...
+---
+6052: {:unk13 96 00 64 00}{:unk06 00}{:unk08 01 00 05}Sally!
+---
+6053: {:unk13 B4 00 50 00}{:unk06 00}{:unk08 01 01 06}Oh, thank goodness!
+You´re all here.
+---
+6054: {:unk13 C8 00 64 00}{:unk06 00}{:unk08 01 00 05}Is something wrong?
+---
+6055: {:unk13 B4 00 50 00}{:unk06 00}{:unk08 01 01 06}The Heartless are back in
+the town square.{:clear }I thought you should know.
+---
+6056: {:unk13 C8 00 64 00}{:unk06 00}{:unk08 01 00 05}That´s our cue!
+---
+6057: {:unk13 5E 01 96 00}{:unk06 00}{:unk08 01 00 05}Back to Halloween Town!
+---
+6058: {:unk13 5E 01 3C 00}{:unk06 00}{:unk08 01 00 05}But wait!
+---
+6059: {:unk13 39 01 31 00}{:unk06 00}{:unk08 01 00 06}Actually...{:clear }The Heartless were playing with
+some presents when I saw them...
+---
+6060: {:unk13 72 01 64 00}{:unk06 02}{:unk08 03 00 05}Aha!
+We have our culprits!
+---
+6061: You! You can´t be here!{:delay 82 00}{:clear }Leave Halloween Town,
+by order of the mayor!
+---
+6062: Somebody? Anybody!{:delay 78 00}{:clear }I´m only an elected official--
+I can´t handle this by myself.
+---
+6063: Sally was right.
+---
+6064: We´ve got to get the presents!
+---
+6065: What a shame! It looks like
+it was such a nice present.
+---
+6066: Uh, Jack--
+---
+6067: Oh, help! Someone help me!{:delay A4 00}{:clear }{:delay 0A 00}{:clear }My latest experiment is gone--
+it´s been stolen!
+---
+6068: it´s been stolen!
+---
+6069: {:unk13 A0 00 64 00}{:unk06 00}{:unk08 01 01 06}I was just sitting here
+brainstorming, when all of
+a sudden I was attacked!
+---
+6070: {:unk13 96 00 64 00}{:unk06 00}{:unk08 01 01 06}I collapsed!
+And when I awoke,{:clear }my experiment
+was gone!
+---
+6071: {:unk13 AA 00 41 00}{:unk06 00}{:unk08 01 01 06}Don´t worry, Doctor--
+we know who took it.
+---
+6072: {:unk13 FA 00 D2 00}{:unk06 02}{:unk08 03 01 06}Who!?
+---
+6073: {:unk13 DC 00 50 00}{:unk06 00}{:unk08 01 01 06}The Heartless.
+---
+6074: {:unk13 AD 00 64 00}{:unk06 00}{:unk08 01 01 06}What, those wretched things?{:clear }Preposterous! This was
+nothing like a Heartless.
+---
+6075: {:unk13 B4 00 50 00}{:unk06 00}{:unk08 01 01 06}Not the Heartless,
+huh...
+---
+6076: {:unk13 E6 00 C8 00}{:unk06 00}{:unk08 01 00 06}Who else could it be?
+---
+6077: {:unk13 96 00 50 00}{:unk06 00}{:unk08 01 01 06}Say, I have an idea.
+---
+6078: {:unk13 C8 00 50 00}{:unk06 00}{:unk08 01 01 06}The thief must like Christmas
+presents. So...{:clear }We place irresistible gifts
+about to draw him into a trap.
+---
+6079: {:unk13 96 00 50 00}{:unk06 00}{:unk08 01 01 06}And this miscreant
+is the same one who
+stole my experiment?
+---
+6080: {:unk13 A4 01 46 00}{:unk06 00}{:unk08 01 00 05}That´s right.
+---
+6081: {:unk13 A0 00 82 00}{:unk06 00}{:unk08 01 01 05}How will we know for sure?
+---
+6082: {:unk13 FA 00 50 00}{:unk06 00}{:unk08 01 01 06}Well, now,
+that´s easy!{:clear }We´ll scare a confession
+right out of him!
+---
+6083: {:unk13 DC 00 96 00}{:unk06 00}{:unk08 01 00 05}Gawrsh...
+---
+6084: {:unk13 A0 00 6E 00}{:unk06 00}{:unk08 01 01 06}What do you say we
+go with Jack´s plan...
+just for now?
+---
+6085: {:unk13 C8 00 50 00}{:unk06 00}{:unk08 01 01 06}Let´s get to Sandy´s house
+posthaste!{:clear }We´ve got to make some
+Christmas presents, quickly!
+---
+6086: {:unk13 BE 00 B7 00}{:unk06 00}{:unk08 01 00 06}Have you found the presents yet?
+---
+6087: {:unk13 96 00 50 00}{:unk06 00}{:unk08 01 01 06}Almost, Mr. Claws!
+---
+6088: {:unk13 FA 00 B4 00}{:unk06 00}{:unk08 01 01 06}We´re going to reel in the thief
+with Christmas presents as bait.
+---
+6089: {:unk13 5E 01 50 00}{:unk06 00}{:unk08 01 00 05}Presents as bait?{:clear }Goodness...I don´t
+like the sound of that.
+---
+6090: {:unk13 C8 00 82 00}{:unk06 00}{:unk08 01 00 06}Just this once, I suppose.
+It´s for a good cause...{:clear }All right, use the second floor.
+And put some heart in it.
+---
+6091: All done!
+---
+6092: Not quite.
+---
+6093: There´s more?
+---
+6094: Don´t worry, I´ll
+take care of the rest.
+---
+6095: Did you finish making the presents?
+---
+6096: Yup, just waiting for Jack.
+---
+6097: So, uh, where do you think
+we oughta leave them?
+---
+6098: {:delay 3C 00}{:clear } {:delay 33 00}{:clear }Oh, I know a good spot.{:delay 88 00}{:clear }Whenever you´re ready,
+just say the word.
+---
+6099: Whenever you´re ready,
+just say the word.
+---
+6100: I´m back!
+---
+6101: This plaza should work well for your plan.
+---
+6102: Now, Jack...what IS your plan?
+---
+6103: I´ve got it all figured out.
+---
+6104: You do...
+---
+6105: Of course!{:delay 4B 00}{:clear }{:delay 19 00}{:clear }And I also have a wonderful idea.{:delay 64 00}{:clear }{:delay 0F 00}{:clear }If we catch the thief for you,{:delay 96 00}{:clear }{:delay 05 00}{:clear }I would be honored to deliver the--
+---
+6106: And on that note, we´ll be going.
+---
+6107: What are you doing?
+Let me go!
+---
+6108: Stop kicking!
+---
+6109: It´s not me, Donald.
+---
+6110: Patience, friends.
+---
+6111: Shhh!
+---
+6112: I said cut it out!
+---
+6113: Gawrsh, was that you?
+---
+6114: How come we have to be the bait?
+---
+6115: Good plan, eh?
+---
+6116: Ouch!
+---
+6117: Gotcha!
+---
+6118: Huh?
+---
+6119: Doctor Finklestein´s experiment did it!
+---
+6120: We did it! The mystery is solved!
+---
+6121: Did you catch the thief?
+---
+6122: Naturally!
+---
+6123: I just can´t figure out...{:delay 4A 00}{:clear }{:delay 02 00}{:clear }why the doctor´s experiment
+would go around{:delay 8E 00}{:clear }{:delay 14 00}{:clear }stealing Christmas presents.
+---
+6124: His experiment?
+---
+6125: The thief!{:delay 68 00}{:clear } {:delay 14 00}{:clear }It was a moving puppet made
+by Doctor Finklestein.
+---
+6126: Hmm... The doctor´s
+made a moving puppet?{:delay 8E 00}{:clear } {:delay 22 00}{:clear }I see... He is always
+tinkering with things.
+---
+6127: Now listen, Jack.
+I´d like to thank you,{:delay AF 00}{:clear } {:delay 05 00}{:clear }and while delivering presents is
+something only I can do,{:delay C8 00}{:clear } {:delay 0A 00}{:clear }I can give you an idea
+of what it´s like.
+---
+6128: Sandy Claws!
+---
+6129: Yes, all that poor puppet
+wanted was a heart.
+---
+6130: Ho! Ho! Ho!
+---
+6131: Interesting! So the puppet
+wasn´t stolen after all!{:delay 2E 01}{:clear }It ran away on its own.{:delay 8C 00}{:clear } {:delay 28 00}{:clear }In other words, my experiment
+was an overwhelming success!
+---
+6132: Santa Claus thinks maybe it left because
+it was trying to find a heart.
+---
+6133: That´s quite possible. Unlike my Sally,
+it wasn´t equipped with a heart.
+---
+6134: But if it wanted a heart, why was it going
+around stealing all those Christmas presents?
+---
+6135: Maybe because...{:delay 56 00}{:clear } {:delay 14 00}{:clear }presents are a way to give your
+heart to someone special.
+---
+6136: Hmm...when you put it that way,{:delay 6A 00}{:clear } {:delay 0F 00}{:clear }I feel sort of bad for it.
+---
+6137: Happy Halloween!
+---
+6138: What a nice present.
+---
+6139: I don´t understand.{:delay 41 00}{:clear } {:delay 0F 00}{:clear }There´s no box!
+No ribbon tied in a bow!
+---
+6140: Jack, it´s not about the
+box or the ribbons.{:delay A5 00}{:clear } {:delay 0A 00}{:clear }It´s about what´s inside the box!
+---
+6141: No, Sora.{:delay 3C 00}{:clear } {:delay 08 00}{:clear }What really counts--what´s really
+special--is the act of giving the gift.{:delay 00 01}{:clear } {:delay 0A 00}{:clear }To wish deep in your heart
+to make someone else happy.
+---
+6142: Right...of course!{:delay A2 00}{:clear } {:delay 0A 00}{:clear }Thank you, Sally, you´re absolutely right.
+---
+6143: Wait! What´s this?{:delay 6E 00}{:clear } {:delay 0F 00}{:clear }I feel so strange...{:delay 5E 00}{:clear } {:delay 1C 00}{:clear }so very happy!
+---
+6144: Jack, that must be Sally´s present!
+---
+6145: Really? This wonderful feeling?
+---
+6146: Oh, Sally!{:delay 46 00}{:clear } {:delay 14 00}{:clear }You´ve given me the nicest
+present in the world!{:delay 8C 00}{:clear } {:delay 1E 00}{:clear }And I´ve nothing to give you in return.{:delay 82 00}{:clear } {:delay 14 00}{:clear }What would you like? Just name it.
+Absolutely anything.
+---
+6147: The nicest present I could
+ever ask for, Jack,{:delay F0 00}{:clear } {:delay 2E 00}{:clear }is just to be with you.
+---
+6148: You don´t even have to ask for that.
+---
+6149: Maybe I never gave her a
+real present after all.
+---
+6150: Who?
+---
+6151: Aw, I bet Kairi would like
+most anything you gave her.
+---
+6152: I know. That´s what made
+it so hard to decide.
+---
+6153: It´s not the gift, it´s
+what´s in your heart!
+---
+6154: My heart...
+---
+6155: You bet, Kairi´s like Sally!
+---
+6156: How?
+---
+6157: Well, as long as she can be with
+you, what else does she need?
+---
+7974: My experiment can move even
+if it´s blown apart!{:clear }Its pieces would be hard to recover,
+though, since they´ll attack independently.
+---
+7978: Now then, are you all set?
+---
+7979: {:unk13 00 01 40 01}{:unk08 02 00 06}Go place the presents?
+{:chardelay 33 00}Hold on.
+{:chardelay 09 00}Yes. Let´s go!
+---
+7980: There´s nothin´ to do with Oogie gone.
+Maybe I´ll go help the doc.
+---
+7981: Aw, man. Why´s this got to happen just
+when I gathered all the materials?{:clear }That invention of Doc´s would have livened
+things up around here, too. Tsk!
+---
+7982: Oogie used to be packed with all kinds of
+cool bugs!{:clear }But now that all the bugs are gone, I doubt
+we´ll be seeing him any time soon.
+---
+7983: Someone stole that creature the doc was
+working on, right? You have to get it back!{:clear }This was going to be our chance to finally
+get a henchman of our own!
+---
+7984: Jack´s planning another
+Halloween.{:clear }I wonder why he´s still in his red outfit,
+though.
+---
+7985: That Christmas present
+was cool.{:clear }Maybe I should sneak into Sandy Claws´s
+house again...
+---
+8050: {:unk13 9A 00 50 00}{:unk06 00}{:unk08 01 01 06}Would you mind if we
+used your factory{:clear }to create a few presents?
+---
+8105: Defeat all of the Heartless!
+---
+8106: Defeat all of the Heartless!
+Use objects in town to your advantage!
+---
+8107: {:theme 07}Challenge{:reset}: Defeat all of the enemies!
+---
+8108: Defeat all of the Heartless!
+Use objects in town to your advantage!
+---
+8109: Defeat all of the Heartless!
+---
+8110: Defeat the Heartless!
+Try using a combination of physical
+and magical attacks!
+---
+8111: Use the magic boxes to trap Lock, Shock, and Barrel!
+---
+8112: Use the magic boxes to trap
+Lock, Shock, and Barrel!
+Using reaction commands with {:icon dynamic-triangle}
+will make the battle easier!
+---
+8113: Retrieve the presents!
+---
+8114: Defeat all of the Heartless and
+retrieve the presents!
+---
+8115: Make some presents!
+---
+8116: Wrap some presents by
+firing toys into the boxes
+while avoiding Lock, Shock, and Barrel!
+---
+13023: What was that racket?
+It seemed to come from the {:theme 0A}factory{:reset}.{:clear }I have a bad feeling about this.
+Sora, would you mind checking it out?
+---
+13035: I authorized your use of
+the {:theme 0A}2nd floor factory{:reset}.{:clear }Even though you´re building a trick present,
+put your all into it!
+---
+13973: It´s easy to lose sight of things
+that aren´t material, but sometimes{:clear }those are the most precious of all.{:clear }Try not to forget about the precious things
+inside us.
+---
+13974: Hmm... I never expected my experiment
+to seek out a heart it didn´t have.{:clear }I´ll have to go back to the drawing
+board!!
+---
+13975: Something terrible´s happened!
+Santa Claus is all wrapped up!{:clear }Then that big guy came...! I hid as
+fast as I could... What should we do!?
+---
+14073: One has escaped from the box!
+---
+14074: Trap Lock, Shock, or Barrel while they´re tired, so they won´t escape!
+---
+16707: Heartless are appearing, Jack wants to
+become Sandy Claws...{:clear }I have a bad feeling about all this. I just
+hope nothing terrible happens...
+---
+16708: What? Those kids are causing trouble in
+another town, too?{:clear }Well, I suppose what happens in other
+towns doesn´t concern my research.
+---
+16709: If Oogie´s back, you can be sure he´s up
+to no good.{:clear }All´s quiet here, though. Maybe he´s out
+playing his tricks in another town.
+---
+16710: Apparently there´s a path leading to Sandy
+Claws beyond the graveyard.{:clear }I don´t understand why Jack´s been so
+obsessed with Sandy and Christmas lately.
+---
+16711: You´re looking for those kids? I just saw
+them in the graveyard.{:clear }The ground´s pretty muddy. You should be
+able to pick up their trail easily enough.
+---
+16712: Oogie Boogie!?
+But I thought Jack beat him!{:clear }This is terrible! If he´s back, he´s going to
+ruin this year´s Halloween, too!
+---
+16713: Look at this mysterious door! Just looking
+at it makes one´s bones tingle!{:clear }Now then, come closer. I have something
+to tell you.
+---
+16714: I know you´re excited to see Santa,{:clear }but I have a bad feeling about this, too, like
+Sally.
+---
+16715: Jack may have said he wants to be Santa,
+but I´m not so sure that´s a good idea.{:clear }It´s hard for me to even imagine a
+Christmas with Jack as Santa.
+---
+16716: What do you think of the view? Impressive,
+right? None of this is in Halloween Town.{:clear }Now then, {:theme 0A}Sandy Claws´s house {:reset}is just up
+ahead. We should get moving.
+---
+16717: Wow! Look at this place!
+Where´s Santa!? Where´s Santa!?
+---
+16718: This place sure is different than
+Halloween Town.{:clear }I can see why Jack´s so
+excited.
+---
+16719: What was that noise?
+It came from the {:theme 0A}factory{:reset}.{:clear }We´ll really be in trouble if that machine´s
+broken! I´d better go check it out.
+---
+16720: When I looked in the factory, I saw
+someone in white operating the ceiling lift.{:clear }That lift´s being repaired. If if gets
+hit by something, it may break!
+---
+16721: Why would anyone do such a horrible
+thing!?{:clear }I hope Santa gives him a good
+talking-to!
+---
+16722: Hurry and bring those kids to me.
+We can talk after they´re dealt with.
+---
+16723: Christmas Town truly was a
+beautiful place.{:clear }But any place can be beautiful so long as
+your friends are with you.
+---
+16724: What is it? Can´t you see I´m busy?
+You´re distracting me from my work!{:clear }My research is almost complete, so if you
+don´t have anything to say, then beat it!
+---
+16728: I can hear voices coming from
+the {:theme 0A}2nd floor factory{:reset}.{:clear }I´d like to go investigate,
+but I´m too frightened!
+---
+16729: If you want to make presents,
+talk to the {:theme 0A}elf {:reset}in the room above.{:clear }Just remember, the trick to making good
+presents is to "aim well."
+---
+16730: The presents are important, but
+{:theme 0A}Halloween Town {:reset}needs your help, too.{:clear }Go take care of the trouble there,
+first.
+---
+16731: We´re always running behind enough as it
+is. The last thing we need is more trouble!
+---
+16732: You´re going to make presents, right?
+You can use this machine.
+---
+16733: {:unk13 00 01 40 01}{:unk08 02 00 06}Make presents?
+{:chardelay 33 00}Hold on.
+{:chardelay 09 00}Let´s make it!
+---
+16734: Something feels wrong about using a
+present as a trap.{:clear }Still, I don´t see any other way.
+I guess it can´t be helped.
+---
+16735: It seems Jack still hasn´t forgotten about
+Christmas.{:clear }You can tell by just looking at him.
+---
+16736: I don´t care how you do it, just get the
+person who stole my experiment!
+---
+16737: Huh? Weren´t you going to Christmas
+Town to speak with Jack?{:clear }You should be able to get there
+from the hinterlands.
+---
+16738: You did a good job making those presents.
+Now go speak with {:theme 0A}Santa Claus{:reset}.
+---
+16739: The Heartless are playing with presents?
+That´s a sight I´d like to see!{:clear }Halloween Town´s a bit too scary for my
+tastes, though.
+---
+16740: The same kids as before did it,
+right?{:clear }Why can´t they understand it´s not right to
+mess with other people´s things?
+---
+16741: Are you here to make more presents?
+---
+16742: {:unk13 00 01 40 01}{:unk08 02 00 06}Make presents?
+{:chardelay 33 00}Hold on.
+{:chardelay 09 00}Let´s make it!
+---
+16743: Good job! It looks like you made great
+presents.{:clear }Now all you have to do is find a place to
+set your present trap.
+---
+16744: Let´s hurry up and get rid of those
+Heartless so we can get those presents back.{:clear }Come on, let´s go!
+---
+16745: What is this "experiment" the doc´s
+creating?{:clear }He didn´t do us any favors last time. I doubt
+anything good will come out of this, either.
+---
+16746: If Heartless are on the loose, we can´t just
+ignore them.{:clear }We have to go back to {:theme 0A}Halloween Town{:reset}
+and take care of them.
+---
+16747: It doesn´t seem like Sandy Claws will
+talk with us until we catch those kids.{:clear }We´ve got to find them and
+bring them to Sandy.
+---
+16748: There´s no way we´ll lose them with
+{:theme 0A}footprints {:reset}this clear.{:clear }Still, they may have set a trap.
+We´d better be prepared.
+---
+16749: Did they run back to Halloween
+Town?{:clear }These sure are strange {:theme 0A}footprints{:reset}.
+Could they be barefooted?
+---
+16784: You know, I´m thinking of sending those
+Halloween Town kids some presents.{:clear }If I sent them some cute dolls,
+maybe we´ll get along better.
+---
+16785: Just as I´m in charge of Christmas,
+Jack is in charge of Halloween.{:clear }Everyone has their own unique calling.
+Cooperate well with your friends, Sora.
+---
+16789: "The Town Square Fountain: Hit it
+to activate."
+---
+16790: The gate is chained shut.
+---
+16791: The door is locked.
+---
+16792: "The merry-go-round is malfunctioning due
+to a lightning strike. Now it´s dangerous."
+---
+16858: Sandy Claws
+defended me.{:clear }Please hurry and
+rescue him!
+---
+16859: Oogie loves tricks,
+like his fixed dice.{:clear }You can bet he´s up to something again.
+Be ready for anything when fighting him.
+---
+16860: Oogie´s gone to Christmas Town!
+We have to hurry, Sora!
+---
+16861: We don´t know what Oogie´s up to, so
+we´d better prepare ourselves before going.
+---
+17097: "Modifying the drain. Climb over it to..."
+---
+17098: "The security system installed in Jack´s
+house is working properly, as expected."
+---
+17099: "Guillotine: A tool to chop items placed below.
+Cannot be used for food preparation."
+---
+17100: Something is scribbled here:
+"Messing with gravestones is bad luck."
+---
+17101: This is Zero´s grave.
+It seems he´s usually sleeping here.
+---
+17102: It´s a machine for making presents.
+---
+17104: Junk parts are scattered around.
+---
+17712: Those brats are always causing
+trouble!
+---
+17713: It´s no fun without Oogie
+around.
+---
+17714: Ho-hum... I wonder if there´s anything
+freaky or downright terrifying going on...
+---
+17715: This stuff is white and cold...
+Could it be ashes?
+---
+17716: When that big guy hit Sally and her leg
+fell off, I passed out!{:clear }The people of Halloween Town sure are
+resilient!
+---
+17901: Use the presents to drop Oogie Boogie off the lift!
+---
+17902: Use the weight of the presents to
+drop Oogie Boogie off the lift!
+---
+17903: You have to be on the same belt for the boxes to hit!
+---
+18114: {:unk13 5E 01 3C 00}{:unk06 00}{:unk08 01 00 05}What about finding
+the gift-napper?
+---
+18199: Two more to go!
+---
+18200: One more to go!
+---
+18520: Oogie kidnapped Santa Claus!{:clear }He went through the door in the
+hinterlands! You have to stop him!
+---
+18526: Oogie comes back, and the first thing he
+does is try to spoil my Christmas!{:clear }I guess he didn´t learn his lesson
+last time.
+---
+18527: Oogie´s the one who wreaked havoc
+with the Heartless last time, right?{:clear }If he´s kidnapped Santa, how am I supposed
+to get any presents for Christmas!?
+---
+18528: Where´d Oogie come from? He tried
+to control the Heartless last time.{:clear }What´s he up to now?
+---
+18531:  {:delay 38 00}{:clear }Huh?{:delay 37 00}{:clear }
+---
+18532:  {:delay 5C 00}{:clear }Not again?
+---
+18727: Shoot
+---
+18728: Reload
+---
+18750: Destroy Dr. Finklestein´s experimental Heartless!
+Try using its body parts to your advantage!
+---
+18914: I found something cool at Sandy´s house.
+Why don´t you come with me?
+---
+18915: {:unk13 00 01 40 01}{:unk08 02 00 06}Sounds interesting. What should I do?
+{:chardelay 33 00}No thanks.
+{:chardelay 52 00}Sure, I´ll check it out.
+---
+18916: I´m goin´ back to Sandy´s house.
+Wanna come?
+---
+18917: {:unk13 00 01 40 01}{:unk08 02 00 06}Sounds interesting. What should I do?
+{:chardelay 33 00}No thanks.
+{:chardelay 52 00}Sure, I´ll check it out.
+---
+19075: It´s been a while since I looked like this,
+all wrapped up like a mummy.{:clear }At first I didn´t like it, but it´s kind
+of fun once you get used to it.
+---
+19076: If you´re looking for Zero, he flew off
+toward those buildings over there.{:clear }He likes Jack a lot. Maybe Jack´s over that
+way?
+---
+19096: These footprints seem fresh.
+---
+19097: These footprints are only minutes old.
+---
+19098: You can make out the faint markings
+of footprints.
+---
+19099: These footprints are fairly recent.
+---
+19100: These footprints are almost entirely faded.
+---
+19101: The gate´s been rigged shut to prevent the
+sleigh from being stolen.
+---
+19102: These footprints could lead to those
+three kids.
+---
+19103: These footprints are almost completely
+faded. They seem to be very old.
+---
+19104: The fireplace fills the room
+with a cozy warmth.
+---
+19105: This is probably packed with Santa´s red
+outfits.
+---
+19106: This is where the presents come out.
+---
+19107: Presents are brought here
+and stored.
+---
+19108: This machine makes presents, but is not
+currently running.
+---
+19125: The sleigh is completely destroyed.
+Who could have done such a thing?
+---
+19364: He´s happily swaying back and forth.
+It appears he remembers everyone.
+---
+19365: It looks like he wants to play.
+---
+19366: He appears to be sulking,
+since no one´s played with him lately.
+---
+19367: He´s happily swaying, while sniffing around
+the junk.
+---
+19368: It looks like he´s sniffing the area where
+the junk used to be.
+---
+19369: He´s looking everyone over
+with interest.
+---
+19759: 
+---
+20612: Press {:icon dynamic-triangle} to begin the duel! Avoid the enemy's magic spells!
+---
+21541: {:delayandfade 07 B4} 
+With the Heartless on the loose, Santa
+can't help but worry. Jack recruits Sora
+and his friends as Santa's bodyguards.
+ 
+Meanwhile, a sinister shadow makes its way
+to Halloween Town...
+ 
+ 
+ 
+ 
+
+---
+21542: {:delayandfade 07 B4} 
+Sora and his friends teach the misfits
+a lesson. Just before they run off, they
+let it slip that Oogie is back.
+ 
+A year ago, Oogie tried to take over
+the town. What could he be up to now?
+ 
+ 
+ 
+ 
+
+---
+21543: {:delayandfade 07 B4} 
+Oh, no! Santa is kidnapped by Oogie!
+ 
+Sora and his friends hurry to Christmas
+Town.
+ 
+ 
+ 
+ 
+ 
+ 
+
+---
+21544: {:delayandfade 07 B4} 
+The three misfits are finally captured, but
+it turns out they're not the present thieves.
+They were just searching for parts to help
+with the doctor's experiment.
+ 
+ 
+ 
+ 
+ 
+ 
+
+---
+21545: {:delayandfade 07 B4} 
+Then who could the real culprit be?
+ 
+As Sora and his friends ponder the
+situation, they get a lead that may be
+the key to solving the case.
+ 
+It seems the Heartless are in town with
+the presents, and are causing quite a
+ruckus.
+ 
+
+---
+21546: {:delayandfade 07 B4} 
+Sora and his friends discover the Heartless
+aren't behind the debacle.
+ 
+They come up with a cunning plan to use
+decoy presents as bait to lure out the real
+culprit.
+ 
+ 
+ 
+ 
+
+---
+21547: {:delayandfade 07 B4} 
+There's only one place to make the perfect
+decoy presents--Santa's factory.
+ 
+With a little help, they manage to produce
+enough to execute their plan.
+ 
+The presents look just like any other, full
+of love and warmth.
+ 
+ 
+
+---

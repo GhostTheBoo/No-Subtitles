@@ -1,0 +1,1436 @@
+﻿16213: 
+---
+16214: Axel said Kairi´s in the dungeon.
+---
+16215: Then we better find a way
+to get to that castle!
+---
+16216: Sora!
+---
+16217: Donald! Goofy!
+---
+16218: 
+---
+16219: A Keyblade?
+---
+16220: Wh-who are you?
+---
+16221: Someone from the dark.
+---
+16222: You can´t be Riku?
+---
+16223: Riku?{:delay 6C 00}{:clear }...I defeated a Riku once.
+---
+16224: You what!?
+---
+16225: Tell me...{:delay 8B 00}{:clear }Tell me why he picked you!
+---
+16226: I see. That´s why.
+---
+16227: You make a good other.
+---
+16228: You make a good other.
+---
+16229: Are you okay?
+---
+16230: What...just happened?
+---
+16231: Gawrsh, I dunno.{:delay 76 00}{:clear }You just disappeared.{:delay 6C 00}{:clear }Then me and Donald had to
+fight some Nobodies.
+---
+16232: Oh.
+---
+16233: He said...{:delay 64 00}{:clear }he defeated Riku...
+---
+16234: Who said that?
+---
+16235: That guy. In the black coat.
+---
+16236: But nobody could defeat Riku.
+---
+16237: Y...Yeah, you´re right.
+---
+16238: A black coat means Organization {XIII}.{:delay D0 00}{:clear }He musta been tryin to trick ya.
+---
+16239: Yeah, that must be why we didn´t see him!
+---
+16240: 
+---
+16241: You must be tired, Sora.
+---
+16242: C´mon, let´s just find a way
+to get into that castle!
+---
+16243: Kairi, you were great!
+---
+16244: Oh?
+---
+16245: You are different, Kairi,{:delay 5A 00}{:clear }but I´m just glad you´re here!
+---
+16246: You and Riku never came home,
+so I came looking for you.
+---
+16247: I´m sorry.
+---
+16248: This is real...
+---
+16249: Wait, Ansem!{:delay 5A 00}{:clear }{:delay 2A 00}{:clear }I mean, Xehanort´s Heartless...{:delay 88 00}{:clear } {:delay 72 00}{:clear }I never thought for a second that
+I´d ever see YOU again.
+---
+16250: Just thinking about all the things
+you did makes me really mad.{:delay 1F 01}{:clear }But...
+---
+16251: But you saved Kairi, right?{:delay 5D 00}{:clear } {:delay 3C 00}{:clear }I have to be grateful for that...{:delay 6B 00}{:clear } {:delay 4A 00}{:clear }Thanks.
+---
+16252: Riku, don´t go!
+---
+16253: Huh?
+---
+16254: Kairi, what did you just say?
+---
+16255: Riku.
+---
+16256: I´m no one--just a castaway
+from the darkness.
+---
+16257: Sora, come here. Say something to him.
+---
+16258: Here. You´ll understand.
+---
+16259: Close your eyes.
+---
+16260: Riku...
+---
+16261: It´s Riku. Riku´s here...
+---
+16262: I looked for you!
+---
+16263: C´mon, Sora. You´ve got to pull it together.
+---
+16264: I looked everywhere for you!
+---
+16265: I didn´t want you to find me.
+---
+16266: But it was him that was helpin´
+us, wasn´t it?
+---
+16267: Huh?
+---
+16268: Those clues we kept finding.
+That musta been Riku.
+---
+16269: I was starting to worry you guys weren´t
+ever gonna catch on.{:delay 9C 00}{:clear } {:delay 3C 00}{:clear }Sora never did pick the brightest friends.
+---
+16270: What do you mean by that!?
+---
+16271: Why didn´t you let me
+know you were okay?
+---
+16272: I told you.{:delay 6C 00}{:clear }I didn´t want to be found.{:delay 48 00}{:clear } {:delay 48 00}{:clear }Not like this... I couldn´t.{:delay C0 00}{:clear } {:delay 26 00}{:clear }I fought with Ansem.
+With...Xehanort´s Heartless--{:delay B4 00}{:clear }{:delay 54 00}when it invaded my heart, and I won.{:delay AE 00}{:clear }But to use the power of darkness,
+I had to become Ansem myself.
+---
+16273: Does that mean...you can´t change back?
+---
+16274: This battle isn´t over.{:delay 54 00}{:clear } {:delay 42 00}{:clear }And until it is, I still need
+the power of darkness.
+---
+16275: Then...let´s finish it.
+---
+16276: You´re still Riku, no matter what!
+---
+16277: So how ´bout it:{:delay 3C 00}{:clear }{:delay 3C 00}Think we can handle one
+last rumble together?{:delay 9C 00}{:clear }The King´s waiting!
+---
+16278: Yeah! Let´s get going!
+---
+16279: Ohh...my Kingdom Hearts...ruined.{:delay 07 01}{:clear } {:delay 7F 00}{:clear }Now I´ll have to start all over again.
+---
+16280: Warriors of the Keyblade!{:delay B1 00}{:clear }Go forth,{:delay 6C 00}{:clear }and bring me more hearts!
+---
+16281: No!
+---
+16282: Denizens of light, answer this:{:delay F3 00}{:clear }Why do you hate the darkness?
+---
+16283: Aw, we don´t hate it.{:delay 60 00}{:clear } {:delay 23 00}{:clear }It´s just kinda...{:delay 4E 00}{:clear }{:delay 29 00}scary.{:delay 4E 00}{:clear } {:delay 42 00}{:clear }But the world´s made of
+light AND darkness.{:delay C0 00}{:clear }You can´t have one without the other,
+´cause darkness is half of everything.
+---
+16284: It´s because of who´s lurking inside it.
+---
+16285: Then allow me another question.{:delay 96 00}{:clear } {:delay 3B 00}{:clear }You accept darkness, yet choose
+to live in the light.{:delay E4 00}{:clear } {:delay 30 00}{:clear }So why is it that you loathe us who
+teeter on the edge of nothing?{:delay 0B 01}{:clear }{:delay 2F 00}We who were turned away by
+both light and dark--{:delay 3E 01}{:clear }never given a choice?
+---
+16286: That´s simple.{:delay 3C 00}{:clear } {:delay 3C 00}{:clear }It´s because you mess up our worlds.
+---
+16287: That may be...{:delay 54 00}{:clear }{:delay 3C 00}However,{:delay 3C 00}{:clear }{:delay 42 00}what other choice
+might we have had?
+---
+16288: Just give it a rest!{:delay 61 00}{:clear }You´re Nobodies!
+You don´t even exist!{:delay AC 00}{:clear }You´re not sad about anything!
+---
+16289: {:delay 75 00}{:clear }Very good.{:delay 77 00}{:clear }You don´t miss a thing.{:delay 8F 00}{:clear }{:delay 3F 00}{:clear }I can not feel--sorrow...{:delay B4 00}{:clear }{:delay 1C 00}{:clear }No matter what misery befalls the worlds.{:delay EB 00}{:clear }{:delay 14 00}{:clear }No matter what you think, what you feel,
+or how you exist. 
+---
+16290: Guys?
+---
+16291: Sora! Where are you?
+---
+16292: Sora, answer me!
+---
+16293: You´re okay!
+---
+16294: Where´s Xemnas?
+---
+16296: Heed me, Kingdom Hearts!{:delay 96 00}{:clear } {:delay 6C 00}{:clear }Lend me your power, so that
+we may be complete!{:delay 14 01}{:clear } {:delay 4E 00}{:clear }The power to erase the
+fools that hinder us.
+---
+16297: Xemnas! No!
+---
+16298: Hearts quivering with hatred...
+---
+16299: Xemnas! Don´t!
+---
+16300: Hearts burning with rage...
+---
+16301: You´ll never win!
+---
+16302: Hearts scarred by envy...
+---
+16303: That fool Ansem said the heart´s true
+nature was beyond his understanding.{:delay 78 01}{:clear }But it´s not beyond mine!{:delay AA 00}{:clear }Hearts are the source of all power!
+---
+16304: Xemnas! You can´t hide from us!
+---
+16305: We´re not gonna let him get away now!
+---
+16306: Look at that!
+---
+16307: What´s goin´ on?
+---
+16308: Kingdom Hearts...
+---
+16309: Let´s go. Xemnas must be inside.
+---
+16310: The worlds gave us this doorway.{:delay A8 00}{:clear }They want us to be the guardians
+of their destiny!
+---
+16311: 
+---
+16312: Once we go through, there´s
+no turning back.{:delay 87 00}{:clear }{:delay 36 00}It´s victory...or oblivion.{:delay 8E 00}{:clear }{:delay 46 00}So, Sora...are you ready?
+---
+16313: Get ready, Xemnas!{:delay 60 00}{:clear }It all ends here!
+---
+16314: So...it seems your hearts have
+led you to obliteration.{:delay 2C 01}{:clear } {:delay 42 00}{:clear }Perhaps it doesn´t pay to be
+too loyal to one´s heart.{:delay F0 00}{:clear } {:delay 87 00}{:clear }I will have to be sure and remember that.
+---
+16317: No!
+---
+16318: We can take him on our own!
+---
+16319: I need...more rage...{:delay C3 00}{:clear }I need more...hearts...
+---
+16320: Xemnas.{:delay 5E 00}{:clear }There´s more to a heart
+than just anger or hate.{:delay B0 00}{:clear }It´s full of all kinds of feelings.{:delay 5E 00}{:clear } {:delay 60 00}{:clear }Don´t you remember?
+---
+16321: Unfortunately...I don´t.
+---
+16322: Gosh, you all did great!
+---
+16323: You´re coming back with us, right?
+---
+16324: I had given in to the darkness.
+---
+16325: Riku!
+---
+16326: How´m I gonna face everyone?
+---
+16327: Like this!
+---
+16328: Hurry!
+---
+16329: I´ll open a path!
+---
+16330: You don´t belong in the dark
+realm anymore, Riku.
+---
+16331: How do we get out of here, Your Majesty?
+---
+16332: 
+---
+16333: Who did this?
+---
+16334: Welp, I´m not sure.{:delay 69 00}{:clear }But we´d better hurry and get through.
+---
+16335: Wait for me!
+---
+16336: C´mon!
+---
+16337: Thank you, Naminé.
+---
+16338: Sure.
+---
+16339: See? We meet again, like we promised.
+---
+16340: Huh?
+---
+16341: You said we´d meet again,{:delay 87 00}{:clear }but when we did, we might
+not recognize each other.
+---
+16342: I did, didn´t I?
+---
+16343: But I knew you.
+---
+16344: Mmm...it´s strange.
+---
+16345: I think I understand.{:delay 91 00}{:clear }I see myself the way
+you remember me.{:delay CC 00}{:clear } {:delay 42 00}{:clear }And you see yourself the
+way I remember you.
+---
+16346: I always thought Nobodies were doomed
+to fade back into darkness...
+---
+16347: Yeah, but you and I didn´t.{:delay C0 00}{:clear }We got to meet our original selves.
+---
+16348: So, we can be together again!
+---
+16349: Right.{:delay 5C 00}{:clear }Anytime Sora and Kairi are together.
+---
+16350: We´ll be together every day.
+Right, Sora?
+---
+16351: Uh...yeah!
+---
+16352: Look sharp!
+---
+16353: Don´t worry. You´re all still you.
+---
+16354: Hey, let´s go home!
+---
+16355: Riku... C´mon.
+---
+16356: Yeah.
+---
+16357: Sora! Riku!
+---
+16358: What...?
+---
+16359: Riku!
+---
+16360: Sora!
+---
+16361: Heroes from the realm of light...{:delay F3 00}{:clear }I will not allow it to end
+this way--not yet.{:delay 44 01}{:clear } {:delay 48 00}{:clear }If light and darkness are eternal,{:delay FC 00}{:clear }then surely we nothings must be the same...{:delay 62 01}{:clear }Eternal!
+---
+16362: You´re right, light and darkness are eternal.{:delay F6 00}{:clear }Nothing probably goes on forever, too.{:delay 8A 00}{:clear } {:delay 3C 00}{:clear }But guess what, Xemnas?
+---
+16363: That doesn´t mean YOU´RE eternal!
+---
+16364:  {:delay A2 00}{:clear }No more eternal than that
+radiance of yours...
+---
+16365: We did it!
+---
+16366: I wouldn´t be too sure of that.
+---
+16367:  {:delay 6D 00}{:clear }Sora...{:delay 77 00}{:clear }I can´t...
+---
+16368: Don´t say another word!{:delay 80 00}{:clear }It´s not over. It´s just not.
+---
+16369: How can you say that?{:delay 6F 00}{:clear }Even if we could go on...look where we are.
+---
+16370: Aw, c´mon, Riku.{:delay 6C 00}{:clear }You´ve been hanging out
+in darkness too long.{:delay 72 00}{:clear } {:delay 45 00}{:clear }You gotta try and think positive!
+---
+16371: Sora?
+---
+16372: 
+---
+16373: You lead.
+---
+16374: Got it.
+---
+16375: You know...{:delay 5B 00}{:clear }I always figured I was better
+at stuff than you.
+---
+16376: Really?
+---
+16377: Are you mad?
+---
+16378: No.{:delay 3C 00}{:clear }I kinda always thought you were
+better at everything, too.
+---
+16379: Riku--look.{:delay 72 00}{:clear }What´s that light?
+---
+16380: Why!?{:delay 42 00}{:clear }Why do you have the Keyblade?
+---
+16381: Shut up!
+---
+16382: Your mind´s made up?
+---
+16383: Why did the Keyblade choose me?{:delay D3 00}{:clear }I have to know.
+---
+16384: You can´t turn on the Organization!
+---
+16385: Why!?{:delay 42 00}{:clear }Why do you have the Keyblade?
+---
+16386: Shut up!
+---
+16387: You get on their bad side
+and they´ll destroy you!
+---
+16388: No one would miss me.
+---
+16389: That´s not true...{:delay 83 00}{:clear }I would.
+---
+16390: Sora... You´ve done well.
+---
+16391: Where´s Kairi?
+---
+16392: Who knows? I expect she´s catching up
+with her friend from the darkness.
+---
+16393: What do you mean!?
+---
+16394: She doesn´t need you anymore.
+---
+16395: I´m supposed to believe that?
+---
+16396: Well, you don´t have to...{:delay B4 00}{:clear }{:delay 3F 00}{:clear }But you can believe this.{:delay 76 00}{:clear }{:delay 3C 00}{:clear }Organization {XIII} has no
+further use for you...
+---
+16397: Our Kingdom Hearts...{:delay 78 00}{:clear }{:delay 66 00}{:clear }Thanks to you, we´ve collected
+countless hearts...{:delay DE 00}{:clear }{:delay 3C 00}{:clear }Can you hear their euphoria?
+---
+16398: Now, all they need is one more helping
+from the Keyblade bearer!
+---
+16399: We gotta fight!
+---
+16400: But--Kingdom Hearts!
+---
+16401: Sora!
+---
+16402: Sora! It´s really you!
+---
+16403: Kairi!
+---
+16404: You leave Sora alone!
+---
+16405: Sora--!
+---
+16406: Take it.
+---
+16407: {:delay 4E 00}This time...I´LL fight.
+---
+16408: You know Sora´s completely
+hopeless without us!{:delay A0 00}{:clear }{:delay 1E 00}{:clear }C´mon, Riku!
+---
+16409: Well, well.{:delay 5A 00}{:clear }{:delay 3C 00}{:clear }Will the intrusions never end?
+---
+16410: Why, Pete...{:delay 46 00}{:clear }{:delay 28 00}{:clear }this castle is perfect.{:delay A0 00}{:clear }{:delay 3C 00}{:clear }Perhaps we should...acquire it.
+---
+16411: Well, the setup is...kinda nice, I guess, but...
+what about all the Heartless?{:delay 3E 01}{:clear }This in-between world--it´s way
+too close to the darkness! {:delay F6 00}{:clear }They ain´t gonna listen to us here!
+---
+16412: Once again, you underestimate me.
+---
+16413: Get off!
+---
+16414: What´s going on!?
+---
+16415: Have you been a good boy?
+---
+16416: Show yourself!
+---
+16417: Oh, it sounds like you haven´t.
+---
+16418: Sora! Roxas!
+---
+16419: Roxas?
+---
+16420: Hey, did he just call me Roxas?
+---
+16421: You´ve really put Organization {XIII}
+in a pickle.{:delay D2 00}{:clear }{:delay 26 00}{:clear }I guess that must be why
+the Keyblade chose you.{:delay AA 00}{:clear }{:delay 2E 00}{:clear }But MAN, did it pick a dud this time.{:delay 96 00}{:clear }{:delay 32 00}{:clear }You don´t look like you´re half
+the hero the others were.
+---
+16422: Are you done rambling?
+---
+16423: Rambling? As if!{:delay 7E 00}{:clear }{:delay 38 00}{:clear }All I´m trying to tell you, traitor,
+is that your time is up!
+---
+16424: Here he comes!
+---
+16425: Why did you call me Roxas?
+---
+16426: {:delay 78 00}Wouldn´t you like to know...
+---
+16427: Hey! Hold on!
+---
+16428: Sora! It´s Kairi!
+---
+16429: Uh-oh, they need our help.
+---
+16430: Sora and Riku are together.
+We have no part to play here.
+---
+16431: Gee, I wonder if Riku will
+ever change back...
+---
+16432: Riku chose that form so he could
+use the power of darkness. {:delay F0 00}{:clear }{:delay 1E 00}{:clear }It won´t be easy.
+---
+16433: Kairi, we´re on our way!
+---
+16434: Yes...Kingdom Hearts...{:delay F0 00}{:clear }{:delay 42 00}{:clear }Rejoice, and feast on these hearts we offer!{:delay 02 01}{:clear }{:delay 5F 00}{:clear }Shine your pale light on this empty realm...{:delay D6 00}{:clear }{:delay 35 00}{:clear }Share your power with all Nobodies!
+---
+16435: Xemnas. Is Kingdom Hearts ready?
+---
+16436: Very soon.
+---
+16437: Then, I can end this charade?
+---
+16438: Indeed.
+---
+16439: How I´ve waited to hear that.
+---
+16443: This spot should do.
+---
+16444: What´s this gadget for?
+---
+16445: It´s a device to reclaim Kingdom Hearts
+and encode it as data.
+---
+16446: Not sure I get it.
+---
+16447: I do not claim to know the outcome
+of this venture, either.{:delay C8 00}{:clear }{:delay 46 00}{:clear }After all...
+---
+16448: What´s that?
+---
+16449: It´s the King and DiZ--{:delay 47 00}{:clear }{:delay 13 00}{:clear }I mean, Ansem the Wise.{:delay 96 00}{:clear }{:delay 20 00}{:clear }They must be higher up. We better hurry.
+---
+16450: You!
+---
+16451: I´d rather we just skip the formalities.
+---
+16452: How could you...Roxas...
+---
+16453: That´s SORA!
+---
+16454: You okay?
+---
+16455: Yeah! No worries.{:delay 5A 00}{:clear }{:delay 24 00}{:clear }Let´s keep moving.
+---
+16456: Sora! Riku!
+---
+16457: There´s gonna be no end to this.
+---
+16458: Together we can stop ´em!
+---
+16459: Be gone from here!
+Leave these creatures to us!
+---
+16460: But there´s no way we can take ´em all!
+---
+16461: I will be sending them after Xemnas.{:delay AE 00}{:clear }Or, perhaps, you would rather
+fight them yourself?
+---
+16462: Frankly my dear, I´d rather...RUN!
+---
+16463: Off with you then!
+---
+16464: Well, if it ain´t the boat-boy King.
+---
+16465: Time to weigh anchor, Captain Pete!
+---
+16466: What, like "abandon ship"?
+I don´t think so!
+---
+16467: Sora! "Your Majesty"! Do not forget--{:delay CC 00}{:clear }when I´ve destroyed them all,
+this castle shall be mine!
+---
+16468: Now lookie here. Opportunities like this
+don´t come along every day, ya know.
+---
+16469: Bring´em on!
+---
+16470: We gotta hurry.
+---
+16472: They´re doing what their hearts command.
+We can´t interfere.
+---
+16478: But...
+---
+16488: Riku?
+---
+16491: Riku!
+---
+16493: Ansem did say "anything could happen"...
+---
+16494: Riku, you gonna take that off?
+---
+16495: Oh...
+---
+16496: What was that?
+---
+16497: His eyes couldn´t lie.
+---
+16498: Lie?
+---
+16499: And just who were you trying to fool?
+Huh? Huhhh?
+---
+16500: Myself.
+---
+16501: Riku...
+---
+16502: C´mon, man! Why did you try
+to do so much on your own?
+---
+16503: Have you forgotten?
+---
+16504: Say that again!
+---
+16505: Uhhhh-oh!
+---
+16506: What should we do, Riku?
+---
+16507: We must defeat Xemnas.{:delay 66 00}{:clear } {:delay 1F 00}{:clear }He´s the Organization´s last survivor.
+---
+16508: Right!
+---
+16509: C´mon!
+---
+16516: It's been too long, my friend.
+---
+16517: Ansem the Wise.{:delay 54 00}{:clear }{:delay 28 00}{:clear }Why didn't you come to me
+before things got so bad?
+---
+16518: Xemnas, the Organization's Superior,{:delay A8 00}{:clear }is the Nobody of Xehanort,
+my foremost apprentice.{:delay DE 00}{:clear }{:delay 39 00}{:clear }The burden was mine to bear.
+---
+16519: Is that all?
+---
+16520: I won´t deny there was more.{:delay 96 00}{:clear }{:delay 38 00}{:clear }I was...obsessed
+with thoughts of revenge.{:delay D8 00}{:clear }{:delay 22 00}{:clear }My apprentices stole
+everything precious to me--{:delay CC 00}{:clear }{:delay 1C 00}{:clear }my research, and my pride.
+---
+16521: I can't help you with revenge.
+---
+16522: I know.{:delay 3C 00}{:clear }{:delay 36 00}{:clear }Riku's told me a thousand times.
+---
+16523: Where is he?
+---
+16524: He must be with his friends by now.{:delay 96 00}{:clear }{:delay 2A 00}{:clear }Riku was a great help to me.{:delay 8A 00}{:clear }I found him wandering the darkness,
+after you and he lost track of each other.
+---
+16525: Gosh, we didn't lose each other exactly.
+Riku left...{:delay F0 00}{:clear }well, 'cause Xehanort's Heartless was
+still inside his heart, troubling him.{:delay 08 01}{:clear }{:delay 1B 00}{:clear }And he sure must've been suffering.{:delay 90 00}{:clear }But what I don't understand is why he looks
+like that now, when he's still Riku at heart...
+---
+16526: I am to blame.{:delay 54 00}{:clear }{:delay 78 00}{:clear }When I met Riku the first time{:delay 72 00}{:clear }{:delay 38 00}{:clear }he still had the appearance of a boy.{:delay 9C 00}{:clear }{:delay 54 00}{:clear }Probably because he had such a strong heart.
+---
+16527: I asked him to find a young man
+named Roxas from Organization {XIII},{:delay 0E 01}{:clear }and bring him to me.{:delay 48 00}{:clear }{:delay 54 00}{:clear }When I told him it would help Sora awaken
+from his slumber, Riku left without a word.
+---
+16528: He fought Roxas. And I can only surmise
+Riku lost that fight.
+---
+16529: Riku must have realized then:
+to fight in the realm of darkness,{:delay E4 00}{:clear }he would have to immerse himself
+in that same darkness.{:delay D2 00}{:clear }{:delay 12 00}{:clear }And when he did...{:delay 3C 00}{:clear }{:delay 24 00}{:clear }you saw what became of him.
+---
+16530: When Riku brought Roxas back to me,
+he was introducing himself...as Ansem.
+---
+16531: If that was what it took to awaken his friend,
+he was ready to live in darkness.
+---
+16532: Riku was the victim of my revenge.
+---
+16533: ...Oh, how my heart ached.{:delay B6 00}{:clear }{:delay 1E 00}{:clear }I could only laugh{:delay 48 00}{:clear }{:delay 1E 00}{:clear }to hide my shame.
+---
+16534: I guess it musta been after that
+when I saw Riku again.{:delay CC 00}{:clear }He said he wanted to help Sora...{:delay 78 00}{:clear }but he made me promise--{:delay 72 00}{:clear }Promise that Sora wouldn't ever find out
+about what happened to him{:delay C6 00}{:clear }while he was out in the darkness.
+---
+16535: My friend, the time has come.{:delay 98 00}{:clear }I must make amends to these young people.
+---
+16536: Only you could have made it
+this far in one piece...Roxas.
+---
+16537: That's really getting old!
+---
+16538: Yeah! He's Sora!
+---
+16539: Different name, same fate.
+---
+16540: Why...{:delay 46 00}{:clear }{:delay 32 00}Kingdom Hearts...{:delay 5F 00}{:clear }{:delay 50 00}Where is my heart?
+---
+16541: I don't get it.
+Why's everybody been calling me Roxas?
+---
+16542: Because, Sora.{:delay 3C 00}{:clear }{:delay 60 00}Roxas is your Nobody.
+---
+16543: My...Nobody?{:delay 96 00}{:clear }{:delay 24 00}But that's crazy,
+I never turned into a Heart...{:delay 93 00}{:clear }{:delay 30 00}Oh, right.
+---
+16544: It was when you came to rescue me,
+remember?
+---
+16545: Xemnas was the one who found Roxas.{:delay 84 00}{:clear }{:delay 3C 00}He could use the Keyblade
+because he was your Nobody.
+---
+16546: That's why Xemnas brought him
+into the Organization--{:delay 96 00}{:clear }{:delay 30 00}But Roxas betrayed them. {:delay 5A 00}{:clear }{:delay 36 00}After that I fought him because I thought
+it would help you wake up.{:delay AD 00}{:clear }{:delay 22 00}{:clear }I lost,{:delay 4E 00}{:clear }but the next time we met
+I made sure I was the stronger one.
+---
+16548: Roxas...{:delay 42 00}{:clear }{:delay 3E 00}I wish I could meet him, too.
+---
+16549: All right. Let's go.
+---
+16550: Ansem?
+---
+16551: {:delay 08 01}I'm a fool.{:delay 5E 00}{:clear }{:delay 28 00}{:clear }I've spent years studying
+the workings of the heart.{:delay C7 00}{:clear }Yet it seems I still
+haven't learned a thing!
+---
+16552: What d'ya mean?
+---
+16553: The process of encoding hearts is incalculable.
+---
+16554: The inhabitants of my Twilight Town were
+data created from real hearts.
+---
+16555: I was convinced that they would think
+and behave the way I had envisioned--{:delay 20 01}{:clear }but I couldn't have been more wrong.
+---
+16556: Ansem! The machine!
+---
+16557: All the more proof that hearts
+cannot be contained by data. {:delay EA 00}{:clear }Run, my friend! It's going to self-destruct,
+and anything could happen!
+---
+16558: But...
+---
+16559: Your Majesty!
+---
+16560: Sora, the rest is up to you...{:delay 96 00}{:clear }{:delay 3C 00}{:clear }And Roxas--
+I doubt you can hear me--but...{:delay E6 00}{:clear }{:delay 18 00}{:clear }I am sorry.
+---
+16561: Ansem!
+---
+16562: My heart is telling me what I must do.
+Please allow me to do what it says!
+---
+16563: No!
+---
+16564: Riku!
+---
+16565: His heart's decided. We can't change that.
+---
+16566: I was wondering who would dare
+interfere with my Kingdom Hearts.{:delay 7A 01}{:clear }And look--{:delay 54 00}{:clear }here you all are.{:delay 7E 00}{:clear }How convenient for me.
+---
+16567: Ansem the Wise...
+You look pathetic.
+---
+16568: Have your laugh.{:delay 5A 00}{:clear }{:delay 1E 00}{:clear }I deserve as much for failing
+to see you for the fool you are.
+---
+16569: Students do take after their teachers.{:delay B4 00}{:clear }{:delay 31 00}Only a fool would be your apprentice.{:delay A2 00}{:clear }{:delay 1F 00}After all, none of this would have
+happened without you.
+---
+16570: YOU are the source of all Heartless.{:delay C0 00}{:clear }{:delay 30 00}It was your research that inspired me
+to go further than you ever dared.
+---
+16573: We've said enough!{:delay 5A 00}{:clear }{:delay 23 00}{:clear }Riku, you know what to do!{:delay AA 00}{:clear }{:delay 28 00}{:clear }King Mickey, my friend, forgive me!{:delay E6 00}{:clear }{:delay 28 00}{:clear }Farewell!
+---
+16671: Dead end?
+---
+16672: There´s gotta be a path somewhere.
+---
+16673: What are you going to do with us?
+---
+16674: You´re the fire that feeds Sora´s anger.
+---
+16675: No...{:delay 26 00}{:clear }{:delay 32 00}Sora´s in danger because of me...
+---
+16676: This way!
+---
+16677: Who--?
+---
+16678: Believe in yourself. C´mon, hurry!
+---
+16679: Kairi... We´re almost there.
+---
+16680: Kairi! Where are you?
+---
+16681: Shhh! Remember where we are!
+This is their stronghold!
+---
+16682: Wait! Your Majesty!
+---
+16683: Be careful! I think we got company!
+---
+16684: Naminé... There you are.
+---
+16685: Naminé...?
+---
+16686: Kairi. I´m afraid leaving is not an option.
+---
+16687: I´ll take you to see Sora.
+---
+16688: You don´t want that?
+---
+16689: I do. More than anything.{:delay 84 00}{:clear }{:delay 1C 00}But not with you around.
+---
+16690: If I had a heart, this would
+be where I die of laughter.
+---
+16691: You...{:delay 41 00}{:clear } {:delay 32 00}{:clear }Didn´t Roxas take care of you?
+---
+16692: You can take it from here,{:delay 60 00}{:clear }Riku.
+---
+16693: Riku!?
+---
+16699: Wait!
+---
+16700: Riku...you´re really here...
+---
+17000: Beyond this door is the beginning
+of the end of your journey.
+---
+17001: Are you prepared for what lies ahead?
+{:chardelay 33 00}I need a moment to calm down.
+{:chardelay 09 00}Let´s end this!!!
+---
+17050: You got friends...like us!
+---
+18224: Hearts are unpredictable.
+---
+18357: This building keeps watch over
+the residents of the dark.
+---
+18358: The path is completely blocked.
+---
+18359: The Freeshooter
+---
+18360: The Whirlwind Lancer
+---
+18361: The Chilly Academic
+---
+18362: The Silent Hero
+---
+18363: The Cloaked Schemer
+---
+18364: The Luna Diviner
+---
+18365: Flurry of Dancing Flames
+---
+18366: The Melodious Nocturne
+---
+18367: The Gambler of Fate
+---
+18368: The Graceful Assassin
+---
+18369: The Savage Nymph
+---
+18370: The Key of Destiny
+---
+18371: It is magically locked.
+---
+18437: The King went on ahead again!
+Can´t he ever wait up!?{:clear }Not that I´m nervous, but I´m glad
+we can go back to Twilight Town anytime.
+---
+18438: This town sure is dark. This is where
+the Nobodies live, right?{:clear }C´mon. Let´s try to find a path to
+the {:theme 0A}castle{:reset} Kairi´s being held at.
+---
+18439: You can bet Organization {XIII} will be
+waiting for you in that castle.{:clear }I don´t need to tell you how powerful
+they are. Don´t let your guard down.
+---
+18440: This sure is a strange world.
+The moon even looks like a heart.{:clear }C´mon, now that we´ve opened the path
+to the {:theme 0A}castle{:reset}, let´s go rescue Kairi!
+---
+18441: That castle´s the enemy´s headquarters.
+It´s probably swarming with Nobodies.{:clear }They´re tough opponents, but they all
+have weaknesses. Try to find them out.
+---
+18442: Wow! This place looked big from outside,
+but the inside looks even bigger!{:clear }If this is going to be our last battle,
+let´s show them what we´re made of!
+---
+18443: Golly, I feel darkness around
+us but we haven´t seen{:clear }any members of Organization {XIII}.{:clear }But you know they always show up
+out of nowhere, so let´s be ready.
+---
+18444: What´s going on?
+Ansem was fighting alongside Kairi!{:clear }Anyway, Kairi´s under attack.
+We have to go help her!
+---
+18445: It doesn´t look like we can get to Kairi
+directly from here.{:clear }I know you´re in a hurry, but we need to
+take that path over there.
+---
+18446: I don´t like the feel of this place.
+It´s almost like...a graveyard.{:clear }Just about everything is in ruins.
+Do you know what it all means, Sora?
+---
+18447: Look!
+Now this entrance is glowing.{:clear }Could this have something to do with
+your enemies, Sora?
+---
+18448: I wish I could fight like you and Riku...{:clear }I know what you´re thinking, but you guys
+shouldn´t be the only ones getting hurt.
+---
+18449: Some members of Organization {XIII} see
+fighting as a game.{:clear }No matter what the rules are, you´ll always
+have a chance to win. Don´t miss that chance.
+---
+18450: I can sense Saïx. He´s using something
+to boost his power.{:clear }If we can figure out his power source,
+we may be able to use it, too.
+---
+18451: The path is open. Xemnas is waiting up
+ahead.{:clear }He´s the leader of Organization {XIII}.
+Try not to slow me down, Sora.
+---
+18452: Roxas...I know that name.
+Once I spoke with him.{:clear }He reminded me of you, Sora.
+Who is he?
+---
+18453: Xemnas has probably grown even
+stronger, and is waiting for us.{:clear }This battle began with Ansem´s
+research. Let´s finish it for him!
+---
+18454: I´m tired of waiting, so don´t tell me to
+stay behind!{:clear }From now on, wherever one of us goes,
+the other follows, got it?
+---
+18455: Do you remember before? We stood facing
+each other on opposite sides of that door.{:clear }Now we stand side-by-side.
+Let´s go home together this time.
+---
+18456: Don´t let your guard down. We may wind
+up getting separated at any time.{:clear }Come on, let´s save the world again!
+---
+18457: The Kingdom Hearts opened the door
+to Xemnas.{:clear }We can´t let this chance slip by. It´s
+going to be a tough fight, but we can do it!
+---
+18458: So all of you were out adventuring
+while I was living a normal life.{:clear }Why do I always get left out!? You´re
+going to have to tell me about it later!
+---
+18459: I met Roxas because of a guy
+named DiZ.{:clear }I didn´t trust DiZ at first, but we both
+needed each other´s help.
+---
+18460: Gwah! I´m exhausted!
+Let´s rest before we go.
+---
+18461: I wonder what this castle
+was built for.{:clear }It´s pretty mysterious.
+---
+18462: Hmph. Not bad, Sora.
+You´ve grown stronger.{:clear }You don´t need my weapon, Soul Eater,
+or the power of the dark yet.
+---
+18463: Oh, phooey! I was all ready and raring to go,
+but I didn´t get a chance to fight!{:clear }We really can´t tell what´s going to
+happen! Keep your guard up!
+---
+18464: I wonder how far the King went.{:clear }I know he's strong enough to take care
+of himself, but I'm still worried.
+---
+18517: All three of us together like this reminds
+me of being back on the island.{:clear }If we all make it back together,
+let´s finish that raft of ours!
+---
+18519: I never dreamed I could return to this
+form. That´s one less thing to worry about.{:clear }Now I won´t be mistaken for a member
+of Organization {XIII}.
+---
+18688: Get a ◯ command!
+---
+18689: Get four ◯ commands!
+---
+18715: Defeat Xigbar!
+Remember to counter his attacks!
+Using reaction commands with {:icon dynamic-triangle}
+will make the battle easier!
+---
+18716: Organization {XIII}: Luxord (Gambler)
+---
+18717: Defeat Saïx!
+Use his weapon to your advantage!
+---
+18769: Laser
+---
+18770: Drain
+---
+18853: I´ll tell you why.
+---
+18854: ´Cause I´m not a total sap like you.
+---
+18864: The only member of Organization {XIII}
+left now is Xemnas.{:clear }He´s the most powerful of all. It won´t
+be an easy battle. Good luck.
+---
+18935: A heart is so much more than any system.
+---
+18936: I saw it when Roxas and Kairi crossed paths.{:delay F0 00}{:clear }{:delay 21 00}I knew. {:delay 39 00}{:clear }{:delay 1E 00}But I was too stubborn to accept it.
+---
+18937: It's always the same.{:delay 84 00}{:clear }I try to wrap my mind around things
+my heart already knows, only to fail.
+---
+18938: While I was trying to bring Sora back,
+I had so many plans in store.{:delay 2C 01}{:clear }{:delay 12 00}But once Sora was an acting force,
+they fell apart.
+---
+18939: All my research amounted to nothing,
+compared with that one boy's heart.
+---
+18940: I admit...my disregard brought chaos to
+more worlds than one.
+---
+18941: But what were YOU seeking?
+---
+18942: You erased me from the world,{:delay A2 00}{:clear }only to take my name{:delay 6C 00}{:clear }and continue research
+better left forgotten...
+---
+18943: Is this the answer you've been looking for?
+---
+18944: All that and more.{:delay 66 00}{:clear }{:delay 2A 00}I'm carrying on what you yourself began,
+and I'm creating a brand new world,{:delay 68 01}{:clear }one heart at a time.{:delay 6C 00}{:clear }{:delay 4E 00}I thought you'd praise me, but all you
+ever do is hold me back.
+---
+18945: I understand, though.{:delay 54 00}{:clear }{:delay 1B 00}Unlike me, you have a heart.
+And you're powerless to control it.{:delay 4E 01}{:clear }{:delay 2A 00}Consumed, by the jealousy you feel
+toward the student who surpassed you.
+---
+18946: Xehanort.{:delay 48 00}{:clear }{:delay 20 00}Foolish apprentice of a foolish man.{:delay CF 00}{:clear }{:delay 34 00}You have surpassed nothing--
+only proved how little we both know.
+---
+18947: We may profess to know the heart,
+but its essence is beyond our reach.
+---
+18948: We´re both ignorant--
+as oblivious as when we began.{:delay 1A 01}{:clear }{:delay 66 00}I´m afraid that any world you try to create...
+---
+18949: Any world of yours...
+would be an empire of ignorance.{:delay 1A 01}{:clear }{:delay 1D 00}That is why you and your creation
+are destined to fall!
+---
+19117: Maybe I didn't need to fight him after all.{:delay 96 00}{:clear }{:delay 1E 00}I think he left the Organization because...
+---
+19118: ...he really wanted to meet you.
+---
+19121: You held onto that charm. That talisman
+of reunion really worked!{:clear }I wanted to see you so badly, Sora.
+I missed you so much!
+---
+19122: In the past, I was overcome by the dark and
+betrayed you. Look what´s become of me.{:clear }I wasn´t sure I wanted to
+see you...but Kairi insisted.
+---
+19123: It´s amazing Kairi and you recognized
+Riku.{:clear }He looks just like Ansem. I couldn´t
+believe my eyes when I first saw him.
+---
+19124: So Riku was the one who´s been
+helping us all along.{:clear }You two must be best pals for him
+to change his look to help ya!
+---
+19149: We met up with the King and Kairi, and
+now Riku is with us! We´re unbeatable!{:clear }After all, Riku was chosen by the
+Keyblade, too.
+---
+19150: Last year we got separated from you
+and joined up with Riku.{:clear }He was really cold back then, but now
+he seems more like your friend.
+---
+19151: Every entry in Jiminy´s Journal
+has been unlocked.{:clear }Continue the adventure to define
+the question-marked entries.
+---
+19152: Hear me, Kingdom Hearts!{:delay A2 00}{:clear }It seems we must begin anew.
+---
+19153: Ah, but know this:{:delay 96 00}{:clear }{:delay 3C 00}I will give to you as many hearts as it takes.
+---
+19154: Mark my words!{:delay 78 00}{:clear }{:delay 30 00}You can no more be complete
+without me than I without you.
+---
+19349: Find Luxord´s card!
+---
+19379: Sorta makes ya wonder why
+we are scared of the dark.
+---
+19380: Just look there.
+---
+19543: What!?
+---
+19546: Use the Laser attack to destroy enemies from a distance!
+---
+19547: Use Drain to absorb enemy fire!
+---
+19571: Hurry! Without your help, Sora is doomed!
+---
+19572: Use Reflect to deflect laser attacks!
+---
+19586: They´re about to attack! Try using Stunt Dodge to avoid it!
+---
+19587: This place is going to explode! Your only hope is to use Stunt Dodge!
+---
+19588: Stop the energy core!
+---
+19589: Look out for enemies from above!
+---
+19590: Move close to the buildings for reaction commands!
+---
+19591: Knock enemies into the core to damage it!
+---
+19592: Defeat nearby enemies to unlock the barrier!
+---
+19593: The barrier has been unlocked!
+---
+19601: Energy charged! Use Megalaser for a powerful attack!
+---
+19602: Absorb enemy shots with {:icon dynamic-circle} to gather energy!
+---
+19603: The energy core has been stopped!
+---
+19604: Use {:icon dynamic-circle} to jump continuously and {:icon dynamic-square} in midair to glide!
+---
+19605: Xemnas is on top of the building!
+---
+19606: Defeat Xemnas!
+Keep an eye on Xemnas
+during the battle!
+---
+19607: Go after Xemnas!
+Use reaction commands to open paths!
+---
+19608: Go after Xemnas!
+Use reaction commands to open paths!
+---
+19609: Knock enemies into the core to damage it!
+Use reaction commands to save yourself
+in a pinch!
+---
+19610: Stop the energy core!
+Attack it accordingly!
+---
+19611: Defeat Xemnas!
+Remember to use strategical tactics you´ve learned!
+---
+19612: Defeat Xemnas!
+Use the Laser attack to destroy
+enemies from a distance and
+Drain to absorb enemy fire!
+---
+19613: Defeat Xemnas!
+Use {:icon dynamic-circle} to jump continuously and {:icon dynamic-square} in midair to glide!
+Using reaction commands will make the battle easier!
+---
+19618: Defeat Xemnas!
+Remember to use strategical tactics you´ve learned!
+---
+19761: 
+---
+19933: It's an order. Why do you hesitate?{:delay DC 00}{:clear }You, who has been ruthless towards those
+who turned their backs on the Organization.
+---
+19934: But it's not like that!{:delay 50 00}{:clear }He didn't betray us.
+He CAN'T come back!
+---
+19935: If he doesn't return,
+you know what you must do.{:delay E6 00}{:clear } {:delay 3C 00}{:clear }Or you will face the consequences.
+---
+19936: So you'll turn me into a Dusk...
+---
+19937: {:delay 28 00}{:clear }All right. I'll do it!
+If that's what you want.
+---
+19938: Do my eyes deceive me? Does he really
+have the power to wield the Keyblade?{:delay 4A 01}{:clear }He is nothing but a boy.
+---
+19939: Give him a chance. It means
+he's straight as an arrow.{:delay FA 00}{:clear }He's pure of heart,
+unlike all of us here.
+---
+19940: He had better be,
+or else he's worthless.
+---
+19941: I truly hope he's enjoying
+himself on his adventure.{:delay FA 00}{:clear } {:delay 3C 00}{:clear }Maybe he'd like a hand
+to determine his fate.
+---
+19942: Hey, as long as it works in our favor.{:delay 91 00}{:clear }We can let him do what he wants for now.
+Then we'll all jump in if needed.
+---
+19943: Those are bold words coming from you.{:delay AA 00}{:clear }Are you saying you'll volunteer to take
+care of it if things go wrong? Huh?
+---
+19944: What!? Me?{:delay 62 00}{:clear }No, you have the wrong guy.
+I'm not comfortable with that. 
+---
+19945: You act as though
+you have a conscience.{:delay AF 00}{:clear }When was the last time any
+one of us felt anything?
+---
+19946: Truer words were never spoken.{:delay AF 00}{:clear }Well, I suppose the fun will have to wait.
+---
+19947: Do you know what happens to those
+who lose their true purpose?{:delay D7 00}{:clear }Inevitably, they destroy themselves.
+---
+19948: Gentlemen.
+---
+19949: The hero of the Keyblade has
+embarked on a new adventure.{:delay 77 01}{:clear }Make sure it is one he will remember.{:delay 2C 01}{:clear } {:delay 50 00}{:clear }Now go.
+---
+19950: I passed on the message
+as you so desired.{:delay A5 00}{:clear }I told the young Sora to keep
+defeating the Heartless.
+---
+19951: Good.{:delay 4D 00}{:clear } {:delay 37 00}{:clear }Not only have you the power
+to inflict pain,{:delay D2 00}{:clear }you also have the power to plant seeds
+of doubt in one's receptive heart.
+---
+19952: Sora will soon begin to doubt himself.{:delay DC 00}{:clear } {:delay 0F 00}{:clear }It will cause him to hesitate, and
+that hesitation will turn to anger.{:delay 9F 01}{:clear }That anger will fuel him to get rid
+of his apprehension and move forward.{:delay CC 01}{:clear } {:delay 28 00}{:clear }He will pave the way for
+the future we desire.
+---
+19953: There's something I've meant to ask.
+---
+19954: About Axel.
+---
+19955: The poor fool.{:delay 82 00}{:clear }How long will he keep chasing the illusion of
+friendship, when he himself lacks emotion?{:delay C2 01}{:clear }Trying so hard to retrieve
+what he has lost,{:delay FA 00}{:clear }when it may never have existed
+in the first place.
+---
+19956: He deserves nothing more
+than our pity.
+---
+19957: Sora knows the truth now.{:delay 93 00}{:clear } {:delay 62 00}{:clear }The more Heartless that he defeats,{:delay 78 00}{:clear }the closer he is to becoming
+our perfect puppet.
+---
+19958: What does it matter really?{:delay 92 00}{:clear }Whatever his circumstances,{:delay 8B 00}{:clear }Sora has never been able to help himself
+from saving people from the Heartless.{:delay 18 01}{:clear } {:delay 2D 00}{:clear }It's what his pure little heart wants.
+---
+19959: There--the dice have been cast.{:delay C8 00}{:clear } {:delay 14 00}{:clear }Things are in motion.
+He can't stop this.
+---
+19960: Nothing is set in stone.{:delay 96 00}{:clear }If the dice aren't in your favor,
+you will share Demyx's fate.
+---
+19961: The fun is in not knowing, isn't it?{:delay A0 00}{:clear } {:delay 28 00}{:clear }What is the point of betting on something
+if you already know the outcome?
+---
+19962: Are you sure that defeating him
+won't derail the Organization's plan?
+---
+19963: If he is to die so easily,{:delay E6 00}{:clear } {:delay 2D 00}{:clear }he is of no use to us.
+---
+19964: That's exactly what I wanted to hear.{:delay 8E 00}{:clear }It's not in my nature to hold back.
+---
+19965: The house is looking pretty empty, huh?{:delay 96 00}{:clear }I thought I'd get a little enjoyment
+watching Axel throw one last tantrum.{:delay 40 01}{:clear }But he went a lot quieter than I thought.
+---
+19966: Perhaps he was ready for it.{:delay 82 00}{:clear } {:delay 32 00}{:clear }Perhaps he put his existence on the line,
+and won what he'd been longing for.
+---
+19967: Wait a minute, how would that even be
+possible? We don't exist, remember?{:delay 86 01}{:clear }What you're saying goes against
+the laws of nature.
+---
+19969: That's absurd.{:delay 46 00}{:clear } {:delay 0A 00}{:clear }He won nothing, and IS nothing.
+---
+19971: But weakness has the power to
+awaken that which is dormant.
+---
+19972: Is it clear that through his actions,
+however foolish they may have been,{:delay EA 01}{:clear }Axel has touched Sora's heart.{:delay F0 00}{:clear }Perhaps HE will soon awaken.
+---
+19973: Why don't you quit!?
+---
+19974: Come on, Sora.{:delay 6A 00}{:clear }I thought you were stronger than that.
+---
+19975: Get real. Look which one of us is winning.
+---
+19976: So it's true. You really are his Nobody.{:delay EE 00}{:clear }Guess DiZ was right after all.
+---
+19977: What are you talking about?
+---
+19978: I am me.{:delay 6E 00}{:clear }Nobody else!!!
+---
+19979: How many times do I hafta beat you!?
+---
+19980: All right.{:delay A4 00}{:clear }You've left me with no other choice.
+---
+19981: What?
+---
+19983: I have accepted it.
+---
+19984: DiZ... He could feel Sora.
+---
+19985: Oh, he told you how he "felt," did he?{:delay B3 00}{:clear } {:delay 40 00}{:clear }Ridiculous.
+---
+20360: Then, perhaps he bet his NON-existence.{:delay E6 00}{:clear }Either way, he came out a winner.
+---
+20361: Oh, Axel. A grifter till the end.
+---
+20362: He couldn't stand the emptiness
+of being without a heart.{:delay E6 00}{:clear }And THAT led to his demise.
+---
+20363: He was foolish and weak.
+---
+20542: A new enemy has materialized,
+and awaits Sora in one of the worlds.
+---
+20549: Defeat the man in black!
+Keep an eye out for reaction commands
+when he attacks!
+---
+20616: Press {:icon dynamic-triangle} to begin the duel! Catch him off guard and unleash your attacks!
+---
+21432: Hey, Riku?
+---
+21433: I wanted to thank Naminé, but...
+---
+21436: No way!
+---
+21437: It's too soon!
+You can't seriously get rid of him.
+---
+21438: A Nobody cannot feel anything.
+---
+21439: If he had met Sora,{:delay 74 00}{:clear }things might have been different.
+---
+21440: Zexion! Zexion!
+---
+21441: Right here. What is it?
+---
+21442: Where is Lord Xemnas?
+---
+21443: His usual spot.
+---
+21444: The Chamber of Repose?
+---
+21445: Yes. Go and see for yourself.
+---
+21446: That isn't funny.
+---
+21447: I suppose I have no choice but to wait.{:delay 82 00}{:clear }But the clock is ticking.
+Time is running out. What to do?
+---
+21448: Why is he never around when I need him?
+It's almost as if he knows I'm looking for him.
+---
+21451: As if! I'm doing my job.{:delay 96 00}{:clear }I'll have you know, I found one
+just yesterday. "Mar" something.{:delay 4A 01}{:clear }That puts the Organization's count at 11.{:delay C3 00}{:clear }And since I've been working so hard,
+I had Lexaeus take my place for the day.{:delay 4A 01}{:clear }I want to rest up for tomorrow, so I can
+wake up feeling nice and refreshed.
+---
+21452: Is that so? Well, then,
+I will leave you to it.{:delay D0 00}{:clear }I have work to catch up on.
+Good day.
+---
+21453: Oh, don't be like that.{:delay 7C 00}{:clear }Come on. Stay and talk.
+---
+21454: Isn't it time you told me
+about Xemnas's secret?
+---
+21456: Your point?
+---
+21457: The Chamber of Repose.
+---
+21458: If you recall, that's where we spent
+our time researching the darkness{:delay F0 00}{:clear }that resides within people's hearts.{:delay A0 00}{:clear }It's a graveyard that was sealed
+by order of Ansem the Wise.{:delay 18 01}{:clear }The first thing Xemnas did
+once he got rid of him{:delay C8 00}{:clear }was to undo the seal and
+build a room in the back.{:delay E6 00}{:clear } {:delay 50 00}{:clear }Ever since then, he holes himself up in that
+room when he can, and he talks to someone.{:delay 4F 01}{:clear } {:delay 14 00}{:clear }But who? For all I know,
+he's the only one in that room.
+---
+21459: Need I repeat myself about eavesdropping?
+---
+21460: Not eavesdropping. Couldn't hear
+what they were saying.{:delay AF 00}{:clear }Dying to find out what it was, though.{:delay 87 00}{:clear } {:delay 28 00}{:clear }You wouldn't know anything
+about it, would you?
+---
+21461: I know I would very much like
+to focus on my own duties.{:delay E6 00}{:clear }As you should with yours.{:delay 64 00}{:clear }For we need to prepare
+the new facility immediately,{:delay BE 00}{:clear }but there are only 11 of us
+in the organization.{:delay C8 00}{:clear }We're going to need a few
+more hands on deck.
+---
+21462: What new facility?{:delay 8C 00}{:clear } {:delay 28 00}{:clear }Oh, you mean Castle Oblivion?{:delay AA 00}{:clear } {:delay 23 00}{:clear }What does Xemnas plan on doing
+with that place, anyway?
+---
+21463: He already shared his intentions with us.
+---
+21464: But did you know there's something
+he DIDN'T share?
+---
+21465: The Chamber of Repose is part of a pair.
+The Chamber of Waking is the other.{:delay 5E 01}{:clear } {:delay 14 00}{:clear }Another graveyard, if you
+want to call it that.{:delay C8 00}{:clear }It was constructed by someone
+other than Xemnas himself.{:delay 04 01}{:clear }And that's where he'll find it.
+---
+21466: That's where he'll find his other{:delay 6E 00}{:clear }"friend."
+---
+21467: I have to release the power in my heart.{:delay DE 00}{:clear }The dark power that I've been holding back.
+---
+21468: Even...if it changes me forever.
+---
+21470: I couldn't bring myself to say it,{:delay 8C 00}{:clear }not until everything was back
+to the way it was before.
+---
+21471: Don't worry, we'll make that happen.{:delay A0 00}{:clear }Once this is over, you can
+thank her all you want.
+---
+21472: Yeah!
+---
+21624: This new knowledge will make him
+that much harder to control.
+---
+21632: You know, I don't like that place either.
+---
+21633: What about you, Zexion?
+What do you think?
+---
+21634: I think eavesdropping is intrusive.{:delay 78 00}{:clear }Why are you even here? You and Xaldin
+were tasked to recruit new members.
+---
+21635: Have you forgotten, or were you
+procrastinating?
+---
+21636: How long ago was it? When a bunch of
+warriors wielding key-shaped swords{:delay 3B 01}{:clear }appeared and unleashed a spectacular battle.{:delay B4 00}{:clear } {:delay 1E 00}{:clear }And when it was all over,{:delay 96 00}{:clear }all that was left was a man lying
+unconscious without his memories.
+---
+21637: Xemnas...er,{:delay A0 00}{:clear }I mean Xehanort was found by Ansem
+right around then, wasn't he?
+---
+21695: Yeah?
+---

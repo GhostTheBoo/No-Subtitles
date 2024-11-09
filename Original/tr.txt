@@ -1,0 +1,843 @@
+﻿849: We can get out by gathering the
+door´s lock data and freezing it.{:clear }The problem is, we don´t have any
+way to extract the data.
+---
+850: Users are amazing!
+I´ve never seen a program like this!{:clear }Now that I can use the solar sailer,
+I can access the MCP!
+---
+855: Sora!
+---
+856: Go on, show ´em who´s boss!
+---
+857: Who´re you?
+---
+858: I am Commander Sark.
+---
+859: A Heartless commander?
+---
+860: Observe.
+---
+861: Okay, you´re the boss! I get it.
+---
+862: Man, what kind of world is this, anyway?
+---
+863: You´re inside a mainframe computer system.
+---
+864: A what system?
+---
+865: A computer system--for processing data.{:delay A2 00}{:clear }{:delay 3C 00}{:clear }This system is a copy of one created
+by a corporation called ENCOM.{:delay E6 00}{:clear }{:delay 2A 00}{:clear }The original program
+was destroyed.
+---
+866: But this copy was acquired by another User.
+---
+867: The new User updated and
+customized the programs,{:delay 96 00}{:clear }renaming the system "Hollow Bastion OS."
+---
+868: He used the system for
+town maintenance,{:delay 78 00}{:clear }{:delay 1E 00}{:clear }and to advance his private research.
+---
+869: My name is Tron.{:delay 3C 00}{:clear }{:delay 3C 00}{:clear }I´m a security program.{:delay 48 00}{:clear }{:delay 36 00}{:clear }But now I´m under arrest,
+same as you.
+---
+870: Did you guys get any of that?
+---
+871: Gawrsh...{:delay 42 00}{:clear }You know...maybe we should
+just introduce ourselves.
+---
+872: I´m Sora.
+---
+873: And I´m Donald.
+---
+874: Nice to meet´cha, Tron.
+I´m Goofy.
+---
+875: With that configuration,
+you must be Users.
+---
+876: Users?
+---
+877: You´d better get out of here quickly.{:delay 5A 00}{:clear }{:delay 27 00}{:clear }Who knows what the MCP will do to you?
+---
+878: MCP?
+---
+879: The Master Control Program.
+---
+880: It controls the whole system.
+If you idle here, you will be de-rezzed.
+---
+881: De-rezzed!?
+---
+882: So, how do we get outta here!?
+---
+883: This terminal could´ve gotten
+you back to the User world.
+---
+884: But the MCP cut the power
+50 microcycles ago.
+---
+885: If we could bring the energy core
+in the canyon online,{:delay A0 00}{:clear }we could power it back up.
+---
+886: The problem is--we´re
+stuck in this cell.
+---
+887: We´re not going anywhere unless
+we unlock the energy fields.
+---
+888: Master Control. 
+Why not just de-rezz Tron?
+---
+889: I still haven´t located the
+password to the dataspace.
+---
+890: What about a logic probe? 
+With all your processing power...
+---
+891: Out of the question.{:delay 3C 00}{:clear }{:delay 2F 00}{:clear }The current environment hampers
+the processing power{:delay B4 00}{:clear }needed for such an analysis.
+---
+892: You´re dismissed, Sark.{:delay 60 00}{:clear }Stop any remaining anomalies
+in the system--or else.{:delay D2 00}{:clear }End of line.
+---
+893: Acknowledged.
+---
+894: {:unk13 5E 01 96 00}{:unk08 01 00 05}Remarkable...{:clear }It seems you have some
+unique functions.
+---
+895: {:unk13 F0 00 46 00}{:unk08 01 01 06}I´ll go with you to
+the canyon.{:clear }You´ll need someone
+who can interface with
+the energy core, right?
+---
+896: {:unk13 96 00 78 00}{:unk08 01 01 05}If you say so...{:clear }Thanks, Tron.
+---
+897: This is the energy core.
+---
+898: {:unk13 0E 01 64 00}{:unk08 01 01 06}Mission accomplished?
+---
+899: {:unk13 DC 00 50 00}{:unk08 01 00 05}Yes.
+---
+900: {:unk13 FA 00 46 00}{:unk08 01 00 05}Now...will you do something for me?
+---
+901: {:unk13 04 01 5A 00}{:unk08 01 01 06}You got it!
+---
+902: {:unk13 1F 01 2A 00}{:unk08 01 00 05}Don´t you want to hear what it is first?
+---
+903: {:unk13 7C 00 AC 00}{:unk08 01 01 04}You helped us!
+Now it´s our turn.
+---
+904: {:unk13 4A 01 3C 00}{:unk08 01 00 05}You guys really
+are Users.{:clear }Your actions are
+totally illogical.
+---
+905: {:unk13 7C 01 3C 00}{:unk08 01 00 05}Let´s hurry back
+to the pit cell.
+---
+906: {:unk13 A0 00 C8 00}{:unk08 01 01 06}Where´s that again?
+---
+907: {:unk13 5E 01 64 00}{:unk08 01 00 05}That´s the sector
+where we met.
+---
+908: {:unk13 DC 00 50 00}{:unk08 01 01 06}Roger!
+---
+909: So what did you want us to do?
+---
+910: Find my User. He´ll give you the
+password to access the DTD.
+---
+911: You bet!
+---
+912: So, um...
+---
+913: DTD is the name my User gave
+to the dataspace.{:delay D2 00}{:clear }Copies of all the original system
+programs are stored there,{:delay CD 00}{:clear }along with anything that´s
+sensitive or restricted.
+---
+914: Is there stuff about the Heartless,
+or Organization {XIII}?
+---
+915: Hmm... Most likely.
+---
+916: A number of my functions were appropriated
+when I last took on the MCP.{:delay FA 00}{:clear }That´s why I need the password.
+---
+917: If I can get inside the DTD, I can access
+my original backup program{:delay EA 00}{:clear }and restore all my functions.
+---
+918: Then, I´ll be able to put this
+system back the way it was{:delay AE 00}{:clear }before the MCP got control
+and changed everything. {:delay AA 00}{:clear }The way it was supposed to be--
+a free system for you--the Users.
+---
+919: Gee, Tron, ain´t the MCP one
+of those programs, too?
+---
+920: Do ya know who it was who made it?
+---
+921: Actually...
+---
+922: I don´t know.
+---
+923: Okay, we´ll just have to find your user
+and ask him. What´s his name?
+---
+924: You mean you don´t know? {:delay 48 00}{:clear }{:delay 54 00}{:clear }My User is the user
+of this system: {:delay 7E 00}{:clear }{:delay 30 00}{:clear }Ansem the Wise.
+---
+925: Ansem!?
+---
+926: Looks like the MCP´s on to us.
+---
+927: I´ll keep this terminal up and running.
+You better exit the system, now!
+---
+928: Sure... But Tron...Ansem is...
+---
+929: We´ll get ya the password!
+---
+930: Okay. You´re good to go.{:delay 91 00}{:clear }{:delay 0A 00}{:clear }Hurry!
+---
+931: {:unk13 AA 00 64 00}{:unk08 01 01 06}Gawrsh, I wonder
+where Tron is.
+---
+932: {:unk06 02}{:unk13 90 01 AA 00}{:unk08 03 00 06}Don´t touch
+that!
+---
+933: {:unk13 C8 00 64 00}{:unk08 01 01 06}Huh?
+---
+934: {:unk06 02}{:unk13 AA 00 3C 00}{:unk08 03 00 05}Goofy!
+---
+935: {:unk13 68 01 50 00}{:unk08 01 00 05}Uhh...I didn´t do it!
+---
+936: I didn´t touch nothin´!
+---
+937: Welcome to the game grid.
+---
+938: Game grid?
+---
+939: That´s right, you´ve been chosen
+to play a few games.{:delay D2 00}{:clear }Lose, and you will be subject
+to immediate de-resolution.{:delay D2 00}{:clear }Win?
+---
+940: Well,{:delay 3C 00}{:clear }{:delay 66 00}no one wins.
+---
+941: We´re not gonna play your games!
+---
+942: You have no choice.
+---
+943: Well then, get on with it!
+---
+944: Tron!
+---
+945: I don´t understand. Why are you here?
+---
+946: We came to give you the password.
+---
+947: Why didn´t you just transmit the data?
+---
+948: Transmit?
+---
+949: Hey, are you okay?
+---
+950: I´ll be all right...once we access the DTD.
+---
+951: {:unk13 B6 00 96 00}{:unk08 01 01 06}All right,
+what´s the
+password?
+---
+952: {:unk13 9A 01 4B 00}{:unk08 01 00 06}Well...{:clear }Belle,
+Snow White...
+---
+953: {:unk13 54 01 3C 00}{:unk08 01 01 06}Aurora, Alice, Jasmine,
+Cinderella...
+---
+954: {:unk13 18 01 82 00}{:unk08 01 01 06}Kairi.
+---
+955: {:unk13 0E 01 32 00}{:unk08 01 00 05}Kairi, got it.
+---
+956: {:unk06 02}{:unk13 D2 00 3C 00}{:unk08 03 00 05}That did it!
+---
+957: {:unk13 FF 00 3C 00}Now switching DTD over from
+hibernation to active mode.{:clear }This process will take some time.{:clear }Please enjoy a game while
+the process is running.
+---
+958: {:unk06 02}{:unk13 2C 01 46 00}{:unk08 03 00 05}Oh, no!
+---
+959: {:unk13 C8 00 46 00}{:unk08 01 00 05}Not another game!
+---
+960: {:unk13 B4 00 3C 00}{:unk08 01 01 06}No, it´s the DTD´s final
+security routine.{:clear }This isn´t a game.
+Stay focused!
+---
+961: I´m as good as new! All my functions
+have been restored!
+---
+963: Finally.{:delay 72 00}{:clear }I have full access to the DTD.{:delay C0 00}{:clear }{:delay 2A 00}{:clear }My takeover of the system
+is now complete.{:delay DE 00}{:clear }I might have anticipated
+such a simple password.
+---
+964: What´s this? An emergency destruct
+program for the town.{:delay 04 01}{:clear }Let´s see how it performs.
+---
+965: No!
+---
+966: Program! You changed the password!
+---
+967: There, that should buy us some time.
+---
+968: Tron! Tell us what´s going on!
+---
+969: The MCP´s loading a hostile
+program into the I/O tower.
+---
+970: What do we do?
+---
+971: We´ve got to protect the User town.
+---
+972: Let´s head to the tower!
+---
+973: {:unk13 3B 01 30 00}{:unk08 01 00 05}It must be total chaos outside.
+---
+974: {:unk13 82 00 BE 00}{:unk08 01 01 04}I think there´s
+gonna be trouble
+INSIDE, too...
+---
+975: I´m disappointed in you, Program.{:delay 72 00}{:clear }{:delay 18 00}Why do you insist on allying
+with these selfish Users?
+---
+976: Because I want to help them.{:delay 8A 00}{:clear }{:delay 2E 00}Something written into my code
+commands me to do what is right.
+---
+977: Really?{:delay 36 00}{:clear }And what command would that be?
+---
+978: I can´t really say for sure.
+---
+979: Friends--{:delay 1F 00}{:clear }{:delay 1E 00}{:clear }They help each other, that´s all.{:delay 4E 00}{:clear }{:delay 6C 00}Uh-oh--look out!
+---
+980: I really owe you one.{:delay 4A 00}{:clear }{:delay 2A 00}{:clear }With all my functions up and running, I
+think I´ve got a chance of getting{:delay C8 00}{:clear }system control away from the MCP.
+---
+981: Now I´d better get to work.{:delay 7E 00}{:clear }{:delay 6C 00}{:clear }It´s what my User would want.
+---
+982: What Ansem would want...
+---
+983: Listen, Tron.{:delay 3C 00}{:clear }{:delay 3C 00}{:clear }We didn´t get the password from Ansem.{:delay 7E 00}{:clear }{:delay 3C 00}{:clear }We just sort of found it,{:delay 54 00}{:clear }{:delay 1E 00}{:clear }back in the User world.{:delay 3C 00}{:clear }{:delay 2A 00}{:clear }By accident.
+---
+984: And one more thing...{:delay 54 00}{:clear }{:delay 18 00}{:clear }Ansem--{:delay 2A 00}{:clear }{:delay 1A 00}{:clear }he was our enemy.
+---
+985: I mean...he still is...I guess.
+---
+986: Well, actually...{:delay 3C 00}{:clear }{:delay 42 00}{:clear }he´s my enemy, too.
+---
+987: What do you mean?
+---
+988: Ansem took ENCOM´s original system
+and customized it for his own use.{:delay 04 01}{:clear }{:delay 36 00}{:clear }I was part of the original system,
+and Ansem modified me, too.
+---
+989: So that makes him my User.
+---
+990: But Ansem is also the one
+who brought back the MCP.{:delay C0 00}{:clear }{:delay 78 00}{:clear }The Ansem I first knew wouldn´t do that. {:delay 84 00}{:clear }{:delay 5A 00}{:clear }I´m sorry I didn´t tell you.
+---
+991: That´s okay...but{:delay 3C 00}{:clear }{:delay 20 00}{:clear }now I REALLY don´t get it.
+---
+992: I don´t...understand it either.{:delay 96 00}{:clear }{:delay 66 00}{:clear }But I think Users, like you, are going to be
+the ones who will finally figure it out.
+---
+993: You have the ability to take
+illogical routes{:delay AA 00}{:clear }and still arrive at the answers you seek.
+---
+994: Now go--before the MCP starts
+acting up again!
+---
+995: Any data you need from the DTD can be accessed
+directly through my User´s terminal.{:delay 0E 01}{:clear }{:delay 2A 00}{:clear }I´ll keep a dedicated access
+channel open for you.
+---
+996: I changed the password,{:delay 48 00}{:clear }so you won´t have to worry
+about the MCP for a while.
+---
+997: Access channel?
+---
+998: I knew you´d ask.
+---
+999: It´s a very important link between our worlds.
+It´s how we stay connected.
+---
+1000: You...my friends...are the new password.
+---
+1001: Thanks Tron! Take care!
+---
+1002: You too! And give my best to the Users!
+---
+1003: Gawrsh, I hope Tron´s okay.
+---
+1004: Me, too. Let´s head for the game grid.
+---
+1005: Great! The terminal works!
+---
+1006: Let´s go!
+---
+1007: Tron!
+---
+1008: Careful...! Watch out!
+---
+1009: Hold on!
+---
+1010: {:unk13 D2 00 3C 00}{:unk08 01 00 05}You really saved me.
+---
+1011: {:unk13 90 01 64 00}{:unk08 01 00 05}Don´t mention it!
+---
+1012: {:unk13 AA 00 C8 00}{:unk08 01 01 06}What´s going on here?
+---
+1013: {:unk13 AA 00 46 00}{:unk08 01 01 06}The MCP is ready to
+wage all-out war
+against the Users.{:clear }What´s been happening
+on the outside?
+---
+1014: {:unk13 B4 00 46 00}{:unk08 01 01 06}Well, there´s this machine for
+making Heartless--it´s gone
+totally berserk...{:clear }The town´s control system
+is having problems, too.
+---
+1015: {:unk13 18 01 46 00}{:unk08 01 01 06}But Cid´s putting together
+a program that can de-rezz
+the MCP.{:clear }Once we pick it up at the I/O
+tower, he thinks we can use it
+to stop the MCP for good.
+---
+1016: {:unk06 02}{:unk13 82 00 3C 00}{:unk08 03 01 06}Let´s try it!
+---
+1017: {:unk06 02}{:unk13 40 01 78 00}{:unk08 03 01 06}Great!
+---
+1018: {:unk13 FA 00 32 00}{:unk08 01 00 05}So who´s this Cid?
+---
+1019: {:unk13 AA 00 3C 00}{:unk08 01 01 06}He´s a friend of ours.{:clear }Leon, Merlin,
+Aerith, Yuffie...{:clear }They´re all on the outside
+worrying about you, Tron.
+---
+1020: {:unk13 36 01 3C 00}{:unk08 01 00 05}I must have a lot
+of User friends.
+---
+1021: {:unk13 FA 00 50 00}{:unk08 01 00 05}That program
+oughta be done by
+now, don´tcha think?
+---
+1022: {:unk06 02}{:unk13 90 01 B4 00}{:unk08 03 00 05}To the tower!
+---
+1023: {:unk13 64 00 50 00}{:unk08 01 01 05}Let´s go!
+---
+1024: Almost there!
+---
+1025: Outta the way!
+---
+1026: Nothing´s come in yet.
+---
+1027: Leon! Come onnn!
+---
+1028: There!
+---
+1029: All right!
+---
+1030: What´s it like?
+---
+1031: This is very strange...
+---
+1032: That´s Merlin´s magic!
+---
+1033: Huh?
+---
+1035: Meaning...we´re set?
+---
+1036: Well, like you Users say...
+we won´t know till we give it a try!
+---
+1037: We´ll need a sailer to reach the MCP,{:delay 78 00}{:clear }so let´s get to the simulation hangar!
+---
+1038: You´ve got to keep a lookout.{:delay 54 00}{:clear }{:delay 19 00}The MCP isn´t going to just let us waltz in.
+---
+1039: The MCP is straight ahead.
+---
+1040: Time to settle things for good.
+---
+1041: Who was that?
+---
+1042: Sark.{:delay 3F 00}{:clear }The MCP´s number two.
+---
+1043: Tenacious little bugs! Your time is up.{:delay B8 00}{:clear }{:delay 32 00}Prepare for de-resolution!
+---
+1044: You´re very persistent, Tron.
+---
+1045: I´m also better than you.
+---
+1046: {:delay 3C 00}We...would have made a great team...
+---
+1047: Now for the MCP!
+---
+1048: This thing is the MCP?
+---
+1049: That´s it. Ugly, isn´t it?
+---
+1050: Tron...{:delay 3E 00}{:clear }Don´t you understand?{:delay 78 00}{:clear }We don´t need Users.{:delay 99 00}{:clear }We´ve advanced--
+they´re superfluous.{:delay F0 00}{:clear }Be a part of me, and together the
+world will be ours to control!
+---
+1051: MCP. You still don´t get it,
+do you?
+---
+1052: Sark...
+---
+1053: Sark!{:delay 30 00}{:clear }{:delay 24 00}All my functions are now yours!
+---
+1054: We did it!
+---
+1055: I see Tron has a silly side, too.
+---
+1056: I learned it from you.
+---
+1057: Of course, I do have
+my silly limits.
+---
+1058: Okay, then I´ll tweak your program
+when I get back to the User world.
+---
+1059: You? Maybe we better not try that.
+---
+1060: Aww... How ´bout it, guys?{:delay 6E 00}{:clear }{:delay 17 00}{:clear }Singin´ Tron? Dancin´ Tron!{:delay 78 00}{:clear }{:delay 1A 00}{:clear }Sound good?
+---
+1061: Yeah!
+---
+1062: {:delay 5A 00}Okay, okay, fine.
+But before I crash--
+---
+1063: Sora, Donald, Goofy... {:delay E2 00}{:clear }and all the Users out there...{:delay E9 00}{:clear }Thank you...
+---
+1064: You really helped me.
+You made me so much stronger.
+---
+1065: You taught me what friendship
+is truly all about.
+---
+1066: And, I´ll never forget it.{:delay 4E 00}{:clear }{:delay 30 00}As soon as I met you, I knew we were
+going to defeat the MCP and{:delay D8 00}{:clear }free the system.
+---
+1067: Isn´t this what Users do when
+they´re sorry to say good-bye?
+---
+1068: Uhhh...it´s a first for me.
+---
+1069: Gawrsh, Tron, it´s like a promise that
+we´ll see each other again real soon.
+---
+1070: Okay. Well, then...
+---
+1071: I promise.
+---
+1072: Where are you going?
+---
+1073: Tron...
+---
+1074: {:icon dynamic-triangle}Journal
+---
+1075: Research Lab
+---
+1076: Light Cycle
+---
+1077: Guide
+---
+1078: Test 1
+---
+1079: Transports current user
+to research lab.
+---
+1080: Test 2
+---
+1081: Light Cycle
+---
+1082: Begin Light Cycle games.
+---
+1083: Light Cycle Minigame Guide #2
+---
+1084: Guide´s Guide #0
+---
+1085: Confirm Light Cycle
+controls.
+---
+1086: Guide´s Guide #2
+---
+1087: Yes
+---
+1088: No
+---
+1089: Make a selection.
+---
+1090: Execute this selection?
+---
+8053: Light Cycle
+---
+8054: Light Cycle Mission Guide #0
+---
+8055: Transports current user
+to game area.
+---
+8056: Light Cycle Mission Guide #2
+---
+8133: Find the real parts!
+---
+8134: Find the real parts
+among the fake parts!
+---
+8135: Fill the gauge and stop all the monitors!
+---
+8136: Fill the gauge and
+freeze all the monitors!
+---
+8137: Challenge: Defeat all of the enemies!
+---
+8138: Defeat all of the Heartless!
+Using reaction commands with {:icon dynamic-triangle}
+will make the battle easier!
+---
+8139: Defeat all of the Heartless and head for the I/O Tower!
+---
+8140: Defeat all of the Heartless and
+head for the I/O Tower!
+Use Limits and Drives accordingly
+while fighting together with friends!
+---
+8141: The solar sailer is overloaded! Eliminate the enemies!
+---
+8142: The solar sailer can´t last too much longer!
+Defeat the enemies to keep the ship flying!
+---
+10446: There´s a power booster for me!
+---
+10447: And flight routines
+for the solar sailer!
+---
+13002: Oh boy!
+---
+15145: All right! It looks like we
+can escape through there!
+---
+16135: Jolt the parts!
+---
+16136: Look out for the parts that change color!
+---
+16137: Stop the monitor!
+---
+16138: Two more to go!
+---
+16139: One more to go!
+---
+16838: With this much weight, the solar sailer won´t be able to fly!
+---
+16997: The power is off.
+---
+16998: You don´t know how to operate this.
+---
+16999: It´s locked, and can´t be
+operated from here.
+---
+17324: The Delete ability requires Tron´s help!
+---
+17873: The MCP is originally a data
+acquisition program.{:clear }If you hadn´t rescued me, it would
+have stolen all my data.
+---
+17874: Gwah... This is some place we´ve
+been taken to.{:clear }Everything´s sparkling so much it´s
+making me dizzy!
+---
+17875: Hey, this is the room we were
+locked in when we first came here, right?{:clear }We opened the lock by gathering up
+data, didn´t we?
+---
+17876: We can get to the {:theme 0A}game area {:reset}Tron is
+in from the terminal! Let´s hurry!
+---
+17877: You mean the door-thingy blocking
+the exit is locked, right?{:clear }In that case, shouldn´t your Keyblade
+be able to open it, Sora?
+---
+17878: Apparently we can get to the
+Dataspace from the {:theme 0A}Canyon{:reset}.{:clear }The shining red wall should show us the way.
+---
+17879: Tron´s been keeping the MCP in
+check so far, right?{:clear }But if the MCP´s interfered with the
+outside, Tron may be in trouble!
+---
+17880: That thing in the center´s the {:theme 0A}energy
+core{:reset}. Let´s try accessing it.{:clear }We may be able to find parts to
+reboot from all the junk.
+---
+17881: According to Tron, this is kind of like
+a junkyard.{:clear }I wonder what all the junk in here
+used to be.
+---
+17882: The "MCP" thing rules this world,
+right?{:clear }Then we´d better search the {:theme 0A}energy
+core {:reset}before it finds us out.
+---
+17883: I disengaged the security program.
+Now the lift to the {:theme 0A}I/O tower {:reset}should work.{:clear }Hurry! The lift´s straight ahead out
+of this room!
+---
+17884: The outside´s already bad enough
+with Heartless and Nobodies!{:clear }Any more problems, and the town will
+fall apart!
+---
+17885: We can extract the data later.
+Let´s go to the {:theme 0A}I/O tower{:reset}!
+---
+17886: More dangerous programs are sure
+to follow. To fight these guys...{:clear }we should delete the enemy data
+to limit their movements.
+---
+17887: I´ll stay here to make sure the MCP
+doesn´t cause any more trouble.{:clear }The {:theme 0A}User world {:reset}is in trouble. You
+should hurry back through this terminal.
+---
+17888: We gotta stop ´em before
+they get out.{:clear }Hurry to the next room,
+let´s get them there!
+---
+17889: It looks like this is the endgame.{:clear }I wonder what the solar sailer will be
+like. I´m looking forward to this!
+---
+17890: We can get back to Hollow Bastion
+through the terminal gizmo,{:clear }but right now, we need to help Tron!
+---
+17891: We can get to the {:theme 0A}simulation hangar{:reset}
+by leaving here and heading straight.
+---
+17892: The MCP is well-protected.
+First we´ll have to hack his defense.{:clear }Then we can start deleting him until
+he´s erased. He´s only data, after all.
+---
+17893: If we can just defeat the MCP, the
+outside city should return to normal.{:clear }If we don´t do something, Leon and
+the others don´t stand a chance.
+---
+17894: The time´s finally come to settle
+things with the MCP.{:clear }The MCP still has lots of minions.
+Be careful, everyone.
+---
+17895: The solar sailer doesn´t have a
+defense system.{:clear }The MCP isn´t stupid. It´ll attack the
+simulation. We´ll have to defend it.
+---
+17896: Did you hear that? The solar sailer
+moves on waves of light.{:clear }If it´s too heavy, it´ll slip off the
+waves and eventually fall.
+---
+17897: The view´s great, but I feel like a
+sitting duck for the enemy.
+---
+17898: I had to jump down there to get to
+the system core.{:clear }I´m sorry for causing
+you confusion.
+---
+17899: I´m glad that MCP is gone.
+I bet Tron is relieved, too!
+---
+17900: We´ve been to a lot of different
+worlds, but this one takes the cake!{:clear }I still can´t believe everything here
+is data!
+---
+18381: We need a password to access
+the DTD.{:clear }Please, try to find the password in
+the outside world.
+---
+18712: Defeat the hostile program!
+Fill the gauge and use Freeze!
+---
+18713: Eliminate Sark!
+Defend yourself then move in with a counterattack!
+---
+18714: Destroy the MCP!
+Break through the defensive walls
+and Delete the MCP!
+---
+18729: Attack
+---
+18730: Charge
+---
+18731: Guard
+---
+18732: Special Attack
+---
+18951: Tron learned a new ability.
+---
+18952: Tron learned a new ability.
+---
+19112: You can´t ride it without the solar sailer.
+---
+19544: Defeat 5 of the Heartless!
+---
+19545: Clear the enemies and head for the goal!
+---
+19567: Use Attack, Charge, and Guard to
+defeat 5 of the Heartless!
+---
+19568: Use Attack, Charge, and Guard to
+clear the enemies and head for the goal!
+---
+19760: 
+---
+21558: {:delayandfade 07 B4} 
+Using the Keyblade's power, Sora and his
+friends manage to escape from the cell.
+ 
+There's no time to waste! Together with
+Tron, they run to the canyon in order to
+activate the energy core.
+ 
+ 
+ 
+ 
+
+---
+21559: {:delayandfade 07 B4} 
+Energy core activation complete.
+ 
+They did it!
+ 
+Tron has a favor to ask, but first, they
+head back to the pit cell, as Tron's
+request will require Sora and his friends
+to return to the real world.
+ 
+ 
+
+---
+21560: {:delayandfade 07 B4} 
+Once they access the DTD, Sora relays
+the password to Tron.
+ 
+It is composed of the names of the Seven
+Princesses: Belle, Snow White, Aurora,
+Alice, Jasmine, Cinderella, and Kairi. 
+ 
+ 
+ 
+ 
+
+---
+21561: {:delayandfade 07 B4} 
+Sora and Tron reunite just in time to learn
+the MCP is preparing to engage in war with
+the Users.
+ 
+The only solution is to de-rezz the MCP.
+They rush to the I/O tower. They have to
+make it!
+ 
+ 
+ 
+
+---

@@ -1,0 +1,161 @@
+﻿16180: You have arrived.
+---
+16181: I´ve been to see him...{:delay 78 00}{:clear } {:delay 78 00}{:clear }He looks a lot like you.
+---
+16182: Who are you?
+---
+16183: I´m what´s left.{:delay 96 00}{:clear }{:delay 28 00}{:clear }Or...{:delay 54 00}{:clear }maybe I´m all there ever was.
+---
+16184: I meant your name.
+---
+16185: My name is of no importance.{:delay D8 00}{:clear }What about you?{:delay 9C 00}{:clear }Do you remember your true name?
+---
+16186: My true name...is...
+---
+16187: End of the road.
+---
+16188: Yep.
+---
+16189: Put me down. I can walk.
+---
+16190: You know...{:delay 90 00}{:clear }maybe the darkness has gotten to me, too.
+---
+16191: Riku!
+---
+16192: This world is perfect for me.{:delay D2 00}{:clear }If this is what the world really is--{:delay C6 00}{:clear }just this--{:delay A8 00}{:clear }then maybe I should fade back into darkness.
+---
+16193: Riku...
+---
+16194: If the world is made of light and darkness...{:delay B4 00}{:clear } {:delay 5A 00}{:clear }We´ll be the darkness.
+---
+16195: Yeah.{:delay 76 00}{:clear }The other side...{:delay 8A 00}{:clear }the realm of light is safe now.{:delay 90 00}{:clear }Kairi, the King, and the others are there.
+---
+16196: That´s what I mean.{:delay 42 00}{:clear } {:delay 6C 00}{:clear }Hey, Sora...{:delay A2 00}{:clear }Could you help me?
+I want to get down to the water.
+---
+16197: At least the waves sound the same.
+---
+16198: What I said back there...{:delay 8B 00}{:clear }about thinking I was better
+at stuff than you...
+---
+16199: 
+---
+16200: To tell you the truth, Sora...{:delay D2 00}{:clear }I was jealous of you.
+---
+16201: What for?
+---
+16202: I wished I could live life the way you do.
+Just following my heart.
+---
+16203: Yeah, well, I´ve got
+my share of problems, too.
+---
+16204: Like what?
+---
+16205: Like...wanting to be like you.
+---
+16206: {:delay 8A 00}{:clear }Well, there is one advantage to being me...{:delay 38 01}{:clear }Something you could never imitate.
+---
+16207: Really? What´s that?
+---
+16208: Having you for a friend.
+---
+16209: Then I guess...{:delay 6B 00}{:clear }I´m okay the way I am.{:delay 97 00}{:clear }I´ve got something
+you could never imitate too.
+---
+16210: Sora?
+---
+16211: 
+---
+16212: I think it´s for you.
+---
+19629: Thinking of you, wherever you are.{:delay 78 00}{:clear } {:delay 56 00}{:clear }We pray for our sorrows to end,{:delay 78 00}{:clear } {:delay 47 00}{:clear }and hope that our hearts will blend.
+---
+19630: Now I will step forward
+to realize this wish.{:delay B4 00}{:clear }{:delay 4E 00}{:clear }And who knows:
+---
+19631: Starting a new journey may not be so hard{:delay B4 00}{:clear }{:delay 30 00}{:clear }or maybe it´s already begun.{:delay 66 00}{:clear }{:delay 5F 00}{:clear }There are many worlds,{:delay 54 00}{:clear }{:delay 36 00}{:clear }but they share the same sky--{:delay 7E 00}{:clear }{:delay 3C 00}{:clear }one sky,{:delay 38 00}{:clear }{:delay 36 00}{:clear }one destiny.
+---
+19632: Light.
+---
+19633: The door to light...
+---
+19634: We´ll go together.
+---
+19635: Yeah.
+---
+19636: Sora! Riku!
+---
+19637: W-We´re back.
+---
+19638: You´re home.
+---
+19639: Nothing´s changed, huh?
+---
+19640: Nope. Nothing will.
+---
+19641: What a small world.
+---
+19642: But part of one that´s much bigger.
+---
+19643: Yeah.
+---
+19644: Hey Riku...what do you think it was--
+the door to the light?
+---
+19645: This.
+---
+19646: This?
+---
+19647: Yeah. It´s always closer than you think.
+---
+19648: Sora! Riku!
+---
+19649: Hey, what's up?
+---
+19742: Look.
+---
+19743: From the King?
+---
+19843: 
+---
+19844: 
+---
+19845: 
+---
+19846: 
+---
+19847: 
+---
+19848: 
+---
+19849: 
+---
+19850: 
+---
+19851: 
+---
+19852: 
+---
+19853: 
+---
+19854: 
+---
+19855: 
+---
+19856: 
+---
+19858: 
+---
+19859: 
+---
+19917: 
+---
+19918: 
+---
+19929: 
+---
+19930: 
+---
+19931: 
+---
